@@ -1,0 +1,11 @@
+{
+  "types": {
+    "2": "number",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "3. Generation": "number",
+    "n": "number",
+    "test": "number"
+  }
+}

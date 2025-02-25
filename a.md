@@ -1,0 +1,1 @@
+![[vampire the masqurade sheet.png|700]]
