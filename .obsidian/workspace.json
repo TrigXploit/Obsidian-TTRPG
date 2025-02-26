@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "learning yamal, dataview and so on/creating a character sheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "creating a character sheet"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "learning yamal, dataview and so on/creating a character sheet.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "creating a character sheet"
             }
           }
         ]
@@ -203,10 +203,10 @@
   },
   "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
-    "learning yamal, dataview and so on/character template.md",
     "home.md",
-    "learning yamal, dataview and so on/to learn.md",
     "learning yamal, dataview and so on/creating a character sheet.md",
+    "learning yamal, dataview and so on/character template.md",
+    "learning yamal, dataview and so on/to learn.md",
     "a.md",
     "vampire the masqurade sheet.png",
     "Dennis/Dennis.md",
