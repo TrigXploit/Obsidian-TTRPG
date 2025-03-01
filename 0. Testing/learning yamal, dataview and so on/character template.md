@@ -16,6 +16,12 @@ this is a test of something called EMSP or empty space link here: https://symbl.
 here are 3 lines of it
  
  
+
+| aaaa |     |
+| ---- | --- |
+| aa   |     |
+| aas  |     |
+
  
 ### testing
 >[!infobox]+
