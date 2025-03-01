@@ -10,7 +10,7 @@ just a small list of things to remember when raging
 As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 - **Reckless Attack** *before attacking* you and opponents have advantage on attacks
 - **Healing Hands** *As an action*,  touch and heal  for **3d4** hit points.
-- **Warrior of the Gods** *As a Bonus Action* Roll 1-5 d12 and heal 
+- **Warrior of the Gods** *As a Bonus Action* Roll 1-5 **d12** and heal that amount
 - **Celestial Revelation** *As a bonus action* transform into **Radiant Consumption**
 
 >[!infobox]+
@@ -42,6 +42,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 >  - start of list
 > ---
 > **prerequrisite:**
+> 
 > none
 > 
 
