@@ -12,6 +12,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 - **Healing Hands** *As an action*,  touch and heal  for **3d4** hit points.
 - **Warrior of the Gods** *As a Bonus Action* Roll 1-5 **d12** and heal that amount
 - **Celestial Revelation** *As a bonus action* transform into **Radiant Consumption**
+- **Blessed sleep**  Youch a body with a soul, connected to seperate the connection between them
 
 >[!infobox]+
 ># Rage
@@ -47,6 +48,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 > 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-### combat combos
 
+### combat combos
+Attack + reckless attack +
  
