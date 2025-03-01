@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Character.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Inventory"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Character.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
                 "mode": "preview",
                 "source": true
               },
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "25914712cf90911d",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Character.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Character"
+              "title": "Backlinks for Inventory"
             }
           },
           {
@@ -150,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Character.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Character"
+              "title": "Outgoing links from Inventory"
             }
           },
           {
@@ -179,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Character.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character"
+              "title": "Outline of Inventory"
             }
           },
           {
@@ -231,13 +230,16 @@
   },
   "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
+    "Shop & Prices.md",
+    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin",
     "0. Testing/test/note.md",
-    "Peter/Schemes of Innistrad/Character.md",
     "0. Testing/test/test.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "Untitled.canvas",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
-    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "0. Testing/test1.md",
     "0. Testing/vampire the masqurade sheet.png",
     "0. Testing/Pasted image 20250223222109.png",
