@@ -28,5 +28,6 @@
   "ITS@@embed-mini-headers": false,
   "ITS@@hide-outline-heading": false,
   "ITS@@clear-headings": false,
-  "ITS@@heading-indicator": false
+  "ITS@@heading-indicator": false,
+  "ITS@@bold-color@@dark": "#A7268B"
 }

@@ -9,7 +9,14 @@
 > 
 > ---
 > **you can also write in bold**
+> 
 
+## seperate
+this is a test of something called EMSP or empty space link here: https://symbl.cc/en/2003/
+here are 3 lines of it
+ 
+ 
+ 
 ### testing
 >[!infobox]+
 ># Character Name

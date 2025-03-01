@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6191be319f8f9f67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b19fdffc232abf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning yamal, dataview and so on/creating a character sheet.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "creating a character sheet"
-            }
-          }
-        ]
-      },
-      {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
         "children": [
@@ -33,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning yamal, dataview and so on/creating a character sheet.md",
+                "file": "Peter/Schemes of Innistrad/Character.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "6eb4fec405e7b682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Testing/learning yamal, dataview and so on/character template.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "creating a character sheet"
+              "title": "character template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,23 +196,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c9f9c34c93fb0d9",
+  "active": "6eb4fec405e7b682",
   "lastOpenFiles": [
-    "home.md",
-    "learning yamal, dataview and so on/creating a character sheet.md",
-    "learning yamal, dataview and so on/character template.md",
-    "learning yamal, dataview and so on/to learn.md",
-    "a.md",
-    "vampire the masqurade sheet.png",
-    "Dennis/Dennis.md",
+    "0. Testing/test1.md",
+    "0. Testing/vampire the masqurade sheet.png",
+    "0. Testing/Pasted image 20250223222109.png",
+    "0. Testing/home.md",
+    "0. Testing/Dennis.md",
+    "0. Testing/a.md",
+    "0. Testing/learning yamal, dataview and so on/to learn.md",
+    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "Peter/Schemes of Innistrad/Character.md",
+    "Peter/Schemes of Innistrad/Session notes",
     "Dennis/this is a template.md",
-    "Dennis.md",
-    "test/test.md",
-    "test/note.md",
-    "learning yamal, dataview and so on",
-    "test1.md",
-    "Pasted image 20250223222109.png",
-    "test",
+    "Peter/Schemes of Innistrad",
+    "Peter",
+    "Dennis/Dennis.md",
+    "0. Testing/test/test.md",
+    "0. Testing",
+    "0. Testing/test/note.md",
+    "0. Testing/learning yamal, dataview and so on",
+    "0. Testing/test",
     "Dennis"
   ]
 }
