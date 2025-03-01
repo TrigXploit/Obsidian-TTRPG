@@ -50,5 +50,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### combat combos
-Attack + reckless attack +
- 
+Attack + reckless attack + 
+
+
+If you crit or kill something, you can attack again as a bonus action
