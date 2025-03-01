@@ -11,5 +11,6 @@
   "folder-note-plugin",
   "obsidian-icon-folder",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "url-into-selection"
 ]
