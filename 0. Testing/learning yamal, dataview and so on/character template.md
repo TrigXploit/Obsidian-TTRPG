@@ -1,7 +1,7 @@
 ### test
 >[!infobox]+
 ># Character Name
->![[Pasted image 20250223222109.png]]
+>![[Pasted image 20250223222109.png | hsmall]]
 >#### Stats
 >Type | Stat
 >house|999|
@@ -16,11 +16,13 @@ this is a test of something called EMSP or empty space link here: https://symbl.
 here are 3 lines of it
  
  
+> [!note] This is a note
+> Some additional information.
 
-| aaaa |     |
-| ---- | --- |
-| aa   |     |
-| aas  |     |
+| aaaa      |     |
+| --------- | --- |
+| > infobox |     |
+| >         |     |
 
  
 ### testing
