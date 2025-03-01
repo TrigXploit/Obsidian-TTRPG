@@ -48,23 +48,24 @@ for now im testing
 a
 
 
+> [!tip] **Abilities**
+> **Hunter’s Mark** (Bonus Action)  
+> **Extra Attack** (Level 5)  
+> **Sharpshooter** (-5 to hit, +10 dmg)  
+
+> [!warning] **Active Conditions** > Exhaustion Level 1
+
+> [!info] **Weapons** > 🎯 **Shortbow** (1d6 Piercing) > 🗡️ **Rapier** (1d8 Piercing)
+
+> [!question] **What’s next?**
+> Level Up? → [[Level Up Guide]]
+> Buy New Gear? → [[Shop & Prices]]
+
+
+```dataview
+TABLE quantity AS "Qty", description AS "Item" FROM "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 

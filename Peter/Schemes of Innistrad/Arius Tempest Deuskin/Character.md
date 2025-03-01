@@ -29,7 +29,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 
 >[!infobox]+
 ># Radiant Consumption
-> If i write a really long line it will cut off at some point
+> **Radiant Consumption.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.
 >  - start of list
 > ---
 > **prerequrisite:**
@@ -50,27 +50,12 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### combat combos
-Attack + reckless attack + 
+**First Attack** 
 
 
 If you crit or kill something, you can attack again as a bonus action. 
 
-> [!tip] **Abilities**
-> **Hunter’s Mark** (Bonus Action)  
-> **Extra Attack** (Level 5)  
-> **Sharpshooter** (-5 to hit, +10 dmg)  
 
-> [!warning] **Active Conditions** > Exhaustion Level 1
-
-> [!info] **Weapons** > 🎯 **Shortbow** (1d6 Piercing) > 🗡️ **Rapier** (1d8 Piercing)
-
-> [!question] **What’s next?**
-> Level Up? → [[Level Up Guide]]
-> Buy New Gear? → [[Shop & Prices]]
-
-
-```dataview
-TABLE quantity AS "Qty", description AS "Item" FROM "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory"
 ```
 
 

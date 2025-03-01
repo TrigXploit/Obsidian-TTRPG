@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Abilities"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inventory"
+              "title": "Backlinks for Abilities"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Inventory"
+              "title": "Outgoing links from Abilities"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inventory"
+              "title": "Outline of Abilities"
             }
           },
           {
@@ -231,6 +231,8 @@
   "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
+    "0. Testing/learning yamal, dataview and so on/to learn.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Shop & Prices.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
@@ -239,7 +241,6 @@
     "0. Testing/test/test.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "Untitled.canvas",
-    "0. Testing/learning yamal, dataview and so on/to learn.md",
     "0. Testing/test1.md",
     "0. Testing/vampire the masqurade sheet.png",
     "0. Testing/Pasted image 20250223222109.png",
