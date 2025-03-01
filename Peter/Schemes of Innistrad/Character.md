@@ -53,4 +53,5 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 Attack + reckless attack + 
 
 
-If you crit or kill something, you can attack again as a bonus action
+If you crit or kill something, you can attack again as a bonus action.
+
