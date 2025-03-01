@@ -6,7 +6,7 @@
       {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
-        "dimension": 35.16320474777448,
+        "dimension": 46.38297872340426,
         "children": [
           {
             "id": "5c9f9c34c93fb0d9",
@@ -41,7 +41,7 @@
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 64.83679525222553,
+        "dimension": 53.61702127659574,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +228,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab4ac1f02a6a33f5",
+  "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
     "0. Testing/test/note.md",
     "Peter/Schemes of Innistrad/Character.md",

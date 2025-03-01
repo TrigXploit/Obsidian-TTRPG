@@ -29,5 +29,6 @@
   "ITS@@hide-outline-heading": false,
   "ITS@@clear-headings": false,
   "ITS@@heading-indicator": false,
-  "ITS@@bold-color@@dark": "#A7268B"
+  "ITS@@bold-color@@dark": "#A7268B",
+  "ITS@@italic-color@@dark": "#D49F0E"
 }
