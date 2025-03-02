@@ -17,3 +17,6 @@ there is a rat and ray uses "speak with animals" and starts talking with the rat
 
 
 Vi gå ind i et lukket rum og finder et smykke sejl fra Saint Traft.
+
+da vi kommer tilbage til baren går jeg i seng men Jonas og Ray spiller snyd og taber 5 guld, bagefter spiller jonas og taber 10 guld. Så i alt - 15G tabt.
+
