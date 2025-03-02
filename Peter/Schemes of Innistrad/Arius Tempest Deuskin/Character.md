@@ -91,4 +91,3 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-testing 
