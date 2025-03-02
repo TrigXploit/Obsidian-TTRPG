@@ -1,22 +1,6 @@
 ## inventory
 
-### Rage
-just a small list of things to remember when raging
-- **+2 dmg** with STR weapons
-- **advantage** on STR checks
-- resistance to 3 common dmg types (halve the dmg)
 
-
-## combat guide
-As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
-- **Reckless Attack** *before attacking* you and opponents have advantage on attacks
-- **Divine Fury { Raging }** 
-- **Celestial Revelation** *As a bonus action* transform into **Radiant Consumption**
-- 
-- 
-- **Blessed sleep**  Youch a body with a soul, connected to seperate the connection between them
-- **Healing Hands** *As an action*,  touch and heal  for **3d4** hit points.
-- **Warrior of the Gods** *As a Bonus Action* Roll 1-5 **d12** and heal that amount
 
 
 
@@ -29,38 +13,72 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 > Raging
 > 
 > ---
+> Transformed
+> 
+> ---
+> Everything
+> 
+> ---
 > **prerequrisite:**
-> none
+> - Reckless attack, or remove advantage
 
 
 
 >[!infobox]+
->
->  - start of list
+># 2ND Attack
+> Normal mode
+> 
+> ---
+> Raging
+> 
+> ---
+> Transformed
+> 
+> ---
+> Everything
+> 
 > ---
 > **prerequrisite:**
-> none
+> - Reckless attack, or remove advantage
 > 
 
 
 >[!infobox]+
-># ability name
-> If i write a really long line it will cut off at some point
->  - start of list
+># 3RD Attack
+>Normal mode
+> 
+> ---
+> Raging
+> 
+> ---
+> Transformed
+> 
+> ---
+> Everything
+> 
 > ---
 > **prerequrisite:**
+> - Landed a crit & / killed something
+> - Reckless attack, or remove advantage
 > 
-> none
-> 
+
+
+
+## combat guide
+As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
+- **Reckless Attack** *before attacking* you and opponents have advantage on attacks
+- **Divine Fury { Raging }** The first creature you hit  takes an extra 1d6+3. The  damage is radiant.
+- [[Abilities#Celestial Revelation Radiant Consumption|Celestial Revelation]] *As a bonus action* transform.
+-  [[Abilities#Rage|Rage]] *As a bonus action* become enraged and gain:
+---
+- **Blessed sleep**  Youch a body with a soul, connected to seperate the connection between them
+- **Healing Hands** *As an action* ,  touch and heal  for **3d4** hit points.
+- **Warrior of the Gods** *As a Bonus Action* Roll 1-5 **d12** and heal that amount
+---
+- **Fanatical Focus { Raging }** you can reroll a failed saving throw.
+- **Danger Sense** Advantage on Dexterity saving throws, as long as you can see what's coming. (not blinded etc.) 
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-### combat combos
-**First Attack** 
-normal attack + reckless attack
-
-**secound attack**
-
-If you crit or kill something, you can attack again as a bonus action. 
 
 

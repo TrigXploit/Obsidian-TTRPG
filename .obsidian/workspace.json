@@ -6,7 +6,7 @@
       {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
-        "dimension": 32.72793316382129,
+        "dimension": 51.3621503814021,
         "children": [
           {
             "id": "5c9f9c34c93fb0d9",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
-                "mode": "source",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Abilities"
+              "title": "Character"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 67.27206683617871,
+        "dimension": 48.6378496185979,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -57,8 +57,23 @@
               "icon": "lucide-file",
               "title": "Abilities"
             }
+          },
+          {
+            "id": "8fe8ab2b263fafa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Abilities"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +244,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50154a0de030c853",
+  "active": "8fe8ab2b263fafa0",
   "lastOpenFiles": [
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
