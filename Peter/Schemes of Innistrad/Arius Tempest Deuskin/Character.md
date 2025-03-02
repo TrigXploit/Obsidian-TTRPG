@@ -1,5 +1,5 @@
 ## inventory
-
+list of items [[Inventory]]
 
 >[!infobox]+
 ># 3RD Attack
