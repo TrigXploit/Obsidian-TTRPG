@@ -3,6 +3,11 @@ we went to Nefalia.
 we fought through a lot of  Zombies where killed the soul-linked necromancer.
 
 
+my character is from stensia and sent by geist of Saint Traft.
+
+
+we are here to
+
 ## start
 
 Days
@@ -19,4 +24,9 @@ there is a rat and ray uses "speak with animals" and starts talking with the rat
 Vi gå ind i et lukket rum og finder et smykke sejl fra Saint Traft.
 
 da vi kommer tilbage til baren går jeg i seng men Jonas og Ray spiller snyd og taber 5 guld, bagefter spiller jonas og taber 10 guld. Så i alt - 15G tabt.
+Ray does steal 2 dice from the guys.
 
+
+### Next Day:
+*time to full moon* 3
+*Location:* Nefalia bar 
