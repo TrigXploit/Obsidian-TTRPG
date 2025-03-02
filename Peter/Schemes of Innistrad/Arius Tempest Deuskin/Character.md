@@ -1,52 +1,11 @@
 ## inventory
 
 
-
-
-
-
->[!infobox]+
-># 1ST Attack
-> Normal mode
-> 
-> ---
-> Raging
-> 
-> ---
-> Transformed
-> 
-> ---
-> Everything
-> 
-> ---
-> **prerequrisite:**
-> - Reckless attack, or remove advantage
-
-
-
->[!infobox]+
-># 2ND Attack
-> Normal mode
-> 
-> ---
-> Raging
-> 
-> ---
-> Transformed
-> 
-> ---
-> Everything
-> 
-> ---
-> **prerequrisite:**
-> - Reckless attack, or remove advantage
-> 
-
-
 >[!infobox]+
 ># 3RD Attack
->Normal mode
-> 
+> Normal mode
+> normal hit + Great Weapon Master 
+> 2d6+4  +10      
 > ---
 > Raging
 > 
@@ -59,25 +18,69 @@
 > ---
 > **prerequrisite:**
 > - Landed a crit & / killed something
-> - Reckless attack, or remove advantage
+> - Great Weapon Master (+10 dmg)
 > 
+
+
+
+>[!infobox]+
+># 2ND Attack
+>  Normal mode
+> normal hit + Great Weapon Master 
+> 2d6+4  +10      
+> ---
+> Raging
+> 
+> ---
+> Transformed
+> 
+> ---
+> Everything
+> 
+> ---
+> **prerequrisite:**
+> - Great Weapon Master (+10 dmg)
+> - 
+
+
+
+>[!infobox]+
+># 1ST Attack
+> Normal mode
+> normal hit + Great Weapon Master 
+> 2d6+4  +10      
+> ---
+> Raging
+> normal hit + Great Weapon Master + Divine Fury
+> ---
+> Transformed
+> 
+> ---
+> Everything
+> 
+> ---
+> **prerequrisite:**
+> - Great Weapon Master (+10 dmg)
+
+
+
 
 
 
 ## combat guide
 As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
-- **Reckless Attack** *before attacking* you and opponents have advantage on attacks
-- **Divine Fury { Raging }** The first creature you hit  takes an extra 1d6+3. The  damage is radiant.
-- [[Abilities#Celestial Revelation Radiant Consumption|Celestial Revelation]] *As a bonus action* transform.
--  [[Abilities#Rage|Rage]] *As a bonus action* become enraged and gain:
+- [[Abilities 2014#Reckless Attack | Reckless Attack]] *before attacking* you and opponents have advantage on attacks
+- [[Abilities 2014#Great Weapon Master | Great Weapon Master]] -5 to hit +10 to damage & critting or killing grants another attack
+-  [[Abilities 2014#Divine Fury { Raging } | Divine Fury { Raging }]] The first creature you hit  takes an extra 1d6+3. The  damage is radiant.
+- [[Abilities 2014#Celestial Revelation Radiant Consumption|Celestial Revelation]] *As a bonus action* transform.
+-  [[Abilities 2014#Rage|Rage]] *As a bonus action* become enraged and gain:
 ---
 - **Blessed sleep**  Youch a body with a soul, connected to seperate the connection between them
 - **Healing Hands** *As an action* ,  touch and heal  for **3d4** hit points.
-- **Warrior of the Gods** *As a Bonus Action* Roll 1-5 **d12** and heal that amount
 ---
 - **Fanatical Focus { Raging }** you can reroll a failed saving throw.
 - **Danger Sense** Advantage on Dexterity saving throws, as long as you can see what's coming. (not blinded etc.) 
-
+- **Warrior of the Gods** Revival spells costs nothing
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
