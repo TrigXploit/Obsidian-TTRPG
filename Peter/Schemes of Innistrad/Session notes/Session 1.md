@@ -10,8 +10,7 @@ we are here to
 
 ## start
 
-Days
-
+### Day 0
 
 After killing Willhelt (a necromancer who was creating a lot of zombies in the back allys), we talked about what we shoould do.
 
@@ -27,6 +26,6 @@ da vi kommer tilbage til baren går jeg i seng men Jonas og Ray spiller snyd og 
 Ray does steal 2 dice from the guys.
 
 
-### Next Day:
+### Day 1:
 *time to full moon* 3
 *Location:* Nefalia bar 
