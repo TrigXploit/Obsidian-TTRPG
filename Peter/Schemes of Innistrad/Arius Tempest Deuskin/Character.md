@@ -86,6 +86,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 - **Fanatical Focus { Raging }** you can reroll a failed saving throw.
 - **Danger Sense** Advantage on Dexterity saving throws, as long as you can see what's coming. (not blinded etc.) 
 - **Warrior of the Gods** Revival spells costs nothing
+- **Feral Instincts** advantage on initiative rolls
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
