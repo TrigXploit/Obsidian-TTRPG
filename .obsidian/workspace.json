@@ -6,7 +6,7 @@
       {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
-        "dimension": 50.81250000000001,
+        "dimension": 32.72793316382129,
         "children": [
           {
             "id": "5c9f9c34c93fb0d9",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Abilities"
+              "title": "Character"
             }
           },
           {
@@ -41,7 +41,7 @@
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 49.1875,
+        "dimension": 67.27206683617871,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abilities"
+              "title": "Backlinks for Character"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abilities"
+              "title": "Outgoing links from Character"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abilities"
+              "title": "Outline of Character"
             }
           },
           {
@@ -228,12 +228,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c9f9c34c93fb0d9",
+  "active": "50154a0de030c853",
   "lastOpenFiles": [
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Shop & Prices.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin",

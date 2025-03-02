@@ -51,12 +51,10 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use
 
 ### combat combos
 **First Attack** 
+normal attack + reckless attack
 
+**secound attack**
 
 If you crit or kill something, you can attack again as a bonus action. 
 
 
-```
-
-
-[[Peter/schemes of innistrad/Arius tempest Deuskin/inventory]]
