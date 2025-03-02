@@ -23,11 +23,11 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 
 >[!infobox]+
 ># 1ST Attack
-> 
+> Normal mode
 > 
 > ---
-> **math**
-> asc
+> Raging
+> 
 > ---
 > **prerequrisite:**
 > none
@@ -35,8 +35,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 
 
 >[!infobox]+
-># Radiant Consumption
-> **Radiant Consumption.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.
+>
 >  - start of list
 > ---
 > **prerequrisite:**
