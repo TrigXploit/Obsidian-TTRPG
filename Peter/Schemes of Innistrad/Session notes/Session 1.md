@@ -40,3 +40,7 @@ we go into the infected city part, Ray turns into a sparrow and scount seeing bo
 	"small" groups of normal zombies
 	and LARGE groups surronding a big zombie general.
 
+We Fought against 2 groups of zombies.
+- A groups of 6 normal zombies
+- a group of 6 zombies and a large 1 that was immune to nonmagical damage (hurts)
+**end of game session**

@@ -6,7 +6,7 @@
       {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
-        "dimension": 26.729716276754605,
+        "dimension": 42.80519480519481,
         "children": [
           {
             "id": "5c9f9c34c93fb0d9",
@@ -41,7 +41,7 @@
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 73.2702837232454,
+        "dimension": 57.1948051948052,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -243,10 +243,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fe8ab2b263fafa0",
+  "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
