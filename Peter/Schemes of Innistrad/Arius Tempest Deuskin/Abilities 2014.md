@@ -10,8 +10,8 @@ When you make your *first attack*, you can attack recklessly. Doing so gives you
 
 ### Celestial Revelation, Radiant Consumption
 *While transformed each turn:*
-- At the end of your turn, deal 4 damage to all creatures within 10f
-- deal 4 damage to *a* create when you hit it with an attack 
+- At the end of your turn, deal 3 damage to all creatures within 10f
+- deal 3 damage to *a* create when you hit it with an attack 
 - You shed a 10-foot bright light and another 10 feet  of dim light
 
 

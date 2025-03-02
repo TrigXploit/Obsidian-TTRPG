@@ -6,7 +6,7 @@
       {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
-        "dimension": 51.3621503814021,
+        "dimension": 38.72139484199056,
         "children": [
           {
             "id": "5c9f9c34c93fb0d9",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Abilities 2014"
+              "title": "Character"
             }
           },
           {
@@ -36,13 +36,12 @@
               "title": "Character"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 48.6378496185979,
+        "dimension": 61.27860515800945,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -244,11 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6eb4fec405e7b682",
+  "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Session notes/Untitled.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",

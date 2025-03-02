@@ -3,67 +3,73 @@
 
 >[!infobox]+
 ># 3RD Attack
-> Normal mode
-> normal hit + Great Weapon Master 
+> *Normal mode*
+> normal hit  
 > 2d6+4  +10      
 > ---
-> Raging
-> 
+> *Raging +2* 
+> normal hit  
+>  2d6+6 +10  
 > ---
-> Transformed
-> 
+> *Transformed*
+>  normal hit  + Radiant Consumption
+> 2d6+4  + 10 + (3 to all)
 > ---
-> Everything
-> 
+> *Everything*
+> 2d6+6  + 10 + (3 to all )
 > ---
 > **prerequrisite:**
 > - Landed a crit & / killed something
 > - Great Weapon Master (+10 dmg)
-> 
+> - Didn't hit with 1ST attack, otherwise add *Divine Fury*
+> - Didn't use *Radiant Consumption*, if so add it here.
 
 
 
 >[!infobox]+
-># 2ND Attack
->  Normal mode
-> normal hit + Great Weapon Master 
+> # 2ND Attack
+> *Normal mode*
+> normal hit  
 > 2d6+4  +10      
 > ---
-> Raging
-> 
+> *Raging +2* 
+> normal hit  
+>  2d6+6 +10  
 > ---
-> Transformed
-> 
+> *Transformed*
+>  normal hit  + Radiant Consumption
+> 2d6+4  + 10 + (3 to all  *if turn end*)
 > ---
-> Everything
-> 
+> *Everything*
+> 2d6+6  + 10 + (3 to all  *if turn end*)
 > ---
-> **prerequrisite:**
+> **prerequrisite:** 
 > - Great Weapon Master (+10 dmg)
-> - 
+> - Didn't hit with 1ST attack, otherwise add *Divine Fury*
+> - Didn't use *Radiant Consumption*, if so add it here.
 
 
 
 >[!infobox]+
 ># 1ST Attack
-> Normal mode
-> normal hit + Great Weapon Master 
+> *Normal mode*
+> normal hit  
 > 2d6+4  +10      
 > ---
-> Raging
-> normal hit + Great Weapon Master + Divine Fury
+> *Raging +2* 
+> normal hit  + Divine Fury
+>  2d6+6 +10  + 1d6+3    
 > ---
-> Transformed
-> 
+> *Transformed*
+>  normal hit  + Radiant Consumption +
+> 2d6+4  + 10  +  3  
 > ---
-> Everything
-> 
+> *Everything*
+> normal hit  + Divine Fury + Radiant Consumption
+>  2d6+6 +10  + 1d6+3    +  3
 > ---
 > **prerequrisite:**
 > - Great Weapon Master (+10 dmg)
-
-
-
 
 
 
