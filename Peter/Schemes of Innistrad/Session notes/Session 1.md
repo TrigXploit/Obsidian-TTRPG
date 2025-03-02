@@ -16,3 +16,4 @@ Ray walks upstairs, and open up the door.
 there is a rat and ray uses "speak with animals" and starts talking with the rat who was in the room.
 
 
+Vi gå ind i et lukket rum og finder et smykke sejl fra Saint Traft.
