@@ -29,3 +29,13 @@ Ray does steal 2 dice from the guys.
 ### Day 1:
 *time to full moon* 3
 *Location:* Nefalia bar 
+
+we wake up and go to a church where i ask for information.
+i talk with a father who sends me to the border guards.
+
+when we get there I talk with some angry guards who tell us that they had a holy malitia but thats no more.
+
+
+we go into the infected city part, Ray turns into a sparrow and scount seeing both.
+	"small" groups of normal zombies
+	and LARGE groups surronding a big zombie general.
