@@ -39,3 +39,4 @@ when we get there I talk with some angry guards who tell us that they had a holy
 we go into the infected city part, Ray turns into a sparrow and scount seeing both.
 	"small" groups of normal zombies
 	and LARGE groups surronding a big zombie general.
+
