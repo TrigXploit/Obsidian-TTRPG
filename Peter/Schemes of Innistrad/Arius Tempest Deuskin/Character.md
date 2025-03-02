@@ -72,7 +72,6 @@ list of items [[Inventory]]
 > - Great Weapon Master (+10 dmg)
 
 
-
 ## combat guide
 As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 - [[Abilities 2014#Reckless Attack | Reckless Attack]] *before attacking* you and opponents have advantage on attacks
@@ -81,7 +80,7 @@ As a barbarian &/ Aasimar, at 6´th LV you are allowed to use:
 - [[Abilities 2014#Celestial Revelation Radiant Consumption|Celestial Revelation]] *As a bonus action* transform.
 -  [[Abilities 2014#Rage|Rage]] *As a bonus action* become enraged and gain:
 ---
-- **Blessed sleep**  Youch a body with a soul, connected to seperate the connection between them
+- **Blessed sleep**  Touch a body with a soul connected, separate the connection between them.
 - **Healing Hands** *As an action* ,  touch and heal  for **3d4** hit points.
 ---
 - **Fanatical Focus { Raging }** you can reroll a failed saving throw.
