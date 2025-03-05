@@ -4,75 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5aabdd3200422b",
+        "id": "6191be319f8f9f67",
         "type": "tabs",
-        "dimension": 42.80519480519481,
+        "dimension": 46.29464285714286,
         "children": [
           {
-            "id": "5c9f9c34c93fb0d9",
+            "id": "2b19fdffc232abf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Peter/Schemes of Innistrad/Session notes/Session 1.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1"
-            }
-          },
-          {
-            "id": "6eb4fec405e7b682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
-                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Session 1"
             }
           }
         ]
       },
       {
-        "id": "f5b0f3906bf48e82",
+        "id": "39c3ba13933a56d1",
         "type": "tabs",
-        "dimension": 57.1948051948052,
+        "dimension": 53.705357142857146,
         "children": [
           {
-            "id": "50154a0de030c853",
+            "id": "f9f3d2721bbddce6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Abilities 2014"
-            }
-          },
-          {
-            "id": "8fe8ab2b263fafa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "learning yamal, dataview and so on/creating a character sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Character"
+              "title": "Backlinks for creating a character sheet"
             }
           },
           {
@@ -164,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "character template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Character"
+              "title": "Outgoing links from character template"
             }
           },
           {
@@ -193,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "character template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character"
+              "title": "Outline of character template"
             }
           },
           {
@@ -208,31 +175,19 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "8c22cb2b90bccc78",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -240,37 +195,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c9f9c34c93fb0d9",
+  "active": "2b19fdffc232abf9",
   "lastOpenFiles": [
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
+    "learning yamal, dataview and so on/creating a character sheet.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
-    "0. Testing/learning yamal, dataview and so on/to learn.md",
-    "Shop & Prices.md",
-    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin",
-    "0. Testing/test/note.md",
-    "0. Testing/test/test.md",
-    "Untitled.canvas",
-    "0. Testing/test1.md",
-    "0. Testing/vampire the masqurade sheet.png",
-    "0. Testing/Pasted image 20250223222109.png",
-    "0. Testing/home.md",
-    "0. Testing/Dennis.md",
-    "0. Testing/a.md",
     "Peter/Schemes of Innistrad/Session notes",
-    "Dennis/this is a template.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin",
     "Peter/Schemes of Innistrad",
     "Peter",
-    "Dennis/Dennis.md",
-    "0. Testing",
-    "0. Testing/learning yamal, dataview and so on",
+    "0. Testing/test/note.md",
+    "0. Testing/learning yamal, dataview and so on/to learn.md",
+    "0. Testing/test/test.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "0. Testing/test",
+    "0. Testing/vampire the masqurade sheet.png",
+    "0. Testing/test1.md",
+    "0. Testing/Pasted image 20250223222109.png",
+    "0. Testing/home.md",
+    "0. Testing/learning yamal, dataview and so on",
+    "0. Testing/Dennis.md",
+    "0. Testing/a.md",
+    "0. Testing",
+    "learning yamal, dataview and so on/character template.md",
+    "test/test.md",
+    "vampire the masqurade sheet.png",
+    "test1.md",
+    "Pasted image 20250223222109.png",
+    "learning yamal, dataview and so on/to learn.md",
+    "a.md",
+    "Dennis/Dennis.md",
+    "Dennis/this is a template.md",
+    "Dennis.md",
+    "test/note.md",
+    "learning yamal, dataview and so on",
+    "test",
     "Dennis"
   ]
 }
