@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Session 1"
             }
+          },
+          {
+            "id": "cf2323557c9dfc73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "39c3ba13933a56d1",
@@ -199,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b19fdffc232abf9",
+  "active": "cf2323557c9dfc73",
   "lastOpenFiles": [
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "learning yamal, dataview and so on/creating a character sheet.md",
