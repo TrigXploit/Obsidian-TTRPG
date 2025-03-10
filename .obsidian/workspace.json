@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "0. Testing/learning yamal, dataview and so on/character template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character"
-            }
-          },
-          {
-            "id": "ebb428ab8610f673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "character template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f5b0f3906bf48e82",
@@ -244,8 +229,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebb428ab8610f673",
+  "active": "6eb4fec405e7b682",
   "lastOpenFiles": [
+    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "conflict-files-obsidian-git.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
@@ -255,7 +241,6 @@
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
     "Shop & Prices.md",
-    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin",
     "0. Testing/test/note.md",
     "0. Testing/test/test.md",
