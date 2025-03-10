@@ -14,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "f28334f7022b064b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -245,10 +259,11 @@
   },
   "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "conflict-files-obsidian-git.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "Peter/Schemes of Innistrad/Session notes/Untitled.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
