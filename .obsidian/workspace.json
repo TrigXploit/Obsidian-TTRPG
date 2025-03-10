@@ -9,34 +9,6 @@
         "dimension": 38.72139484199056,
         "children": [
           {
-            "id": "5c9f9c34c93fb0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "f28334f7022b064b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "6eb4fec405e7b682",
             "type": "leaf",
             "state": {
@@ -257,10 +229,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c9f9c34c93fb0d9",
+  "active": "6eb4fec405e7b682",
   "lastOpenFiles": [
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "conflict-files-obsidian-git.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "Peter/Schemes of Innistrad/Session notes/Untitled.md",
