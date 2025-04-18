@@ -12,7 +12,7 @@ choose:
 ## Step 2 & 3
 setting points in
 Attributes (7/5/3)
-abilities (13/9/5) (max 3 ⬤)
+abilities (13/9/5) (max 3 ⬤ at session 0)
 
 ## Step 4
 sætte point in
@@ -27,7 +27,13 @@ courage
 **humanity** = concience+self-control
 willpower = courage
 ## Step 5
+calculate your 
+Humanity
+willpower
+blood pool
 
+spend freeibee points
+and take flaws and merits (max 7 points of flaws)
 
 
 ## final touches
