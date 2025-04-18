@@ -31,23 +31,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "2a151554339ff3d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f5b0f3906bf48e82",
@@ -254,7 +240,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a151554339ff3d8",
+  "active": "6eb4fec405e7b682",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Dennis/Vampire the masqurade/Index.md",
