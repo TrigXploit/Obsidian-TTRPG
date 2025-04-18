@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
+                "file": "Dennis/Dennis.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "creating a character sheet"
+              "title": "Dennis"
             }
           }
         ],
@@ -64,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
-                "mode": "source",
+                "file": "Dennis/this is a template.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "creating a character sheet"
+              "title": "this is a template"
             }
           }
         ],
@@ -246,17 +246,18 @@
   },
   "active": "8fe8ab2b263fafa0",
   "lastOpenFiles": [
-    "0. Testing/vampire the masqurade sheet.png",
+    "0. Testing/test1.md",
+    "0. Testing/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
-    "0. Testing/Pasted image 20250223222109.png",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "Dennis/Dennis.md",
     "0. Testing/test/test.md",
     "0. Testing/test/note.md",
     "0. Testing/home.md",
-    "0. Testing/Dennis.md",
+    "0. Testing/vampire the masqurade sheet.png",
+    "0. Testing/Pasted image 20250223222109.png",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/a.md",
-    "Dennis/Dennis.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "conflict-files-obsidian-git.md",
@@ -271,7 +272,6 @@
     "Shop & Prices.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin",
     "Untitled.canvas",
-    "0. Testing/test1.md",
     "Peter/Schemes of Innistrad/Session notes",
     "Peter/Schemes of Innistrad",
     "Peter",
