@@ -6,7 +6,7 @@
       {
         "id": "ff5aabdd3200422b",
         "type": "tabs",
-        "dimension": 62.72455089820359,
+        "dimension": 59.44103612815269,
         "children": [
           {
             "id": "5c9f9c34c93fb0d9",
@@ -26,12 +26,14 @@
             "id": "42fd5375cd2888da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md"
+                "file": "Dennis/Vampire the masqurade/characters/Loui.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 20.58.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loui"
             }
           }
         ],
@@ -40,7 +42,7 @@
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 37.27544910179641,
+        "dimension": 40.55896387184731,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -48,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
+                "file": "Dennis/Vampire the masqurade/book and rules/create a character.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Abilities 2014"
+              "title": "create a character"
             }
           }
         ]
@@ -228,10 +230,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42fd5375cd2888da",
+  "active": "50154a0de030c853",
   "lastOpenFiles": [
-    "Pasted Image 20250418210943_386.png",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
+    "Dennis/Vampire the masqurade/book and rules/create a character.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
+    "Dennis/Vampire the masqurade/characters/Loui.md",
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Pasted Image 20250418210943_386.png",
     "Dennis/Vampire the masqurade/book and rules/Rules.md",
     "Dennis/Vampire the masqurade/characters/Untitled.canvas",
     "Dennis/Vampire the masqurade/book and rules",
@@ -241,17 +248,14 @@
     "Dennis/this is a template.md",
     "0. Testing/test1.md",
     "0. Testing/Dennis.md",
-    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "0. Testing/test/test.md",
     "0. Testing/test/note.md",
     "0. Testing/home.md",
     "0. Testing/vampire the masqurade sheet.png",
     "0. Testing/Pasted image 20250223222109.png",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/a.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "conflict-files-obsidian-git.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Dennis/Vampire the masqurade/NPC's",
