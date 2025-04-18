@@ -1,5 +1,13 @@
 {
-  "styles": {},
-  "presets": {},
+  "styles": {
+    "Dennis": {
+      "backgroundColor": "#2464e5"
+    }
+  },
+  "presets": {
+    "Dennis test": {
+      "backgroundColor": "#ff0000"
+    }
+  },
   "presetOrder": []
 }
