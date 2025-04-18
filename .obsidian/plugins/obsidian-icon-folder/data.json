@@ -6,8 +6,6 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🏰",
-      "🧛",
       "LiDices",
       "LiBook"
     ],
@@ -33,9 +31,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Dennis": "LiBook",
-  "Peter": "LiDices",
-  "Dennis/Vampire the masqurade/book and rules": "LiBook",
-  "Dennis/Vampire the masqurade/characters": "🧛",
-  "Dennis/Vampire the masqurade": "🏰"
+  "Dennis": {
+    "iconName": "LiBook",
+    "iconColor": "#3b61f7"
+  },
+  "Peter": "LiDices"
 }
