@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Dennis.md",
+                "file": "Dennis/Vampire the masqurade/Clans.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dennis"
-            }
-          },
-          {
-            "id": "6eb4fec405e7b682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dennis/Dennis.md",
-                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dennis"
+              "title": "Clans"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f5b0f3906bf48e82",
@@ -64,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/this is a template.md",
-                "mode": "preview",
+                "file": "Dennis/Vampire the masqurade/characters/Rules.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "this is a template"
+              "title": "Rules"
             }
           }
         ],
@@ -244,12 +229,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fe8ab2b263fafa0",
+  "active": "5c9f9c34c93fb0d9",
   "lastOpenFiles": [
+    "Dennis/Dennis.md",
+    "Dennis/Vampire the masqurade/Clans.md",
+    "Dennis/Vampire the masqurade/characters/Rules.md",
+    "Dennis/Vampire the masqurade/Index.md",
+    "Dennis/this is a template.md",
     "0. Testing/test1.md",
     "0. Testing/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
-    "Dennis/Dennis.md",
     "0. Testing/test/test.md",
     "0. Testing/test/note.md",
     "0. Testing/home.md",
@@ -261,8 +250,6 @@
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "conflict-files-obsidian-git.md",
-    "Dennis/Vampire the masqurade/Index.md",
-    "Dennis/this is a template.md",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Dennis/Vampire the masqurade/NPC's",
     "Dennis/Vampire the masqurade/Story",
