@@ -12,7 +12,7 @@ we are here to
 
 ### Day 0
 
-After killing Willhelt (a necromancer who was creating a lot of zombies in the back allys), we talked about what we shoould do.
+After killing Willhelt *(a necromancer who was creating a lot of zombies in the back allys)*, we talked about what we shoould do.
 
 We decide to have a short rest, where we find a house without traps.
 in the living room there are clawmarks,
