@@ -26,9 +26,9 @@ Abilities:
   skills: Animal-ken Crafts Drive
   Knowledges: Academics Computer Finance
 Disciplines:
-  - Dominate
+  - Animalism
   - Fortitude
-  - Presence
+  - Protean
 Virtues:
   conscience: 4
   self_control: 3
