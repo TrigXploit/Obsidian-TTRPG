@@ -70,6 +70,7 @@ flaws:
 >**Concept**| Underground Boxer  |
 >**Nature**| unknown | 
 >**Demeanor**| unknown  |
+>**Disciplines** | Animalism<br>Fortitude<br>Protean |
 
 
 
