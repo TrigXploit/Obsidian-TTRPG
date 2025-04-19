@@ -33,4 +33,10 @@ Virtues:
   conscience: 4
   self_control: 3
   courage: 5
+backgrounds:
+  - Resources: 2
+  - Allies: 1
+willpower: 5
+blood_pool: 13
+
 ---
