@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5aabdd3200422b",
-        "type": "tabs",
-        "dimension": 48.73991935483871,
-        "children": [
-          {
-            "id": "6eb4fec405e7b682",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 20.58.18.excalidraw"
-            }
-          }
-        ]
-      },
-      {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 51.26008064516129,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -209,23 +189,24 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "50154a0de030c853",
   "lastOpenFiles": [
+    "Dennis/Vampire the masqurade/book and rules/Clans.md",
+    "Dennis/Vampire the masqurade/book and rules/create a character.md",
     "Dennis/Vampire the masqurade/book and rules/Index.md",
     "Dennis/Vampire the masqurade/book and rules/Rules.md",
-    "Dennis/this is a template.md",
     "Dennis/Vampire the masqurade/characters/Loui.md",
+    "Dennis/this is a template.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Pasted Image 20250418210943_386.png",
     "Dennis/Dennis.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
-    "Dennis/Vampire the masqurade/book and rules/create a character.md",
-    "Dennis/Vampire the masqurade/book and rules/Clans.md",
     "Dennis/Vampire the masqurade/characters",
     "Dennis/Vampire the masqurade/book and rules",
     "Dennis/Vampire the masqurade",

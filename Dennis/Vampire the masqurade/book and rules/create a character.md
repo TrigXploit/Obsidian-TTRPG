@@ -38,3 +38,11 @@ and take flaws and merits (max 7 points of flaws)
 
 ## final touches
 
+> [!col]
+> ### Column 1
+> |Content for the first column.|---|
+>
+>> [!col-md]
+>> ### Column 2
+>> Content for the second column.
+
