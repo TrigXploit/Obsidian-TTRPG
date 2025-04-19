@@ -38,5 +38,13 @@ backgrounds:
   - Allies: 1
 willpower: 5
 blood_pool: 13
-
+Humanity: 5
+Merits:
+  - big
+    points: 1
+  - strong
+    points: 1
+Flaws:
+  - blind
+  - mute
 ---
