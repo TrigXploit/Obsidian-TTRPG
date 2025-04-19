@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "Dennis/Vampire the masqurade/book and rules/create a character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character"
+              "title": "Outline of create a character"
             }
           },
           {
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
