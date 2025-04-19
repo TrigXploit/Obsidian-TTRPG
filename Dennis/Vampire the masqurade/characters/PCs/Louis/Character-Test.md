@@ -56,8 +56,14 @@ flaws:
   - name: Mute
     points: 2
 ---
->[!infobox]+ Loui
->![[Loui image.jpg]]
+>[!infobox]+
+># Loui
+>![[Loui image.jpg|]]
+>---
+>---
+> a| Stat
+>---|---|
+>house|999|
 >**Player**: Marcus  
 >**Clan**: Gangril  
 >**Generation**: 10  
@@ -66,3 +72,6 @@ flaws:
 >**Concept**: Underground Boxer  
 >**Nature**: unknown  
 >**Demeanor**: unknown  
+
+
+

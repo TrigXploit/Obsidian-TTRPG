@@ -1,6 +1,6 @@
 
 
-infobox|center]+
+>[infobox|center]+
 ># Character Name
 >![[Loui image.jpg]]
 >#### Stats
