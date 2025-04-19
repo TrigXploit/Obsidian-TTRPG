@@ -56,22 +56,20 @@ flaws:
   - name: Mute
     points: 2
 ---
->[!infobox]+
+>[!infobox|no-table-header]+  
 ># Loui
 >![[Loui image.jpg|]]
->---
->---
-> a| Stat
->---|---|
->house|999|
->**Player**: Marcus  
->**Clan**: Gangril  
->**Generation**: 10  
->**Sect**: Camarilla  
->**Sire**: Lebron James  
->**Concept**: Underground Boxer  
->**Nature**: unknown  
->**Demeanor**: unknown  
+>
+>Type |  value |
+> ---|---|
+>**player**|Marcus|
+>**Clan**|Gangril| 
+>**Generation**| 10|  
+>**Sect**| Camarilla|  
+>**Sire**| Lebron James|  
+>**Concept**| Underground Boxer  |
+>**Nature**| unknown | 
+>**Demeanor**| unknown  |
 
 
 
