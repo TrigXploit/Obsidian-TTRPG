@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dennis/Vampire the masqurade/book and rules/create a character.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -189,8 +189,7 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "custom-sort:Toggle custom sorting": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "50154a0de030c853",
