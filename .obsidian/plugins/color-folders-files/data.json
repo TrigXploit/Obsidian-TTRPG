@@ -2,6 +2,9 @@
   "styles": {
     "Dennis": {
       "backgroundColor": "#2464e5"
+    },
+    "0. Testing/Character-Test.md": {
+      "backgroundColor": "#16792a"
     }
   },
   "presets": {
