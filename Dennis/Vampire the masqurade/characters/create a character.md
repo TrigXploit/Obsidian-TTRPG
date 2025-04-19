@@ -71,6 +71,10 @@ and take flaws and merits (max 7 points of flaws)
 >| [[Manipulation]] | ●○○○○ |
 >| [[Composure]] | ●○○○○ |
 
+**Alertness::** 2
+**Stealth::** 3
+**Brawl::** 1
+
 
 ## final touches
 ```````col
