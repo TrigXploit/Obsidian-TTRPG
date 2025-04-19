@@ -8,6 +8,8 @@ Sire: Lebron James
 concept: Underground Boxer
 nature: unknown
 demeanor: unknown
+
+
 Attributes:
   physical:
     Strength: 3
@@ -21,6 +23,8 @@ Attributes:
     Perception: 3
     Intelligence: 3
     Wits: 3
+
+
 Abilities:
   Talents: Alertness Athletics Awareness
   skills: Animal-ken Crafts Drive
@@ -36,15 +40,30 @@ Virtues:
 backgrounds:
   - Resources: 2
   - Allies: 1
+
+
+Humanity: 5
 willpower: 5
 blood_pool: 13
-Humanity: 5
-Merits:
-  - big
-    points: 1
-  - strong
-    points: 1
-Flaws:
-  - blind
-  - mute
+merits:
+  - name: Big
+    points: 3
+  - name: Strong
+    points: 3
+flaws:
+  - name: Blind
+    points: 3
+  - name: Mute
+    points: 2
 ---
+>[!infobox]+
+># Character Name
+>![[Loui image.jpg]]
+>#### Stats
+>Type | Stat
+>house|999|
+> If i write a really long line it will cut off at some point
+> 
+> ---
+> **you can also write in bold**
+> 
