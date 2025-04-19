@@ -56,14 +56,13 @@ flaws:
   - name: Mute
     points: 2
 ---
->[!infobox]+
-># Character Name
+>[!infobox]+ Loui
 >![[Loui image.jpg]]
->#### Stats
->Type | Stat
->house|999|
-> If i write a really long line it will cut off at some point
-> 
-> ---
-> **you can also write in bold**
-> 
+>**Player**: Marcus  
+>**Clan**: Gangril  
+>**Generation**: 10  
+>**Sect**: Camarilla  
+>**Sire**: Lebron James  
+>**Concept**: Underground Boxer  
+>**Nature**: unknown  
+>**Demeanor**: unknown  
