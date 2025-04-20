@@ -60,7 +60,9 @@ flaws:
 ># Loui
 >![[Loui image.jpg|]]
 >
->Type |  value |
+>
+>>[!Bio]+
+>>Type |  value |
 > ---|---|
 >**player**|Marcus|
 >**Clan**|Gangril| 
