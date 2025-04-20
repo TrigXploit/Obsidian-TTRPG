@@ -8,8 +8,6 @@ sire: Lebron James
 concept: Underground Boxer
 nature: unknown
 demeanor: unknown
-
-
 attributes:
   physical:
     strength: 3
@@ -23,8 +21,6 @@ attributes:
     perception: 3
     intelligence: 3
     wits: 3
-
-
 abilities:
   talents: Alertness Athletics Awareness
   skills: Animal-ken Crafts Drive
@@ -40,8 +36,6 @@ virtues:
 backgrounds:
   - resources: 2
   - allies: 1
-
-
 humanity: 5
 willpower: 5
 current_blood_pool: 9
@@ -56,13 +50,22 @@ flaws:
     points: 3
   - name: mute
     points: 2
+
 ---
 >[!infobox|no-table-header ]+  
 ># Loui
 >![[Loui image.jpg|]]
 >
 >>[!Current-Stats]+
->>**Blood Pool:** `=this.current_blood_pool` / `=this.max_blood_pool`
+>>**Blood Pool:** 
+>>```meta-bind
+>>INPUT[number:current_blood_pool]
+>>```
+>>
+>>**Willpower**  
+>>```meta-bind
+>>INPUT[number:willpower]
+>>```
 >
 >>[!Bio]+
 >>Type |  value |
