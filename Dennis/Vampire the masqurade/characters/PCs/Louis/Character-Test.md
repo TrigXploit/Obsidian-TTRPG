@@ -44,17 +44,17 @@ backgrounds:
 
 humanity: 5
 willpower: 5
-current_Blood_pool: 9
+current_blood_pool: 9
 max_blood_pool: 13
 merits:
-  - name: Big
+  - name: big
     points: 3
-  - name: Strong
+  - name: strong
     points: 3
 flaws:
-  - name: Blind
+  - name: blind
     points: 3
-  - name: Mute
+  - name: mute
     points: 2
 ---
 >[!infobox|no-table-header ]+  
@@ -82,11 +82,12 @@ flaws:
 
 
 ```button
-name: +1 Blood
+title: +1 Blood
 type: meta
 action: update
 args:
   field: current_blood_pool
   value: "{{value + 1}}"
+```
 
 ## Abilities
