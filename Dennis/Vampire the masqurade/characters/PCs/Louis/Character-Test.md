@@ -60,19 +60,19 @@ flaws:
 ># Loui
 >![[Loui image.jpg|]]
 >
->
+>a
 >>[!Bio]+
 >>Type |  value |
-> ---|---|
->**player**|Marcus|
->**Clan**|Gangril| 
->**Generation**| 10|  
->**Sect**| Camarilla|  
->**Sire**| Lebron James|  
->**Concept**| Underground Boxer  |
->**Nature**| unknown | 
->**Demeanor**| unknown  |
->**Disciplines** | Animalism<br>Fortitude<br>Protean |
+>> ---|---|
+>>**player**|Marcus|
+>>**Clan**|Gangril| 
+>>**Generation**| 10|  
+>>**Sect**| Camarilla|  
+>>**Sire**| sheriff <br>Lebron James |  
+>>**Concept**| Underground Boxer  |
+>>**Nature**| unknown | 
+>>**Demeanor**| unknown  |
+>>**Disciplines** | Animalism<br>Fortitude<br>Protean |
 
 
 
