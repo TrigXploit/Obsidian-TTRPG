@@ -6,7 +6,7 @@
       {
         "id": "f5b0f3906bf48e82",
         "type": "tabs",
-        "dimension": 49.21394395078605,
+        "dimension": 55.21314843348741,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -40,7 +40,7 @@
       {
         "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 50.78605604921395,
+        "dimension": 44.78685156651258,
         "children": [
           {
             "id": "312b802037f94479",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 294.5
   },
   "right": {
     "id": "25914712cf90911d",
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,7 +262,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e6ee884294920c7",
+  "active": "4be17c1166121479",
   "lastOpenFiles": [
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
