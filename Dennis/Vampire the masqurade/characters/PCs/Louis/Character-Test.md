@@ -56,11 +56,13 @@ flaws:
   - name: Mute
     points: 2
 ---
->[!infobox|no-table-header]+  
+>[!infobox|no-table-header ]+  
 ># Loui
 >![[Loui image.jpg|]]
 >
->a
+>>[!Current-Stats]+
+>>**blood:**
+>
 >>[!Bio]+
 >>Type |  value |
 >> ---|---|
@@ -75,4 +77,7 @@ flaws:
 >>**Disciplines** | Animalism<br>Fortitude<br>Protean |
 
 
+## Attributes
+
+## Abilities
 

@@ -34,7 +34,8 @@
               "title": "Character-Test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f8e55852eea5132",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-18 20.58.18.excalidraw"
+              "title": "Outline of Character-Test"
             }
           },
           {
@@ -260,10 +261,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50154a0de030c853",
+  "active": "4e6ee884294920c7",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "0. Testing/vampire the masqurade sheet.png",
     "0. Testing/test.md",
     "0. Testing/a.md",
@@ -271,7 +273,6 @@
     "0. Testing/Pasted image 20250223222109.png",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/test/how to infobox.md",
