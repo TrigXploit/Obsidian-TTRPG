@@ -1,50 +1,51 @@
 ---
-Name: Loui
-Player: Marcus
-Clan: Gangril
-Sect: Camarilla
-Generation: 10
-Sire: Lebron James
+name: Loui
+player: Marcus
+clan: Gangril
+sect: Camarilla
+generation: 10
+sire: Lebron James
 concept: Underground Boxer
 nature: unknown
 demeanor: unknown
 
 
-Attributes:
+attributes:
   physical:
-    Strength: 3
-    Dexterity: 3
-    Stamina: 3
-  Social:
+    strength: 3
+    dexterity: 3
+    stamina: 3
+  social:
     Charisma: 3
     manipulation: 3
     appearance: 3
-  Mental:
-    Perception: 3
-    Intelligence: 3
-    Wits: 3
+  mental:
+    perception: 3
+    intelligence: 3
+    wits: 3
 
 
-Abilities:
-  Talents: Alertness Athletics Awareness
+abilities:
+  talents: Alertness Athletics Awareness
   skills: Animal-ken Crafts Drive
-  Knowledges: Academics Computer Finance
-Disciplines:
-  - Animalism
-  - Fortitude
-  - Protean
-Virtues:
+  knowledges: Academics Computer Finance
+disciplines:
+  - animalism
+  - fortitude
+  - protean
+virtues:
   conscience: 4
   self_control: 3
   courage: 5
 backgrounds:
-  - Resources: 2
-  - Allies: 1
+  - resources: 2
+  - allies: 1
 
 
-Humanity: 5
+humanity: 5
 willpower: 5
-blood_pool: 13
+current_Blood_pool: 9
+max_blood_pool: 13
 merits:
   - name: Big
     points: 3
@@ -61,7 +62,7 @@ flaws:
 >![[Loui image.jpg|]]
 >
 >>[!Current-Stats]+
->>**blood:**
+>>**Blood Pool:** `=this.current_blood_pool` / `=this.max_blood_pool`
 >
 >>[!Bio]+
 >>Type |  value |
@@ -79,5 +80,13 @@ flaws:
 
 ## Attributes
 
-## Abilities
 
+```button
+name: +1 Blood
+type: meta
+action: update
+args:
+  field: current_blood_pool
+  value: "{{value + 1}}"
+
+## Abilities
