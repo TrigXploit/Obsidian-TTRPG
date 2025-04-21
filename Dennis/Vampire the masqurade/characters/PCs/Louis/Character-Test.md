@@ -51,40 +51,6 @@ flaws:
   - name: mute
     points: 2
 ---
->[!infobox|no-table-header ]+  
-># Loui
->![[Loui image.jpg|]]
->
->>[!Current-Stats]+
->>**Blood Pool:** 
->>```meta-bind
->>INPUT[number:current_blood_pool]
->>```
->>
->>**Willpower**  
->>```meta-bind
->>INPUT[number:willpower]
->>```
->
->>[!Bio]+
->>Type |  value |
->> ---|---|
->>**player**|Marcus|
->>**Clan**|Gangril| 
->>**Generation**| 10|  
->>**Sect**| Camarilla|  
->>**Sire**| sheriff <br>Lebron James |  
->>**Concept**| Underground Boxer  |
->>**Nature**| unknown | 
->>**Demeanor**| unknown  |
->>**Disciplines** | Animalism<br>Fortitude<br>Protean |
-
-
-## Attributes
-
-## Abilities
-
-
 ```meta-bind-button
 label: "+1"
 hidden: true
@@ -121,6 +87,44 @@ actions:
     value: "getMetadata('max_blood_pool')"
 ```
 
-  Blood Pool: `VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+>[!infobox|no-table-header ws-med]+  
+># Loui
+>![[Loui image.jpg|]]
+>
+>>[!Current-Stats]+
+>>**Blood Pool:** 
+>>```meta-bind
+>>INPUT[number:current_blood_pool]
+>>```
+>>
+>>  **Blood Pool:** `VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+>>
+>>**Willpower**  
+>>```meta-bind
+>>INPUT[number:willpower]
+>>```
+>
+>>[!Bio]+
+>>Type |  value |
+>> ---|---|
+>>**player**|Marcus|
+>>**Clan**|Gangril| 
+>>**Generation**| 10|  
+>>**Sect**| Camarilla|  
+>>**Sire**| sheriff <br>Lebron James |  
+>>**Concept**| Underground Boxer  |
+>>**Nature**| unknown | 
+>>**Demeanor**| unknown  |
+>>**Disciplines** | Animalism<br>Fortitude<br>Protean |
+
+
+## Attributes
+
+## Abilities
+
+
+
+
+
 
 
