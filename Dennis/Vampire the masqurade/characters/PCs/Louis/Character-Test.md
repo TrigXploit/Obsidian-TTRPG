@@ -40,7 +40,7 @@ humanity: 5
 willpower: 5
 current_blood_pool: 8
 max_blood_pool: 13
-count: 0
+count: 10
 merits:
   - name: big
     points: 3
@@ -82,19 +82,6 @@ flaws:
 
 
 ## Attributes
-```meta-bind-button
-label: "+1"
-hidden: true
-id: "count-increment"
-style: default
-actions:
-  - type: updateMetadata
-    bindTarget: count
-    evaluate: true
-    value: Math.min(10, x + 1)
-```
-
-
 
 ## Abilities
 
@@ -108,7 +95,7 @@ actions:
   - type: updateMetadata
     bindTarget: count
     evaluate: true
-    value: "x + 1"
+    value: Math.min(10, x + 1)
 ```
 
 ```meta-bind-button
@@ -120,7 +107,7 @@ actions:
   - type: updateMetadata
     bindTarget: count
     evaluate: true
-    value: "x - 1"
+    value: Math.min(0, x - 1)
 ```
 
 ```meta-bind-button
@@ -132,7 +119,7 @@ actions:
   - type: updateMetadata
     bindTarget: count
     evaluate: false
-    value: 0
+    value: 9
 ```
 
 `BUTTON[count-decrement, count-reset, count-increment]` `VIEW[{count}]`
