@@ -39,7 +39,7 @@ backgrounds:
 humanity: 5
 willpower: 5
 max_blood_pool: 13
-current_blood_pool: 3
+current_blood_pool: 13
 merits:
   - name: big
     points: 3
@@ -118,7 +118,7 @@ actions:
   - type: updateMetadata
     bindTarget: current_blood_pool
     evaluate: true
-    value: ### getMetadata(max_blood_pool)
+    value: "getMetadata('max_blood_pool')"
 ```
 
   Blood Pool: `VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
