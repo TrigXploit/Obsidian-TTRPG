@@ -82,21 +82,37 @@ flaws:
 
 
 ## Attributes
-```button
-name +1 Blood
-type meta
-action update
-args
-  field current_blood_pool
-  value "{{value + 1}}"
+```meta-bind-button
+label: "+1"
+hidden: true
+id: "count-increment"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: count
+    evaluate: true
+    value: Math.min(10, x + 1)
 ```
+
 
 
 ## Abilities
 
 ```button
 name +1 Blood
-type meta
+type 
 action update
-current_blood_pool +1
+args
+  field current_blood_pool
+  value "{{value + 1}}"
+```
+a
+```meta-bind-button
+label: pool +1
+style: default
+id: ""
+hidden: false
+actions:
+  - type: input
+    str: "current_blood_pool +1"
 ```
