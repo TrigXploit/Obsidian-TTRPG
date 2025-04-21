@@ -38,9 +38,8 @@ backgrounds:
   - allies: 1
 humanity: 5
 willpower: 5
-current_blood_pool: 8
 max_blood_pool: 13
-count: 0
+current_blood_pool: 2
 merits:
   - name: big
     points: 3
@@ -51,6 +50,7 @@ flaws:
     points: 3
   - name: mute
     points: 2
+
 ---
 >[!infobox|no-table-header ]+  
 ># Loui
@@ -89,11 +89,11 @@ flaws:
 ```meta-bind-button
 label: "+1"
 hidden: true
-id: "count-increment"
+id: "blood-increment"
 style: default
 actions:
   - type: updateMetadata
-    bindTarget: count
+    bindTarget: current_blood_pool
     evaluate: true
     value: "x + 1"
 ```
@@ -101,11 +101,11 @@ actions:
 ```meta-bind-button
 label: "-1"
 hidden: true
-id: "count-decrement"
+id: "blood-decrement"
 style: default
 actions:
   - type: updateMetadata
-    bindTarget: count
+    bindTarget: current_blood_pool
     evaluate: true
     value: "x - 1"
 ```
@@ -113,14 +113,14 @@ actions:
 ```meta-bind-button
 label: "Reset"
 hidden: true
-id: "count-reset"
+id: "blood-reset"
 style: default
 actions:
   - type: updateMetadata
-    bindTarget: count
-    evaluate: false
-    value: 0
+    bindTarget: current_blood_pool
+    evaluate: true
+    value: "this.max_blood_pool"
 ```
 
-`BUTTON[count-decrement, count-reset, count-increment]` `VIEW[{count}]`
+`BUTTON[blood-decrement, blood-reset, blood-increment]`  Blood Pool: `VIEW[{current_blood_pool}]` /13
 
