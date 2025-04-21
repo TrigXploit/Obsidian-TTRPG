@@ -82,15 +82,21 @@ flaws:
 
 
 ## Attributes
-
-
 ```button
-title: +1 Blood
-type: meta
-action: update
-args:
-  field: current_blood_pool
-  value: "{{value + 1}}"
+name +1 Blood
+type meta
+action update
+args
+  field current_blood_pool
+  value "{{value + 1}}"
 ```
 
+
 ## Abilities
+
+```button
+name +1 Blood
+type meta
+action update
+current_blood_pool +1
+```
