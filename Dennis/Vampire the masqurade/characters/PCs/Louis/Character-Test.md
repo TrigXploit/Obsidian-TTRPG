@@ -39,7 +39,7 @@ backgrounds:
 humanity: 5
 willpower: 5
 max_blood_pool: 13
-current_blood_pool: 2
+current_blood_pool: 3
 merits:
   - name: big
     points: 3
@@ -50,7 +50,6 @@ flaws:
     points: 3
   - name: mute
     points: 2
-
 ---
 >[!infobox|no-table-header ]+  
 ># Loui
@@ -119,8 +118,9 @@ actions:
   - type: updateMetadata
     bindTarget: current_blood_pool
     evaluate: true
-    value: "this.max_blood_pool"
+    value: ### getMetadata(max_blood_pool)
 ```
 
-`BUTTON[blood-decrement, blood-reset, blood-increment]`  Blood Pool: `VIEW[{current_blood_pool}]` /13
+  Blood Pool: `VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+
 
