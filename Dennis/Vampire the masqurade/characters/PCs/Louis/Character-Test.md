@@ -87,7 +87,7 @@ actions:
     value: "getMetadata('max_blood_pool')"
 ```
 
->[!infobox|no-table-header ws-med]+  
+>[!infobox|no-table-header hm-sm]+  
 ># Loui
 >![[Loui image.jpg|]]
 >
@@ -96,9 +96,9 @@ actions:
 >>```meta-bind
 >>INPUT[number:current_blood_pool]
 >>```
->>
+>>a
 >>  **Blood Pool:** `VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
->>
+>>a
 >>**Willpower**  
 >>```meta-bind
 >>INPUT[number:willpower]
@@ -116,24 +116,57 @@ actions:
 >>**Nature**| unknown | 
 >>**Demeanor**| unknown  |
 >>**Disciplines** | Animalism<br>Fortitude<br>Protean |
+>
 
 
 ## Attributes
 
-> [!col| no-table-header]
->type|value|
-> ---|---| 
+> [!col| ]
+>> [!col-md]
+>> ### Physical
+>>type|value|
+>> ---|---| 
+>>test1|test 1|
 >
 >> [!col-md]
->> The second column of the callout
+>> ### Social
+>>type|value|
+>> ---|---| 
+>> test2|test 2|
 >
 >> [!col-md]
->> This column is now 3 times the width of the first column
+>> ### Mental
+>> type|value|
+>> ---|---| 
+>> test3|test 3| 
 
 
 ## Abilities
 
-
+> [!col]
+>> [!col-md]
+>>```dataviewjs
+>>const attrs = dv.current().attributes.physical;
+>>dv.table(["Physical", "Value"],
+> > Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>)
+>>```
+>
+>> [!col-md]
+>>```dataviewjs
+>>const attrs = dv.current().attributes.social;
+>>dv.table(["Social", "Value"],
+>>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>)
+>>```
+>
+>> [!col-md]
+>>```dataviewjs
+>>const attrs = dv.current().attributes.mental;
+>>dv.table(["Mental", "Value"],
+>>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>)
+>>```
 
 
 

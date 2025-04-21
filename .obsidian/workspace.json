@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b0f3906bf48e82",
+        "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 46.365914786967416,
+        "dimension": 60.33312769895126,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -28,28 +28,6 @@
               "state": {
                 "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character-Test"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6f8e55852eea5132",
-        "type": "tabs",
-        "dimension": 53.63408521303258,
-        "children": [
-          {
-            "id": "312b802037f94479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -83,7 +61,28 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "fac293c428181dab",
+        "type": "tabs",
+        "dimension": 39.666872301048734,
+        "children": [
+          {
+            "id": "312b802037f94479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character-Test"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 259.5
   },
   "right": {
     "id": "25914712cf90911d",
@@ -260,10 +259,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4be17c1166121479",
+  "active": "4e6ee884294920c7",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
