@@ -26,15 +26,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "file": "0. Testing/test/test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character-Test"
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f8e55852eea5132",
@@ -261,10 +262,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4be17c1166121479",
+  "active": "4e6ee884294920c7",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/Resources/create a character.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",

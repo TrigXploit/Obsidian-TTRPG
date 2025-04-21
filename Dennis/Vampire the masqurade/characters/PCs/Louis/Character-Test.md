@@ -120,6 +120,14 @@ actions:
 
 ## Attributes
 
+```col-md
+flexGrow=1
+===
+# New Column
+
+```
+
+
 ## Abilities
 
 
