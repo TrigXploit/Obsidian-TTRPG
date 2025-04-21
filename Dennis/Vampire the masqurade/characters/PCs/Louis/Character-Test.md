@@ -40,7 +40,7 @@ humanity: 5
 willpower: 5
 current_blood_pool: 8
 max_blood_pool: 13
-count: 10
+count: 0
 merits:
   - name: big
     points: 3
@@ -95,7 +95,7 @@ actions:
   - type: updateMetadata
     bindTarget: count
     evaluate: true
-    value: Math.min(10, x + 1)
+    value: "x + 1"
 ```
 
 ```meta-bind-button
@@ -107,7 +107,7 @@ actions:
   - type: updateMetadata
     bindTarget: count
     evaluate: true
-    value: Math.min(0, x - 1)
+    value: "x - 1"
 ```
 
 ```meta-bind-button
@@ -119,7 +119,8 @@ actions:
   - type: updateMetadata
     bindTarget: count
     evaluate: false
-    value: 9
+    value: 0
 ```
 
 `BUTTON[count-decrement, count-reset, count-increment]` `VIEW[{count}]`
+

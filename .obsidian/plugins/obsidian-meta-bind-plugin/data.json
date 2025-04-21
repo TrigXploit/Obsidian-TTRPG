@@ -8,8 +8,8 @@
     "shortName": "Mo"
   },
   "syncInterval": 200,
-  "enableJs": false,
-  "viewFieldDisplayNullAsEmpty": false,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": true,
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
