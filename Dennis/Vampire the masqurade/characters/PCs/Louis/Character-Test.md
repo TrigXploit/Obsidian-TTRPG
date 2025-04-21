@@ -120,12 +120,15 @@ actions:
 
 ## Attributes
 
-```col-md
-flexGrow=1
-===
-# New Column
-
-```
+> [!col| no-table-header]
+>type|value|
+> ---|---| 
+>
+>> [!col-md]
+>> The second column of the callout
+>
+>> [!col-md]
+>> This column is now 3 times the width of the first column
 
 
 ## Abilities

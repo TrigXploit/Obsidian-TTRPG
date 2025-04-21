@@ -1,7 +1,7 @@
 > [!col]
 > A col callout
 >
->> [!col-md-3]
+>> [!col-md]
 >> The second column of the callout
 >
 >> [!col-md]
