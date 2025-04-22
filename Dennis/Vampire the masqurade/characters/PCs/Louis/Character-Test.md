@@ -173,6 +173,7 @@ actions:
 
 
 
+
 testing
 
 > [!column]
@@ -181,3 +182,36 @@ testing
 >
 >> [!note] Column 2
 >> Need that singular blockquote `>` as separation between columns
+
+
+> [!col|]
+>
+>> [!col-md] 
+>> ### Physical
+>> 
+>> ```dataviewjs
+>> const attrs = dv.current().attributes.physical;
+>> dv.table(["Type", "Value"],
+>>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> )
+>> ```
+>
+>> [!col-md]
+>> 
+>> ### Social
+>> ```dataviewjs
+>> const attrs = dv.current().attributes.social;
+>> dv.table(["Type", "Value"],
+>>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> )
+>> ```
+>
+>> [!col-md]
+>> 
+>> ### Mental
+>> ```dataviewjs
+>> const attrs = dv.current().attributes.mental;
+>> dv.table(["Type", "Value"],
+>>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> )
+>> ```

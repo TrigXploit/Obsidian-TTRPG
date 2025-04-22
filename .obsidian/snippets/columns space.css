@@ -1,0 +1,13 @@
+/* Reduce padding and width of columns inside [!col] callouts */
+.callout[data-callout="col"] .callout[data-callout="col-md"] {
+    padding: 0.5rem;
+    margin: 0;
+    max-width: none;
+    flex: 1;
+  }
+  
+  /* Optional: reduce table spacing */
+  .callout table {
+    margin: 0.25rem 0;
+    font-size: 0.95em;
+  }
