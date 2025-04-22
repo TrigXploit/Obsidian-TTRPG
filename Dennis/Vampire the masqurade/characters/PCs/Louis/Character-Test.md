@@ -87,7 +87,7 @@ actions:
     value: "getMetadata('max_blood_pool')"
 ```
 
->[!infobox|no-table-header ws-med]+  
+>[!infobox|no-table-header ]+  
 ># Loui
 >![[Loui image.jpg|]]
 >
@@ -97,7 +97,7 @@ actions:
 >>INPUT[number:current_blood_pool]
 >>```
 >>a
->>  **Blood Pool:** `VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+>>  **Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
 >>a
 >>**Willpower**  
 >>```meta-bind
@@ -184,7 +184,7 @@ testing
 >> Need that singular blockquote `>` as separation between columns
 
 
-> [!col|]
+> [!col|no-table-header]
 >
 >> [!col-md] 
 >> ### Physical
