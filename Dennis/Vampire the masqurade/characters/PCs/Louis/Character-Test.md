@@ -143,7 +143,7 @@ actions:
 
 ## Abilities
 
-> [!col]
+> [!col|tables-no-alt-background]
 >> [!col-md]
 >>```dataviewjs
 >>const attrs = dv.current().attributes.physical;
@@ -172,3 +172,11 @@ actions:
 
 
 
+testing
+
+> [!column]
+>> [!info] Column 1
+>> - Use another callout for columns
+>
+>> [!note] Column 2
+>> Need that singular blockquote `>` as separation between columns
