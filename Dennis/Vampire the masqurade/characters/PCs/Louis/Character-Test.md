@@ -86,7 +86,6 @@ actions:
     evaluate: true
     value: "getMetadata('max_blood_pool')"
 ```
-
 >[!infobox|no-table-header ]+  
 ># Loui
 >![[Loui image.jpg|]]
@@ -116,29 +115,66 @@ actions:
 >>**Nature**| unknown | 
 >>**Demeanor**| unknown  |
 >>**Disciplines** | Animalism<br>Fortitude<br>Protean |
->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Attributes
 
-> [!col| ]
->> [!col-md]
->> ### Physical
->>type|value|
->> ---|---| 
->>test1|test 1|
+> [!column| flex 3 no-t ]
+>> Physical
+>> Use another callout for columns
 >
->> [!col-md]
->> ### Social
->>type|value|
->> ---|---| 
->> test2|test 2|
+>> [!] Column 2
+>> Need that as  columns
 >
->> [!col-md]
->> ### Mental
->> type|value|
->> ---|---| 
->> test3|test 3| 
+>> [!] Column 3
+>> Need that between columns
+
+
+
+
 
 
 ## Abilities
@@ -215,3 +251,6 @@ testing
 >>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >> )
 >> ```
+
+
+
