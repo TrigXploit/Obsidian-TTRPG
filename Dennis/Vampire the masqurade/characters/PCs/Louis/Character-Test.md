@@ -123,55 +123,35 @@ actions:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Attributes
 
-> [!column| flex 3 no-t ]
->> Physical
->> Use another callout for columns
+> [!column| 3 no-t ]
+>> [!blank|no-table-header] Column 1
+>> ### Physical
+>> ```dataviewjs
+>>const attrs = dv.current().attributes.physical;
+>>dv.table(["Physical", "Value"],
+> > Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>)
+>>```
 >
->> [!] Column 2
->> Need that as  columns
+>> [!blank|no-table-header] Column 2
+>> ### Social
+>>```dataviewjs
+>>const attrs = dv.current().attributes.social;
+>>dv.table(["Social", "Value"],
+>>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>)
+>>```
 >
->> [!] Column 3
->> Need that between columns
-
+>> [!blank|no-table-header] Column 3
+>> ### Social
+>>```dataviewjs
+>>const attrs = dv.current().attributes.mental;
+>>dv.table(["Mental", "Value"],
+>>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>)
+>>```
 
 
 
@@ -180,7 +160,7 @@ actions:
 ## Abilities
 
 > [!col|no-table-header ]
->> [!col-md]
+>> [!col-md| ]
 >>```dataviewjs
 >>const attrs = dv.current().attributes.physical;
 >>dv.table(["Physical", "Value"],
@@ -206,51 +186,6 @@ actions:
 >>```
 
 
-
-
-
-
-testing
-
-> [!column]
->> [!info] Column 1
->> - Use another callout for columns
->
->> [!note] Column 2
->> Need that singular blockquote `>` as separation between columns
-
-
-> [!col|no-table-header]
->
->> [!col-md] 
->> ### Physical
->> 
->> ```dataviewjs
->> const attrs = dv.current().attributes.physical;
->> dv.table(["Type", "Value"],
->>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
->> )
->> ```
->
->> [!col-md]
->> 
->> ### Social
->> ```dataviewjs
->> const attrs = dv.current().attributes.social;
->> dv.table(["Type", "Value"],
->>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
->> )
->> ```
->
->> [!col-md]
->> 
->> ### Mental
->> ```dataviewjs
->> const attrs = dv.current().attributes.mental;
->> dv.table(["Type", "Value"],
->>   Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
->> )
->> ```
 
 
 
