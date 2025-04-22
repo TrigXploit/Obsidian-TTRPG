@@ -178,8 +178,5 @@ testing
 >> [!info] Column 1
 >> - Use another callout for columns
 >
->> [!column] Column 2
->>>[!info]
->>>Need that singular blockquote `>` as separation between columns
->>
->>>[!info]
+>> [!note] Column 2
+>> Need that singular blockquote `>` as separation between columns
