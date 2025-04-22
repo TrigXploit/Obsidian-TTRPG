@@ -87,7 +87,7 @@ actions:
     value: "getMetadata('max_blood_pool')"
 ```
 
->[!infobox|no-table-header hm-sm]+  
+>[!infobox|no-table-header ws-med]+  
 ># Loui
 >![[Loui image.jpg|]]
 >
@@ -143,7 +143,7 @@ actions:
 
 ## Abilities
 
-> [!col|tables-no-alt-background]
+> [!col|no-table-header ]
 >> [!col-md]
 >>```dataviewjs
 >>const attrs = dv.current().attributes.physical;
@@ -159,7 +159,8 @@ actions:
 >>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
->
+> 
+> 
 >> [!col-md]
 >>```dataviewjs
 >>const attrs = dv.current().attributes.mental;
