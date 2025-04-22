@@ -125,8 +125,8 @@ actions:
 
 ## Attributes
 
-> [!column| 3 no-t ]
->> [!blank|no-table-header] Column 1
+> [!column| 3 no-t  ]
+>> [!blank|no-table-header wm-tl] Column 1
 >> ### Physical
 >> ```dataviewjs
 >>const attrs = dv.current().attributes.physical;
@@ -135,7 +135,7 @@ actions:
 >>)
 >>```
 >
->> [!blank|no-table-header] Column 2
+>> [!blank|no-table-header wm-tl] Column 2
 >> ### Social
 >>```dataviewjs
 >>const attrs = dv.current().attributes.social;
@@ -144,7 +144,7 @@ actions:
 >>)
 >>```
 >
->> [!blank|no-table-header] Column 3
+>> [!blank|no-table-header wm-tl] Column 3
 >> ### Social
 >>```dataviewjs
 >>const attrs = dv.current().attributes.mental;
@@ -152,6 +152,7 @@ actions:
 >>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
+>
 
 
 
