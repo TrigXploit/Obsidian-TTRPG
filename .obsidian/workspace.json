@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "file": "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character-Test"
+              "title": "creating a character sheet"
             }
           }
         ]
@@ -33,10 +33,14 @@
             "id": "f9f3d2721bbddce6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Character-Test"
             }
           }
         ]
@@ -202,12 +206,24 @@
   },
   "active": "2b19fdffc232abf9",
   "lastOpenFiles": [
+    "0. Testing/learning yamal, dataview and so on/to learn.md",
+    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "0. Testing/how to guides/how to guides.md",
+    "0. Testing/how to guides/how to dataview.md",
+    "0. Testing/how to guides/how to infobox.md",
+    "0. Testing/how to guides/ITS Theme guide.md",
+    "0. Testing/a.md",
+    "0. Testing/Dennis.md",
+    "0. Testing/Pasted image 20250223222109.png",
+    "0. Testing/test.md",
+    "0. Testing/vampire the masqurade sheet.png",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Dennis.md",
     "conflict-files-obsidian-git.md",
     "Pasted Image 20250418210943_386.png",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
     "Dennis/Vampire the masqurade/characters/PCs",
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
@@ -220,11 +236,6 @@
     "Dennis/Vampire the masqurade/Index.md",
     "Dennis/Vampire the masqurade/Clans",
     "Dennis/Vampire the masqurade",
-    "0. Testing/test.md",
-    "0. Testing/how to guides/how to infobox.md",
-    "0. Testing/how to guides/how to guides.md",
-    "0. Testing/how to guides/ITS Theme guide.md",
-    "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
@@ -234,13 +245,7 @@
     "Peter/Schemes of Innistrad/Session notes",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin",
     "0. Testing/test/note.md",
-    "0. Testing/learning yamal, dataview and so on/to learn.md",
     "0. Testing/test/test.md",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
-    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
-    "0. Testing/vampire the masqurade sheet.png",
-    "0. Testing/test1.md",
-    "0. Testing/Pasted image 20250223222109.png",
     "vampire the masqurade sheet.png",
     "Pasted image 20250223222109.png"
   ]
