@@ -1,5 +1,18 @@
 {
-  "styles": {},
-  "presets": {},
-  "presetOrder": []
+  "styles": {
+    "Dennis": {
+      "backgroundColor": "#2464e5"
+    },
+    "0. Testing/Character-Test.md": {
+      "backgroundColor": "#16792a"
+    }
+  },
+  "presets": {
+    "Dennis test": {
+      "backgroundColor": "#ff0000"
+    }
+  },
+  "presetOrder": [
+    "Dennis test"
+  ]
 }

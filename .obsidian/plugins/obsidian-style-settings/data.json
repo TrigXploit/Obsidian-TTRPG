@@ -30,5 +30,8 @@
   "ITS@@clear-headings": false,
   "ITS@@heading-indicator": false,
   "ITS@@bold-color@@dark": "#A7268B",
-  "ITS@@italic-color@@dark": "#D49F0E"
+  "ITS@@italic-color@@dark": "#D49F0E",
+  "anp-custom-rainbow-colors@@rainbow-color-repeat": "rainbow-repeat-1",
+  "anp-custom-rainbow-colors@@rainbow-color-2-default": "rainbow-color-2-mauve",
+  "anp-custom-rainbow-colors@@rainbow-color-11-default": "rainbow-color-11-yellow"
 }

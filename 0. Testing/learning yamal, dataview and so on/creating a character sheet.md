@@ -135,6 +135,8 @@ for (let i=0; i < dv.current().skills; i++) { //loops through the list
 ```
 
 test
+
+test
 ```dataviewjs
 
 // Function to generate the star rating based on the skill value (0-5)
@@ -160,7 +162,6 @@ skills.forEach((skill, index) => {
     const groupIndex = index % columns;  // This will cycle through 0, 1, 2 for the 3 groups
     dataColumns[groupIndex].push(skill); // Add the skill to the corresponding group
 });
-
 
 
 ```

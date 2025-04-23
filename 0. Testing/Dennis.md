@@ -1,1 +1,14 @@
-![[character template]]
+[[character template]]
+
+
+
+
+````col
+```col-md
+Column A
+```
+
+```col-md
+Column B
+```
+````
