@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Dennis.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dennis"
-            }
-          },
-          {
-            "id": "681f2f947dd71bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Character-Test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "39c3ba13933a56d1",
@@ -214,13 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "681f2f947dd71bea",
+  "active": "2b19fdffc232abf9",
   "lastOpenFiles": [
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Dennis.md",
     "conflict-files-obsidian-git.md",
     "Pasted Image 20250418210943_386.png",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
     "Dennis/Vampire the masqurade/characters/PCs",
@@ -255,7 +240,6 @@
     "0. Testing/vampire the masqurade sheet.png",
     "0. Testing/test1.md",
     "0. Testing/Pasted image 20250223222109.png",
-    "0. Testing/home.md",
     "vampire the masqurade sheet.png",
     "Pasted image 20250223222109.png"
   ]
