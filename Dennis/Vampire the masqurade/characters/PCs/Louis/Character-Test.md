@@ -86,7 +86,7 @@ actions:
     evaluate: true
     value: "getMetadata('max_blood_pool')"
 ```
->[!infobox|no-table-header ]+  
+>[!infobox|no-table-header  wsmall]+  
 ># Loui
 >![[Loui image.jpg|]]
 >
@@ -114,7 +114,7 @@ actions:
 >>**Concept**| Underground Boxer  |
 >>**Nature**| unknown | 
 >>**Demeanor**| unknown  |
->>**Disciplines** | Animalism<br>Fortitude<br>Protean |
+
 
 
 
@@ -185,8 +185,6 @@ actions:
 >>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
-
-
 
 
 
