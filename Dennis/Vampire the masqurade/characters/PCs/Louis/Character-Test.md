@@ -8,6 +8,13 @@ sire: Lebron James
 concept: Underground Boxer
 nature: unknown
 demeanor: unknown
+humanity: 5
+willpower: 5
+max_blood_pool: 13
+current_blood_pool: 12
+
+
+
 attributes:
   physical:
     strength: 3
@@ -21,30 +28,47 @@ attributes:
     perception: 3
     intelligence: 3
     wits: 3
+
+
 abilities:
-  talents: Alertness Athletics Awareness
-  skills: Animal-ken Crafts Drive
-  knowledges: Academics Computer Finance
+  talents: 
+    Alertness: 1 
+    Athletics: 2
+    Awareness: 3
+  skills: 
+    Animal-ken: 1
+    Crafts: 2
+    Drive: 3
+  knowledges: 
+    Academics: 1
+    Computer: 2
+    Finance: 3
+
+
 disciplines:
   - animalism
   - fortitude
   - protean
+
+
 virtues:
   conscience: 4
   self_control: 3
   courage: 5
+
+
 backgrounds:
   - resources: 2
   - allies: 1
-humanity: 5
-willpower: 5
-max_blood_pool: 13
-current_blood_pool: 12
+
+
 merits:
   - name: big
     points: 3
   - name: strong
     points: 3
+
+
 flaws:
   - name: blind
     points: 3
@@ -162,21 +186,19 @@ actions:
 
 > [!col|no-table-header ]
 >> [!col-md| ]
->>```dataviewjs
->>const attrs = dv.current().abil;
->>dv.table(["Physical", "Value"],
-> > Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
->>)
->>```
+>> ```dataviewjs
+>> const attrs = dv.current().abilities.talents;
+>> dv.table(["Physical", "Value"],
+>> Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> )
 >
 >> [!col-md]
 >>```dataviewjs
->>const attrs = dv.current().attributes.social;
+>>const attrs = dv.current().abilities.skills;
 >>dv.table(["Social", "Value"],
 >>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
-> 
 > 
 >> [!col-md]
 >>```dataviewjs
