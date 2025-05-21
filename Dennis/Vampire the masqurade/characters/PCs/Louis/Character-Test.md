@@ -1,18 +1,22 @@
 ---
 name: Loui
 player: Marcus
-clan: Gangril
-sect: Camarilla
-generation: 10
-sire: Lebron James
-concept: Underground Boxer
+
 nature: unknown
 demeanor: unknown
+concept: Underground Boxer
+
+clan: Gangril
+generation: 10
+sire: Lebron James
+
+sect: Camarilla
+
 humanity: 5
 willpower: 5
 max_blood_pool: 13
 current_blood_pool: 12
-
+blood_per_turn: 2
 
 attributes:
   physical:
@@ -34,14 +38,35 @@ abilities:
     Alertness: 1 
     Athletics: 2
     Awareness: 3
+    brawl: 4
+    empathy: 5
+    expression: 4
+    intimidation: 3
+    leadership: 2
+    streetwise: 1
+    subterfuge: 2
   skills: 
     Animal-ken: 1
     Crafts: 2
     Drive: 3
+    eiquette: 4
+    firearms: 5
+    larceny: 4
+    melee: 3
+    performance: 2
+    stealth: 1
+    survival: 2
   knowledges: 
     Academics: 1
     Computer: 2
     Finance: 3
+    investigation: 4
+    law: 5
+    medicine: 4
+    occult: 3
+    politics: 2
+    secience: 1
+    technology: 2
 
 
 
@@ -81,11 +106,15 @@ flaws:
   - name: mute
     points: 2
 
+
+
 weaknesses:
   - "This is my 1st weakness"
   - "This is my 2nd weakness"
 
-
+exeperience:
+  - "this is my 1st experience"
+  - "this is my 2nd experience"
 
 ---
 
@@ -226,7 +255,7 @@ actions:
 >> ```dataviewjs
 >>const disciplines = dv.current().disciplines;
 >>dv.table(["Discipline", "Value"], 
->>disciplines.map(d => [d.discipline, "●".repeat(d.value)])
+>>	disciplines.map(d => [d.discipline, "●".repeat(d.value)])
 >>);
 >>```
 >
@@ -241,10 +270,18 @@ actions:
 >
 >>[!col-md| ]
 >>### Virtues
+>> ```dataviewjs
+>> const attrs = dv.current().virtues;
+>> dv.table(["Physical", "Value"],
+>> 	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> )
+>>```
 
 
->>```dataviewjs
->>const weaknesses = dv.current().weaknesses;
->>dv.header(3, "Weaknesses");
->>dv.list(weaknesses);
+>```dataviewjs
+>const weaknesses = dv.current().weaknesses;
+>dv.header(3, "Weaknesses");
+>dv.list(weaknesses);
+>```
+
 

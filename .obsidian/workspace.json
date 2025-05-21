@@ -4,140 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "6b438d21ced48bb0",
-        "type": "split",
-        "dimension": 52.80172413793104,
+        "id": "6f8e55852eea5132",
+        "type": "tabs",
+        "dimension": 65.34926470588235,
         "children": [
           {
-            "id": "6f8e55852eea5132",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50154a0de030c853",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-04-18 20.58.18.excalidraw"
-                }
+            "id": "50154a0de030c853",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md"
               },
-              {
-                "id": "4e6ee884294920c7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. Testing/learning yamal, dataview and so on/character template.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "character template"
-                }
-              },
-              {
-                "id": "49046b5a5b359db4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. Testing/learning yamal, dataview and so on/character template.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "character template"
-                }
-              },
-              {
-                "id": "4be17c1166121479",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-04-18 20.58.18.excalidraw"
-                }
-              }
-            ]
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-18 20.58.18.excalidraw"
+            }
           },
           {
-            "id": "6d9902e52d480a57",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "367167befd9e078a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Character-Test"
-                }
-              }
-            ]
+            "id": "4e6ee884294920c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Testing/learning yamal, dataview and so on/character template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "character template"
+            }
+          },
+          {
+            "id": "367167befd9e078a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character-Test"
+            }
+          },
+          {
+            "id": "49046b5a5b359db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Testing/learning yamal, dataview and so on/character template.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "character template"
+            }
+          },
+          {
+            "id": "4be17c1166121479",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-18 20.58.18.excalidraw"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       },
       {
-        "id": "603c79c3bbd492c7",
-        "type": "split",
-        "dimension": 47.19827586206897,
+        "id": "fac293c428181dab",
+        "type": "tabs",
+        "dimension": 34.650735294117645,
         "children": [
           {
-            "id": "fac293c428181dab",
-            "type": "tabs",
-            "dimension": 58.26149425287356,
-            "children": [
-              {
-                "id": "312b802037f94479",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Character-Test"
-                }
-              }
-            ]
-          },
-          {
-            "id": "1d197c8c6d3d5940",
-            "type": "tabs",
-            "dimension": 41.73850574712644,
-            "children": [
-              {
-                "id": "55517b75b7f15cbd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Character-Test"
-                }
-              }
-            ]
+            "id": "312b802037f94479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character-Test"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.5
   },
   "right": {
     "id": "25914712cf90911d",
@@ -314,7 +273,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55517b75b7f15cbd",
+  "active": "312b802037f94479",
   "lastOpenFiles": [
     "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
