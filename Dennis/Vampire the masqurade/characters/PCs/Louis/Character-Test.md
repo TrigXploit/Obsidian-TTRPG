@@ -43,15 +43,29 @@ abilities:
     Computer: 2
     Finance: 3
 
+
+
+# ---------------------------------------- 
+# Change disciplines to the same way as "virtues:" way of doing Yaml
+# Use this meathod for weapons and attacks or if you need an object with multiple values
+# ----------------------------------------
+disciplines:
+  - discipline: protean
+    value: 3
+  - discipline: fortitude
+    value: 2
+  - discipline: animalism
+    value: 1
+
+backgrounds:
+  resources: 2
+  allies: 1
+
 virtues:
   conscience: 4
   self_control: 3
   courage: 5
 
-
-backgrounds:
-  - resources: 2
-  - allies: 1
 
 
 merits:
@@ -67,17 +81,10 @@ flaws:
   - name: mute
     points: 2
 
-# ---------------------------------------- 
-# Change disciplines to the same way as "virtues:" way of doing Yaml
-# Use this meathod for weapons and attacks or if you need an object with multiple values
-# ----------------------------------------
-disciplines:
-  - discipline: protean
-    value: 3
-  - discipline: fortitude
-    value: 2
-  - discipline: animalism
-    value: 1
+weaknesses:
+  - "This is my 1st weakness"
+  - "This is my 2nd weakness"
+
 
 
 ---
@@ -225,6 +232,19 @@ actions:
 >
 >>[!col-md| ]
 >>### Backgrounds
+>> ```dataviewjs
+>> const attrs = dv.current().backgrounds;
+>> dv.table(["Physical", "Value"],
+>> 	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> )
+>>```
 >
 >>[!col-md| ]
 >>### Virtues
+
+
+>>```dataviewjs
+>>const weaknesses = dv.current().weaknesses;
+>>dv.header(3, "Weaknesses");
+>>dv.list(weaknesses);
+
