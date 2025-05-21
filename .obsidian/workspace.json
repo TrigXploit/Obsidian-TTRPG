@@ -54,12 +54,14 @@
             "id": "4be17c1166121479",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md"
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 20.58.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Louis"
             }
           }
         ],
@@ -261,8 +263,10 @@
   },
   "active": "4be17c1166121479",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/how to guides.md",
@@ -271,8 +275,6 @@
     "Backgrounds.md",
     "Untitled.png",
     "Untitled.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "0. Testing/how to guides/how to infobox.md",
@@ -301,7 +303,6 @@
     "Dennis/Dennis.md",
     "Dennis/Vampire the masqurade/Clans",
     "Dennis/Vampire the masqurade/Index.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "Untitled.canvas"
   ]
 }
