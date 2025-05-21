@@ -67,6 +67,10 @@ flaws:
   - name: mute
     points: 2
 
+# ---------------------------------------- 
+# Change disciplines to the same way as "virtues:" way of doing Yaml
+# Use this meathod for weapons and attacks or if you need an object with multiple values
+# ----------------------------------------
 disciplines:
   - discipline: protean
     value: 3
@@ -74,6 +78,7 @@ disciplines:
     value: 2
   - discipline: animalism
     value: 1
+
 
 ---
 
@@ -210,7 +215,7 @@ actions:
 ## Advantages
 > [!col|no-table-header ]
 >> [!col-md| ]
->>### Talents
+>>### Disciplines
 >> ```dataviewjs
 >>const disciplines = dv.current().disciplines;
 >>dv.table(["Discipline", "Value"], 
@@ -218,4 +223,8 @@ actions:
 >>);
 >>```
 >
+>>[!col-md| ]
+>>### Backgrounds
 >
+>>[!col-md| ]
+>>### Virtues
