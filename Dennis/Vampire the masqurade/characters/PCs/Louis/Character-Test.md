@@ -14,7 +14,6 @@ max_blood_pool: 13
 current_blood_pool: 12
 
 
-
 attributes:
   physical:
     strength: 3
@@ -44,13 +43,6 @@ abilities:
     Computer: 2
     Finance: 3
 
-
-disciplines:
-  - animalism
-  - fortitude
-  - protean
-
-
 virtues:
   conscience: 4
   self_control: 3
@@ -74,7 +66,17 @@ flaws:
     points: 3
   - name: mute
     points: 2
+
+disciplines:
+  - discipline: protean
+    value: 3
+  - discipline: fortitude
+    value: 2
+  - discipline: animalism
+    value: 1
+
 ---
+
 ```meta-bind-button
 label: "+1"
 hidden: true
@@ -143,73 +145,77 @@ actions:
 
 
 
-
-
-
-
 ## Attributes
-
 > [!column| 3 no-t  ]
 >> [!blank|no-table-header wm-tl] Column 1
 >> ### Physical
 >> ```dataviewjs
 >>const attrs = dv.current().attributes.physical;
 >>dv.table(["Physical", "Value"],
-> > Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
 >
->> [!blank|no-table-header wm-tl] Column 2
+>> [!blank|no-table-header ] Column 2
 >> ### Social
 >>```dataviewjs
 >>const attrs = dv.current().attributes.social;
 >>dv.table(["Social", "Value"],
->>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
 >
->> [!blank|no-table-header wm-tl] Column 3
+>> [!blank|no-table-header ] Column 3
 >> ### Social
 >>```dataviewjs
 >>const attrs = dv.current().attributes.mental;
 >>dv.table(["Mental", "Value"],
->>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
 >
-
-
 
 
 
 ## Abilities
-
 > [!col|no-table-header ]
 >> [!col-md| ]
+>>### Talents
 >> ```dataviewjs
 >> const attrs = dv.current().abilities.talents;
 >> dv.table(["Physical", "Value"],
->> Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>> 	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >> )
 >
 >> [!col-md]
+>>### Skills
 >>```dataviewjs
 >>const attrs = dv.current().abilities.skills;
 >>dv.table(["Social", "Value"],
->>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
 > 
 >> [!col-md]
+>>### Knowledges
 >>```dataviewjs
->>const attrs = dv.current().attributes.mental;
+>>const attrs = dv.current().abilities.knowledges;
 >>dv.table(["Mental", "Value"],
->>  Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
+>>	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
 >>```
+
 
 
 ## Advantages
 > [!col|no-table-header ]
 >> [!col-md| ]
->>const attrs = dv.current().advantages
+>>### Talents
+>> ```dataviewjs
+>>const disciplines = dv.current().disciplines;
+>>dv.table(["Discipline", "Value"], 
+>>disciplines.map(d => [d.discipline, "●".repeat(d.value)])
+>>);
+>>```
+>
+>
