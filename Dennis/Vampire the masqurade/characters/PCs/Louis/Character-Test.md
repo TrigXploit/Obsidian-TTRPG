@@ -21,7 +21,7 @@ health:
   mauled: -2
   crippled: -5
   incapacitated: 0
-current_health: injured
+current_health: wounded
 attributes:
   physical:
     strength: 3
