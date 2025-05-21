@@ -163,7 +163,8 @@ actions:
 >>INPUT[number:current_blood_pool]
 >>```
 >>a
->>  **Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+>>**Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+>>**Blood pr. Turn**`View`
 >>a
 >>**Willpower**  
 >>```meta-bind

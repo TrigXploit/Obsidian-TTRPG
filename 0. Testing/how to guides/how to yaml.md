@@ -32,17 +32,15 @@ listOfObjects:
 
 
 
-### 3. **Object with custom keys** ❌ (YAML valid, but not great for Dataview)
+### Flat map** ✅ (good for numeric or uniform data)
 
 ```
-list:
-  1st: value
-  2nd: value
+map:
+  1st_Key: value
+  2nd_Key: value
 ```
-This is **valid YAML**, but:
-- Not really a list — it's a map (object) with keys `"1st"` and `"2nd"`.
-- Hard to loop or sort in Dataview.
-- Not recommended unless you have a specific reason.
+*important note:*
+- keys have to be content (something you care about).
 
 
 
@@ -63,15 +61,3 @@ list:
 clan: Gangrel
 generation: 10
 ```
-
-
-
-### 6. **Link and Metadata Objects**
-```
-allies:
-  - name: [[John Doe]]
-    role: friend
-    level: 2
-```
-**Great for:** Combining links and data. Use `dv.table()` to show links with context.
-
