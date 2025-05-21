@@ -6,7 +6,7 @@
       {
         "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 65.34926470588235,
+        "dimension": 49.44852941176471,
         "children": [
           {
             "id": "50154a0de030c853",
@@ -78,25 +78,52 @@
         "currentTab": 2
       },
       {
-        "id": "fac293c428181dab",
-        "type": "tabs",
-        "dimension": 34.650735294117645,
+        "id": "c15dc088e48b4ed0",
+        "type": "split",
+        "dimension": 50.55147058823529,
         "children": [
           {
-            "id": "312b802037f94479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character-Test"
-            }
+            "id": "fac293c428181dab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "312b802037f94479",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Character-Test"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a2639ac5888ccb7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d9eb51e968c966d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Character-Test"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -128,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "character test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,21 +300,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "312b802037f94479",
+  "active": "b5d3fa448e18ab0c",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "0. Testing/learning yamal, dataview and so on/character template.md",
+    "Backgrounds.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Untitled.png",
+    "Untitled.md",
+    "Dennis/Vampire the masqurade/characters/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/how to guides.md",
     "0. Testing/how to guides/how to infobox.md",
     "0. Testing/how to guides/ITS Theme guide.md",
-    "Untitled.md",
-    "Untitled.png",
     "0. Testing/a.md",
     "0. Testing/Dennis.md",
     "Dennis/Vampire the masqurade/Resources/create a character.md",
@@ -314,7 +342,6 @@
     "Dennis/Vampire the masqurade/Clans",
     "Dennis/Vampire the masqurade/Index.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas"
   ]
 }

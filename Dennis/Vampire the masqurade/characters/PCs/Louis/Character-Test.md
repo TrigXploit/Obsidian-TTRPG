@@ -83,8 +83,12 @@ disciplines:
     value: 1
 
 backgrounds:
-  resources: 2
-  allies: 1
+  resources:
+    value: 2
+    link: [[Backgrounds#resources]]
+  allies:
+    value: 1
+    link: [[Backgrounds#allies]]
 
 virtues:
   conscience: 4
@@ -263,9 +267,12 @@ actions:
 >>### Backgrounds
 >> ```dataviewjs
 >> const attrs = dv.current().backgrounds;
->> dv.table(["Physical", "Value"],
->> 	Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
->> )
+>> dv.table(["Background", "Value"], 
+>>	Object.entries(backgrounds).map(([key, val]) => [
+>>	val.link ?? key,
+>>	"●".repeat(val.value)
+>>	]) 
+>>);
 >>```
 >
 >>[!col-md| ]
