@@ -163,7 +163,7 @@ actions:
 > [!col|no-table-header ]
 >> [!col-md| ]
 >>```dataviewjs
->>const attrs = dv.current().attributes.physical;
+>>const attrs = dv.current().abil;
 >>dv.table(["Physical", "Value"],
 > > Object.entries(attrs).map(([key, val]) => [key, "●".repeat(val)])
 >>)
@@ -187,4 +187,7 @@ actions:
 >>```
 
 
-
+## Advantages
+> [!col|no-table-header ]
+>> [!col-md| ]
+>>const attrs = dv.current().advantages
