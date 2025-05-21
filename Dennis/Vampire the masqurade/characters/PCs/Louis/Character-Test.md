@@ -11,7 +11,6 @@ generation: 10
 sire: Lebron James
 
 sect: Camarilla
-
 humanity: 5
 willpower: 5
 max_blood_pool: 13
@@ -156,20 +155,28 @@ actions:
 >[!infobox|no-table-header  wsmall]+  
 ># Loui
 >![[Loui image.jpg|]]
->
 >>[!Current-Stats]+
+>>%% 
+>>----------------------------------------
+>>Leaving some old code here
+>>----------------------------------------
 >>**Blood Pool:** 
 >>```meta-bind
 >>INPUT[number:current_blood_pool]
 >>```
->>a
->>**Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
->>**Blood pr. Turn**`View`
->>a
->>**Willpower**  
+>>>**Willpower**  
 >>```meta-bind
 >>INPUT[number:willpower]
 >>```
+>>----------------------------------------
+>>Leaving some old code here
+>>----------------------------------------
+>>%%
+>>
+>>**Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
+>>​
+>>**Blood pr. Turn: ** 3 
+>>​
 >
 >>[!Bio]+
 >>Type |  value |
