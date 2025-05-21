@@ -1,22 +1,27 @@
 ---
 name: Loui
 player: Marcus
-
 nature: unknown
 demeanor: unknown
 concept: Underground Boxer
-
 clan: Gangril
 generation: 10
 sire: Lebron James
-
 sect: Camarilla
 humanity: 5
 willpower: 5
 max_blood_pool: 13
 current_blood_pool: 12
 blood_per_turn: 2
-
+health:
+  bruised: 0
+  hurt: -1
+  injured: -1
+  wounded: -2
+  mauled: -2
+  crippled: -5
+  incapacitated: 0
+current_health: injured
 attributes:
   physical:
     strength: 3
@@ -30,11 +35,9 @@ attributes:
     perception: 3
     intelligence: 3
     wits: 3
-
-
 abilities:
-  talents: 
-    Alertness: 1 
+  talents:
+    Alertness: 1
     Athletics: 2
     Awareness: 3
     brawl: 4
@@ -44,7 +47,7 @@ abilities:
     leadership: 2
     streetwise: 1
     subterfuge: 2
-  skills: 
+  skills:
     Animal-ken: 1
     Crafts: 2
     Drive: 3
@@ -55,7 +58,7 @@ abilities:
     performance: 2
     stealth: 1
     survival: 2
-  knowledges: 
+  knowledges:
     Academics: 1
     Computer: 2
     Finance: 3
@@ -66,13 +69,6 @@ abilities:
     politics: 2
     secience: 1
     technology: 2
-
-
-
-# ---------------------------------------- 
-# Change disciplines to the same way as "virtues:" way of doing Yaml
-# Use this meathod for weapons and attacks or if you need an object with multiple values
-# ----------------------------------------
 disciplines:
   - discipline: protean
     value: 3
@@ -80,41 +76,29 @@ disciplines:
     value: 2
   - discipline: animalism
     value: 1
-
 backgrounds:
   resources: 2
   allies: 1
-
 virtues:
   conscience: 4
   self_control: 3
   courage: 5
-
-
-
 merits:
   - name: big
     points: 3
   - name: strong
     points: 3
-
-
 flaws:
   - name: blind
     points: 3
   - name: mute
     points: 2
-
-
-
 weaknesses:
-  - "This is my 1st weakness"
-  - "This is my 2nd weakness"
-
+  - This is my 1st weakness
+  - This is my 2nd weakness
 exeperience:
-  - "this is my 1st experience"
-  - "this is my 2nd experience"
-
+  - this is my 1st experience
+  - this is my 2nd experience
 ---
 
 ```meta-bind-button
@@ -293,3 +277,10 @@ actions:
 >```
 
 
+```dataviewjs
+const healthLevels = dv.current().health;
+const current = dv.current().current_health;
+
+dv.paragraph(`🩸 **Health Status:** ${current} (${healthLevels[current]})`);
+
+```

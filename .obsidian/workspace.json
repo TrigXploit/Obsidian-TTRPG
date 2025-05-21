@@ -6,7 +6,7 @@
       {
         "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 63.51102941176471,
+        "dimension": 90.80882352941177,
         "children": [
           {
             "id": "367167befd9e078a",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Testing/how to guides/how to yaml.md",
-                "mode": "source",
-                "source": false
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "how to yaml"
+              "title": "Character-Test"
             }
           },
           {
@@ -65,12 +65,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "41d6af8cd2d5e67a",
         "type": "tabs",
-        "dimension": 36.48897058823529,
+        "dimension": 9.191176470588236,
         "children": [
           {
             "id": "4e6ee884294920c7",
@@ -261,14 +261,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4be17c1166121479",
+  "active": "9d9eb51e968c966d",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "0. Testing/how to guides/how to yaml.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
-    "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/how to guides.md",
     "0. Testing/how to guides/how to dataview.md",
     "0. Testing/Dennis.md",

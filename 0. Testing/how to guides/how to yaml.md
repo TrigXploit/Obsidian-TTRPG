@@ -32,7 +32,7 @@ listOfObjects:
 
 
 
-### Flat map** ✅ (good for numeric or uniform data)
+### **Flat map** ✅ (good for numeric or uniform data)
 
 ```
 map:
