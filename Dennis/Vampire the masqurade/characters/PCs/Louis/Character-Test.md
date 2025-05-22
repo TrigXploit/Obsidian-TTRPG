@@ -21,7 +21,7 @@ health:
   mauled: -2
   crippled: -5
   incapacitated: 0
-current_health: crippled
+current_health: wounded
 attributes:
   physical:
     strength: 3
@@ -136,20 +136,6 @@ actions:
     value: "getMetadata('max_blood_pool')"
 ```
 
-```meta-bind
-id: health-selector
-hidden: true
-INPUT[inlineSelect(
-  option(bruised),
-  option(hurt),
-  option(injured),
-  option(wounded),
-  option(mauled),
-  option(crippled),
-  option(incapacitated)
-):current_health]
-```
-
 >[!infobox|no-table-header ]+  
 ># Loui
 >![[Loui image.jpg|]]
@@ -165,7 +151,7 @@ INPUT[inlineSelect(
 >>```meta-bind
 >>INPUT[number:current_blood_pool]
 >>```
->>>**Willpower**  
+>>**Willpower**  
 >>```meta-bind
 >>INPUT[number:willpower]
 >>```
@@ -177,20 +163,32 @@ INPUT[inlineSelect(
 >>
 >>
 >>
->>
 >>**Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
 >>
 >>```dataviewjs
 >>const health = dv.current().health;
 >>const current = dv.current().current_health; 
 >>const value = health[current];
+>>
+>>const bpt = dv.current().blood_per_turn;
+>>const humanity = dv.current().humanity;
+>>
+>>dv.paragraph(`**Blood pr. Turn:** ${bpt}`);
+>>dv.paragraph(`**Humanity:** ${humanity}`);
 >>dv.paragraph(`**Current Health:** ${current} (${value})`);
 >>```
->>a
->>`VIEW[{health-selector}]`
->>a
 >>
->>**Blood pr. Turn: ** 3 
+>>```meta-bind
+>>INPUT[inlineSelect(
+>>option(bruised),
+>>option(hurt),
+>>option(injured),
+>>option(wounded),
+>>option(mauled),
+>>option(crippled),
+>>option(incapacitated)
+>>):current_health]
+>>```
 >>​
 >
 >>[!Bio]+
@@ -205,7 +203,10 @@ INPUT[inlineSelect(
 >>**Nature**| unknown | 
 >>**Demeanor**| unknown  |
 >
->
+>>[!notes]+
+>>```dataviewjs
+>>
+>>```
 
 
 ## Attributes

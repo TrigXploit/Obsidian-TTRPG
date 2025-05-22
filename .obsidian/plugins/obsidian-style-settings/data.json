@@ -11,7 +11,6 @@
   "ITS@@file-explorer-boldless-hover": false,
   "ITS@@background-image": false,
   "ITS@@default-statblock": false,
-  "ITS@@dataview-table-auto": true,
   "ITS@@dataview-regular-table": false,
   "ITS@@kanban-boxed": false,
   "ITS@@kanban-minimal": false,
@@ -21,5 +20,7 @@
   "ITS@@writing": false,
   "ITS@@justified": false,
   "ITS@@p-spacing": 1,
-  "ITS@@minimalist-workspace": false
+  "ITS@@minimalist-workspace": false,
+  "ITS@@bold-color@@dark": "#6820B7",
+  "ITS@@dataview-table-auto": true
 }
