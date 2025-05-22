@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Untitled"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Untitled"
             }
           }
         ]
@@ -234,11 +234,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4be17c1166121479",
+  "active": "49046b5a5b359db4",
   "lastOpenFiles": [
+    "0. Testing/how to guides/how to dataview.md",
+    "0. Testing/how to guides/How to Meta-Data.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/Clans/Clans.md",
     "0. Testing/how to guides/to learn.md",
@@ -251,9 +254,7 @@
     "0. Testing/test.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/how to guides/how to yaml.md",
-    "0. Testing/how to guides/How to Meta-Data.md",
     "0. Testing/how to guides/ITS Theme guide.md",
-    "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/how to infobox.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "0. Testing/how to guides/how to guides.md",

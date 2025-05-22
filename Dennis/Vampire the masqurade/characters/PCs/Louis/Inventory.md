@@ -36,4 +36,14 @@ dv.table(["Name","Quantity","Note","Edit"],
 );	
 ```
 
+```meta-bind
+REPEAT[inventory as item, index]
+DIV[
+  INPUT[text:inventory[{index}].name]
+  INPUT[number:inventory[{index}].quantity]
+  INPUT[text:inventory[{index}].note]
+]
+```
+
+
 `BUTTON[add-inventory-item]`
