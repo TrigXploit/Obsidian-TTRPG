@@ -6,7 +6,7 @@
       {
         "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 69.67670011148273,
+        "dimension": 57.222532069157836,
         "children": [
           {
             "id": "367167befd9e078a",
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -56,7 +56,7 @@
       {
         "id": "aafdb91fdc8b14d4",
         "type": "tabs",
-        "dimension": 30.32329988851728,
+        "dimension": 42.777467930842164,
         "children": [
           {
             "id": "9d9eb51e968c966d",
@@ -262,16 +262,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "49046b5a5b359db4",
+  "active": "9d9eb51e968c966d",
   "lastOpenFiles": [
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "0. Testing/how to guides/how to guides.md",
     "0. Testing/how to guides/how to yaml.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "0. Testing/how to guides/how to infobox.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/Templates/this is a template.md",
     "0. Testing/test.md",
     "0. Testing/learning yamal, dataview and so on/to learn.md",

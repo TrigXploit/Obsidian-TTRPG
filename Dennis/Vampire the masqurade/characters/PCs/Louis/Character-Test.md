@@ -101,6 +101,7 @@ exeperience:
   - this is my 2nd experience
 ---
 
+
 ```meta-bind-button
 label: "+1"
 hidden: true
@@ -151,10 +152,13 @@ INPUT[inlineSelect(
 ):current_health]
 ```
 
->[!infobox|no-table-header  wsmall]+  
+>[!infobox|no-table-header  wcustom]+  
 ># Loui
 >![[Loui image.jpg|]]
 >>[!Current-Stats]+
+>>
+>>
+>>
 >>%% 
 >>----------------------------------------
 >>Leaving some old code here
@@ -172,6 +176,10 @@ INPUT[inlineSelect(
 >>----------------------------------------
 >>%%
 >>
+>>
+>>
+>>
+>>
 >>**Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
 >>
 >>```dataviewjs
@@ -180,8 +188,9 @@ INPUT[inlineSelect(
 >>const value = health[current];
 >>dv.paragraph(`**Current Health:** ${current} (${value})`);
 >>```
->>
->>`VIEW{health-selector}`​
+>>a
+>>`VIEW[{health-selector}]`
+>>a
 >>
 >>**Blood pr. Turn: ** 3 
 >>​
@@ -197,6 +206,7 @@ INPUT[inlineSelect(
 >>**Concept**| Underground Boxer  |
 >>**Nature**| unknown | 
 >>**Demeanor**| unknown  |
+
 
 
 

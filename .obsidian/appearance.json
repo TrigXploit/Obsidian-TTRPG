@@ -5,6 +5,7 @@
   "enabledCssSnippets": [
     "S - Encoded Fonts",
     "S - Encoded Icons",
-    "columns space"
+    "columns space",
+    "custom-callout"
   ]
 }
