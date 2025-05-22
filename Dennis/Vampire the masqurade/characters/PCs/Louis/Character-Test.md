@@ -21,7 +21,7 @@ health:
   mauled: -2
   crippled: -5
   incapacitated: 0
-current_health: wounded
+current_health: crippled
 attributes:
   physical:
     strength: 3
@@ -136,6 +136,21 @@ actions:
     evaluate: true
     value: "getMetadata('max_blood_pool')"
 ```
+
+```meta-bind
+id: health-selector
+hidden: true
+INPUT[inlineSelect(
+  option(bruised),
+  option(hurt),
+  option(injured),
+  option(wounded),
+  option(mauled),
+  option(crippled),
+  option(incapacitated)
+):current_health]
+```
+
 >[!infobox|no-table-header  wsmall]+  
 ># Loui
 >![[Loui image.jpg|]]
@@ -158,7 +173,16 @@ actions:
 >>%%
 >>
 >>**Blood Pool**`VIEW[{current_blood_pool}]` / `VIEW[{max_blood_pool}]` `BUTTON[blood-increment, blood-reset, blood-decrement]`
->>​
+>>
+>>```dataviewjs
+>>const health = dv.current().health;
+>>const current = dv.current().current_health; 
+>>const value = health[current];
+>>dv.paragraph(`**Current Health:** ${current} (${value})`);
+>>```
+>>
+>>`VIEW{health-selector}`​
+>>
 >>**Blood pr. Turn: ** 3 
 >>​
 >
@@ -277,10 +301,5 @@ actions:
 >```
 
 
-```dataviewjs
-const healthLevels = dv.current().health;
-const current = dv.current().current_health;
 
-dv.paragraph(`🩸 **Health Status:** ${current} (${healthLevels[current]})`);
 
-```
