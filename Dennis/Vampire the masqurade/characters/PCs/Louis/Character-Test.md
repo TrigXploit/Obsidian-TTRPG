@@ -100,8 +100,6 @@ exeperience:
   - this is my 1st experience
   - this is my 2nd experience
 ---
-
-
 ```meta-bind-button
 label: "+1"
 hidden: true
@@ -152,7 +150,7 @@ INPUT[inlineSelect(
 ):current_health]
 ```
 
->[!infobox|no-table-header  wcustom]+  
+>[!infobox|no-table-header ]+  
 ># Loui
 >![[Loui image.jpg|]]
 >>[!Current-Stats]+
@@ -206,10 +204,8 @@ INPUT[inlineSelect(
 >>**Concept**| Underground Boxer  |
 >>**Nature**| unknown | 
 >>**Demeanor**| unknown  |
-
-
-
-
+>
+>
 
 
 ## Attributes
