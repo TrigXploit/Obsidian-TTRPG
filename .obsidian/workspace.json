@@ -6,7 +6,7 @@
       {
         "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 47.5478748248482,
+        "dimension": 47.54787482484821,
         "children": [
           {
             "id": "367167befd9e078a",
@@ -54,7 +54,7 @@
       {
         "id": "ec0049497137ae71",
         "type": "tabs",
-        "dimension": 52.4521251751518,
+        "dimension": 52.45212517515179,
         "children": [
           {
             "id": "4be17c1166121479",
@@ -63,7 +63,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -263,8 +263,9 @@
   },
   "active": "49046b5a5b359db4",
   "lastOpenFiles": [
-    "0. Testing/how to guides/how to yaml.md",
+    "Dennis/Vampire the masqurade/Clans/Clans.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "0. Testing/how to guides/how to yaml.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
@@ -299,7 +300,6 @@
     "Dennis/Vampire the masqurade/Sessions",
     "Dennis/Vampire the masqurade/Lore",
     "Dennis/Vampire the masqurade/Disciplines",
-    "Dennis/Vampire the masqurade/Clans/Clans.md",
     "Dennis/Vampire the masqurade/book and rules/Rules.md",
     "Dennis/Dennis.md",
     "Dennis/Vampire the masqurade/Clans",

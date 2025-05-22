@@ -94,7 +94,7 @@ flaws:
   - name: mute
     points: 2
 weaknesses:
-  - This is my 1st weakness
+  - This is my 1st weakness, and i am proud of it that is why im going to keep supplying the weakness with more and more blood until
   - This is my 2nd weakness
 exeperience:
   - this is my 1st experience
@@ -205,7 +205,7 @@ actions:
 >
 >>[!notes]+
 >>```dataviewjs
->>
+>>dv.list(dv.current().weaknesses, dv.current().exeperience);
 >>```
 
 
@@ -301,12 +301,15 @@ actions:
 >>```
 
 
->```dataviewjs
->const weaknesses = dv.current().weaknesses;
->dv.header(3, "Weaknesses");
->dv.list(weaknesses);
->```
+___
 
+## game related
+
+
+## combat
+
+
+## Inventory
 
 
 
