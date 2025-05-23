@@ -6,7 +6,7 @@
       {
         "id": "6f8e55852eea5132",
         "type": "tabs",
-        "dimension": 63.101354507239606,
+        "dimension": 63.270440251572325,
         "children": [
           {
             "id": "49046b5a5b359db4",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
-                "mode": "source",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Character-Test"
             }
           }
         ]
@@ -27,8 +27,22 @@
       {
         "id": "ec0049497137ae71",
         "type": "tabs",
-        "dimension": 36.89864549276039,
+        "dimension": 36.72955974842767,
         "children": [
+          {
+            "id": "2608390faa44efd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character-Test"
+            }
+          },
           {
             "id": "4be17c1166121479",
             "type": "leaf",
@@ -236,16 +250,16 @@
   },
   "active": "49046b5a5b359db4",
   "lastOpenFiles": [
-    "0. Testing/how to guides/how to dataview.md",
-    "0. Testing/how to guides/How to Meta-Data.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
+    "0. Testing/how to guides/how to dataview.md",
+    "0. Testing/how to guides/How to Meta-Data.md",
     "Dennis/Vampire the masqurade/Clans/Clans.md",
     "0. Testing/how to guides/to learn.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Pasted Image 20250418210943_386.png",
     "Backgrounds.md",
     "Untitled.png",
@@ -266,7 +280,6 @@
     "0. Testing/Dennis.md",
     "0. Testing/Pasted image 20250223222109.png",
     "0. Testing/a.md",
-    "0. Testing/learning yamal, dataview and so on/Untitled.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
     "Untitled",
     "Dennis/Vampire the masqurade/Resources",
