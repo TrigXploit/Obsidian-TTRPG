@@ -11,14 +11,36 @@
             "id": "4380949db916ec0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/5E_CharacterSheet_Fillable.pdf"
+                "file": "Jonas/Characters/character sheet Temp.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "5E_CharacterSheet_Fillable"
+              "icon": "lucide-file",
+              "title": "character sheet Temp"
             }
           },
+          {
+            "id": "bd751c01220e387c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character-Test"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a872e3a6243dec51",
+        "type": "tabs",
+        "children": [
           {
             "id": "b83523806fcd8fdf",
             "type": "leaf",
@@ -30,23 +52,8 @@
               "icon": "lucide-file-text",
               "title": "5E_CharacterSheet_Fillable"
             }
-          },
-          {
-            "id": "bd751c01220e387c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character-Test"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+                "file": "Jonas/Characters/character sheet Temp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5E_CharacterSheet_Fillable"
+              "title": "Outline of character sheet Temp"
             }
           },
           {
@@ -236,16 +243,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b83523806fcd8fdf",
+  "active": "4380949db916ec0b",
   "lastOpenFiles": [
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Jonas/Characters/character sheet Temp.md",
     "Jonas/Characters/Ideas.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Backgrounds.md",
     "Pasted Image 20250524195158_290.png",
     "Pasted Image 20250418210943_386.png",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
     "Excalidraw",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Dennis.md",
     "Jonas/Characters",
     "Jonas/Sessions",
