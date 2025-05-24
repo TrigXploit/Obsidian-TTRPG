@@ -15,7 +15,7 @@
               "state": {
                 "file": "Jonas/Characters/Ideas.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Ideas"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 289.5
   },
   "right": {
     "id": "25914712cf90911d",

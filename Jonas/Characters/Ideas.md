@@ -27,8 +27,23 @@
 
 
 ### Cleric
-#### Hunt Domain
+**Hit Dice:** 1d8
+**Modifier** Wisdom 
+**Proficiencies**:
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons
+- Tools: None
+- Saving Throws: Wisdom, Charisma
+- Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
 
+
+
+#### Hunt Domain
+gain spells at lv 1,3,5,7,9
+
+LV 1: 
+- gain proficiency with 2 martial weapons and a skill
+- Mark Prey: a better hunters mark
 
 
 ###  Sorcerer
