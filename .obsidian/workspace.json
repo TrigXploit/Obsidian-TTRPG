@@ -6,7 +6,6 @@
       {
         "id": "271947e12355eaac",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "4380949db916ec0b",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/character sheet Temp.md",
+                "file": "Jonas/Characters/Ideas.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "character sheet Temp"
+              "title": "Ideas"
             }
           },
           {
@@ -28,44 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Testing/how to guides/ITS Theme guide.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ITS Theme guide"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a872e3a6243dec51",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "b83523806fcd8fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backgrounds.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Backgrounds"
-            }
-          },
-          {
-            "id": "bd751c01220e387c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -129,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5036334991455
+    "width": 218.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "25914712cf90911d",
@@ -145,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Testing/how to guides/ITS Theme guide.md",
+                "file": "Jonas/Characters/Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ITS Theme guide"
+              "title": "Outline of Ideas"
             }
           },
           {
@@ -262,24 +226,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "89fc3a58d1be5a32",
+  "active": "4380949db916ec0b",
   "lastOpenFiles": [
+    "Jonas/Characters/character sheet Temp.md",
+    "Dennis/Dennis.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "0. Testing/how to guides/ITS Theme guide.md",
     "Backgrounds.md",
     "Backgrounds.png",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Pasted Image 20250524195158_290.png",
     "Jonas/Characters/Ideas.md",
-    "0. Testing/how to guides/ITS Theme guide.md",
     "ITS Theme guide.png",
     "ITS Theme guide.png",
     "character sheet Temp.png",
     "Pasted Image 20250418210943_386.png",
-    "Jonas/Characters/character sheet Temp.md",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Jonas/Characters/character profile pic.png",
-    "Dennis/Dennis.md",
     "0. Testing/how to guides/how to guides.md",
     "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
     "Excalidraw",
