@@ -5,11 +5,19 @@
     },
     "0. Testing/Character-Test.md": {
       "backgroundColor": "#16792a"
+    },
+    "0. Testing": {
+      "applyToSubfolders": true,
+      "backgroundColor": "#750071"
     }
   },
   "presets": {
     "Dennis test": {
       "backgroundColor": "#ff0000"
+    },
+    "Testing": {
+      "applyToSubfolders": true,
+      "backgroundColor": "#9e0099"
     }
   },
   "presetOrder": [
