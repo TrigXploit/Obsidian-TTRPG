@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Dennis.md",
+                "file": "Jonas/Characters/Ideas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dennis"
+              "title": "Ideas"
             }
           }
         ]
@@ -214,8 +214,11 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Dennis/Dennis.md",
+    "Jonas/Characters/Ideas.md",
+    "Jonas/Characters",
+    "Jonas/Sessions",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "0. Testing/how to guides/how to guides.md",
     "Jonas",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
@@ -245,7 +248,6 @@
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "0. Testing/Dennis.md",
     "0. Testing/Pasted image 20250223222109.png",
-    "0. Testing/a.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
     "Dennis/Vampire the masqurade/Resources",
     "Dennis/Vampire the masqurade/Templates",
@@ -253,8 +255,6 @@
     "Dennis/Vampire the masqurade/Locations",
     "Dennis/Vampire the masqurade/Sessions",
     "Dennis/Vampire the masqurade/Lore",
-    "Dennis/Vampire the masqurade/Disciplines",
-    "Dennis/Vampire the masqurade/Clans",
     "Untitled.canvas"
   ]
 }
