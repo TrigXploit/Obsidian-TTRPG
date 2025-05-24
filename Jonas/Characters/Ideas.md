@@ -21,6 +21,23 @@
 
 
 ### Rouge
+>[!infobox]+
+>a
+
+>[!infobox|no-table-header ]+  
+
+| Level | Prof <br>bonus | Class Feature                                          | Sneak attack |
+| ----- | -------------- | ------------------------------------------------------ | ------------ |
+| 1     | +2             | Expertise, Sneak Attack, Thieves’ Cant, Weapon Mastery | 1d6          |
+| 2     | +2             | Cunning Action                                         | 1d6          |
+| 3     | +2             | Rogue Subclass, Steady Aim                             | 2d6          |
+| 4     | +2             | Ability Score Improvement                              | 2d6          |
+| 5     | +3             | Cunning Strike, Uncanny Dodge                          | 3d6          |
+| 6     | +3             | Expertise                                              | 3d6          |
+| 7     | +3             | Evasion, Reliable Talent                               | 4d6          |
+| 8     | +3             | Ability Score Improvement                              | 4d6          |
+| 9     | +4             | Subclass Feature                                       | 5d6          |
+|       |                |                                                        |              |
 
 #### Assassin
 
