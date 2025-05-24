@@ -11,6 +11,17 @@
 >>
 >
 
+a
+aa
+a
+a
+a
+a
+a
+
+
+
+![[character sheet Temp.png]]
 
 
 
