@@ -78,9 +78,17 @@ he returned to the main family where he gets accepted and starts training to bec
 He gets given the House uniform and sent on a journey by His uncle.
 
 
+The journey is treated as a rite of passage
+House of Wyvin never works with another from the house due to
+"you only need 1 from house wyvin to fix it" 
+
 
 Feat: expert harvesting
  hunting knife
 
-
-Percussion checks
+armor of House Wyvin:
+- advantage on Persuasion checks, when I ask on behalf of the house.
+- Armor require attunement
+- The armor can be fitted with armor piece from the catalog, without requiring additional attunement.
+- armor gives +14 AC
+- light armor (1 min Don Doff)
