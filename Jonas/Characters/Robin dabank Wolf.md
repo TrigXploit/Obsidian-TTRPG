@@ -29,7 +29,8 @@
 >>>**Expertise**:
 >>>- Stealth
 >>>- Perception
->>>- 
+>>>
+>>>
 >>>**Armor:** Light armor
 >>>**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 >>>**Tools:** Thieves' tools
