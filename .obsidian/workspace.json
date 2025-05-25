@@ -6,7 +6,6 @@
       {
         "id": "271947e12355eaac",
         "type": "tabs",
-        "dimension": 79.8300283286119,
         "children": [
           {
             "id": "4380949db916ec0b",
@@ -34,27 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Character-Test"
-            }
-          }
-        ]
-      },
-      {
-        "id": "409b8415fff1258e",
-        "type": "tabs",
-        "dimension": 20.1699716713881,
-        "children": [
-          {
-            "id": "89fc3a58d1be5a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "testing"
             }
           }
         ]
@@ -231,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

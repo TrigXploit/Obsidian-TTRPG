@@ -1,5 +1,5 @@
 # character 1
->[!column|flex 2] ]
+>[!column|flex 2]
 >>[!infobox]+
 >># `=this.file.name`
 >>## Race: Shifter
@@ -13,7 +13,7 @@
 >> **Bestial Instincts**: Survival (proficiency)
 >
 >>[!infobox]+
->>>## Class 1 (rouge)
+>>## Class 1 (rouge)
 >>>### level 1
 >>>**Hit Dice:** 1d8
 >>>**Modifier** Dexterity
@@ -42,18 +42,33 @@
 >>> **Proficiency** with disguise kit and the poisoner’s kit.
 >>>**Assassinate**: You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Any hit you score against a creature that is surprised is a critical hit.
 >
->>>## Class 2 (Cleric | Hunt Domain)
->>> *note only new stuff will be added*
+>>[!infobox]+
+>>## Class 2 (Cleric | Hunt Domain)
+>> *note only new stuff will be added*
+>>>### Level 1 
 >>> **Armor** medium armor, shields
->>> **Spells**: 3 cantrips, 2 1st-lv (entangle, longstrider), 
->>> **Mark Prey**:Bonus action,  choose a creature you can
-see within 90 feet, mark for the next hour. For the duration, you deal
-an extra 1d6 damage to the target whenever you hit
-it with a weapon attack, and you have advantage on
-any Wisdom (Perception) or Wisdom (Survival)
-check you make to find it. If you use this feature to
-mark a new creature, any previous marks disappear
->
+>>> **Spells**: 3 cantrips, 2 1st-lv, you auto learn entangle & longstrider, They don't count toward known spells.
+>>> **Mark Prey**:Bonus action,  
+>>> - choose a creature you can see within 90 feet, mark for the next hour. 
+>>> - You deal an extra 1d6 damage to the target when you hit with a weapon attack.
+>>> - You have advantage on any Perception or Survival checks to find it. 
+>>> - If you mark a new creature, any previous marks disappear
+>>
+>>>### level 2
+>>>**Spells**: 3 cantrips, 3 1st-lv
+>>>**Channel Divinity: Honed Instincts**
+>>>You can use your Channel Divinity to gain preternatural insights into one creature you can see within 120
+>>>feet of you (no action required). You can choose one
+>>>of the following lists of information to learn about the 
+>>>target when you use this Channel Divinity: 
+>>>- Proficiencies. You learn the saving throws and skills with which the creature is proficient.
+>>>- Physiology. You learn the creature’s damage resistances, immunities, and vulnerabilities, as well as its condition immunities.
+>>>
+>>> In addition, the next time you hit the target with a weapon attack within the next minute, you deal the attack’s maximum damage instead of rolling.
+>>>
+>>>
+>>
+>>
 
 
 
@@ -87,25 +102,4 @@ mark a new creature, any previous marks disappear
 >> **Proficiency** with disguise kit and the poisoner’s kit.
 >> **Assassinate**: You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Any hit you score against a creature that is surprised is a critical hit.
 
-
-### Cleric
->[!fixing]+
->Hit Dice: 1d8
->**Modifier** Wisdom 
->**Proficiencies**: 
->- **Armor:** Light armor, medium armor, shields
->- **Weapons:** Simple weapons
->- Tools: None
->- Saving Throws: Wisdom, Charisma
->- Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
-
-
-
-#### Hunt Domain
-gain spells at lv 1,3,5,7,9
-
-LV 1: 
-- gain proficiency with 2 martial weapons and a skill (animal handling, Nature, Survival)
-- spells (entangle, longstrider)
-- Mark Prey: a better hunters mark
 
