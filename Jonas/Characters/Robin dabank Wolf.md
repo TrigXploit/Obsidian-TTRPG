@@ -71,4 +71,16 @@
 >>
 >>
 
+Background:
+3rd son of house *Wyvin* who are known for their tributes as hunters.
+He wanted to become something and choose to become a hunter like his family once was.
+he returned to the main family where he gets accepted and starts training to become a hunter.
+He gets given the House uniform and sent on a journey by His uncle.
 
+
+
+Feat: expert harvesting
+ hunting knife
+
+
+Percussion checks
