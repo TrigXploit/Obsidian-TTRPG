@@ -1,22 +1,13 @@
 ## Races
-
-### changeling
-
 ### Shifter
+**Darkvision**: 60
+**Shifting**: Wildhunt
+- Advantage on Wisdom checks.
+- no creature within 30 feet can attack you with advantage, unless you’re incapacitated.
+**Speed**: 30
+**Keen Senses**: Perception
 
-### Shadar-kai
 
-
-
-
-## Classes 
-
-### Tamer
-
-#### Leader
-#### Infuser
-#### Necromancer
-#### Splicer
 
 
 
