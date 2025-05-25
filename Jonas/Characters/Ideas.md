@@ -27,6 +27,12 @@
 >- Perception
 >**Sneak Attack** 1d6 (1&2) | 2d6 (3&4)
 >**Thieves' Cant**
+>
+>>### level 2
+>>**Cunning action**: you can use your bonus action to Dash, Disengage, or Hide
+>
+>>### Level 3 (Assassin)
+>>
 
 
 #### Assassin
