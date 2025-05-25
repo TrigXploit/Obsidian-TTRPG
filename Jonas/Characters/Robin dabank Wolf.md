@@ -54,7 +54,7 @@
 >>>**Ritual Casting**: You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared 
 >>> **Armor** medium armor, shields
 >>> **Spells**: 3 cantrips, 2 lv1 spell slots. You auto learn entangle & longstrider.
->>> **Prepared spells**: Wisdom modifier + Cleric Lv (4)
+>>> **Prepared spells**: Wisdom modifier + Cleric Lv (4)½
 >>> **Mark Prey**:Bonus action,  
 >>> - choose a creature you can see within 90 feet, mark for the next hour. 
 >>> - You deal an extra 1d6 damage to the target when you hit with a weapon attack.
