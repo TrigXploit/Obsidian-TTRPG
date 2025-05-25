@@ -1,6 +1,6 @@
 [link to documentation](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments#Sizing)
 
-https://github.com/PartiallyAPotato/DnD-stuff/blob/main/Player%**20Template**
+https://github.com/PartiallyAPotato/DnD-stuff/tree/main
 
 >[!column|flex 2]
 >> [!infobox]

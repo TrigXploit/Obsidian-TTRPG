@@ -7,15 +7,28 @@
 **Speed**: 30
 **Keen Senses**: Perception
 
-
+**Bestial Instincts**
 
 
 
 ### Rouge
 >[!infobox]+
->a
+>**Hit Dice:** 1d8
+>**Modifier** Wisdom 
+>**Proficiencies**:
+>- Insight
+>- Stealth
+>- Acrobatics
+>-  Investigation
+>- ​
+>Expertise:
+>- Stealth
+>- Perception
+>**Sneak Attack** 1d6 (1&2) | 2d6 (3&4)
+>
 
->[!infobox|no-table-header ]+  
+a
+
 
 | Level | Prof <br>bonus | Class Feature                                          | Sneak attack |
 | ----- | -------------- | ------------------------------------------------------ | ------------ |
