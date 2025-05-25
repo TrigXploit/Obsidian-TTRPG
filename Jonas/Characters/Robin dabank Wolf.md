@@ -17,7 +17,7 @@
 >>>### level 1
 >>>**Hit Dice:** 1d8
 >>>**Modifier** Dexterity
->>>**Weapon Mastery**:
+>>>**Weapon Mastery**: Shortbow, xxxx
 >>>**Proficiencies**:
 >>>- Insight
 >>>- Stealth
@@ -70,37 +70,5 @@
 >>>
 >>
 >>
-
-
-
-### Rouge
->[!fixing]+
->### level 1
->**Hit Dice:** 1d8
->**Modifier** Dexterity
->**Proficiencies**:
->- Insight
->- Stealth
->- Acrobatics
->-  Investigation​
->
->**Expertise**:
->- Stealth
->- Perception
->- 
->**Armor:** Light armor
->**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
->**Tools:** Thieves' tools
->**Saving Throws:** Dexterity, Intelligence
->**Sneak Attack** 1d6 (1&2) | 2d6 (3&4)
->**Thieves' Cant**: language for theives and other criminals.
->
->>### level 2
->>**Cunning action**: you can use your bonus action to Dash, Disengage, or Hide
->
->>### Level 3 (Assassin)
->>**Steady Aim**: As a bonus action, Give yourself advantage on your attack this turn. *Activate only if you haven't moved.*
->> **Proficiency** with disguise kit and the poisoner’s kit.
->> **Assassinate**: You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Any hit you score against a creature that is surprised is a critical hit.
 
 
