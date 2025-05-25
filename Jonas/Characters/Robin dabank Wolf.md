@@ -12,6 +12,8 @@
 >>**Keen Senses**: Perception (proficiency)
 >> **Bestial Instincts**: Survival (proficiency)
 >
+>
+>
 >>[!infobox| wtall]+
 >>## Class 1 (rouge)
 >>>### level 1
@@ -43,12 +45,16 @@
 >>> **Proficiency** with disguise kit and the poisoner’s kit.
 >>>**Assassinate**: You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Any hit you score against a creature that is surprised is a critical hit.
 >
+>
+>
 >>[!infobox | wtall]+
 >>## Class 2 (Cleric | Hunt Domain)
 >> *note only new stuff will be added*
 >>>### Level 1 
+>>>**Ritual Casting**: You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared 
 >>> **Armor** medium armor, shields
->>> **Spells**: 3 cantrips, 2 1st-lv, you auto learn entangle & longstrider, They don't count toward known spells.
+>>> **Spells**: 3 cantrips, 2 lv1 spell slots. You auto learn entangle & longstrider.
+>>> **Prepared spells**: Wisdom modifier + Cleric Lv (4)
 >>> **Mark Prey**:Bonus action,  
 >>> - choose a creature you can see within 90 feet, mark for the next hour. 
 >>> - You deal an extra 1d6 damage to the target when you hit with a weapon attack.
@@ -56,7 +62,7 @@
 >>> - If you mark a new creature, any previous marks disappear
 >>
 >>>### level 2
->>>**Spells**: 3 cantrips, 3 1st-lv
+>>>**Spells**: 2 -> 3 lv1 spell slots
 >>>**Channel Divinity: Honed Instincts**
 >>>You can use your Channel Divinity to gain preternatural insights into one creature you can see within 120
 >>>feet of you (no action required). You can choose one
@@ -83,7 +89,7 @@ House of Wyvin never works with another from the house due to
 "you only need 1 from house wyvin to fix it" 
 
 
-Feat: expert harvesting
+Feat: **expert harvesting**
  hunting knife
 
 armor of House Wyvin:
