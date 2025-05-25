@@ -6,13 +6,13 @@ AC: 0
 Prof: 
 HP: 0
 HitDice: d0
-Speed: 30
-STR: 11
-DEX: 17
-CONST: 11
-INT: 14
-WIS: 16
-CHA: 9
+Speed: 0
+STR: 0
+DEX: 0
+CONST: 0
+INT: 0
+WIS: 0
+CHA: 0
 Race: RaceName
 Alignment: NONE
 Gender: GenderName
@@ -44,7 +44,7 @@ Electrum: 0
 Gold: 0
 Platinum: 0
 ---
->[!column|]
+>[!column|flex 2]
 >> [!infobox]
 >> # `=this.file.name`
 >> ![[Character Image Placeholder]]

@@ -39,12 +39,14 @@
             "id": "89fc3a58d1be5a32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Backgrounds.png"
+                "file": "testing.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Backgrounds"
+              "icon": "lucide-file",
+              "title": "testing"
             }
           }
         ]
@@ -239,20 +241,19 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "testing.md",
+    "Backgrounds.png",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Jonas/Characters/Ideas.md",
     "Backgrounds.md",
-    "Backgrounds.png",
+    "ITS Theme guide.png",
+    "Pasted Image 20250418210943_386.png",
+    "Pasted Image 20250524195158_290.png",
     "0. Testing/how to guides/ITS Theme guide.md",
     "Jonas/Characters/character sheet Temp.md",
     "Dennis/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
-    "Pasted Image 20250524195158_290.png",
-    "ITS Theme guide.png",
-    "ITS Theme guide.png",
     "character sheet Temp.png",
-    "Pasted Image 20250418210943_386.png",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Jonas/Characters/character profile pic.png",

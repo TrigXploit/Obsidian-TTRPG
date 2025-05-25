@@ -1,3 +1,7 @@
+# character 1
+>[!column|]
+>>>> [!infobox]+
+
 ## Races
 ### Shifter
 **Darkvision**: 60
@@ -12,42 +16,46 @@
 
 
 ### Rouge
->[!infobox|]+
+>[!fixing]+
 >### level 1
 >**Hit Dice:** 1d8
->**Modifier** Wisdom 
+>**Modifier** Dexterity
 >**Proficiencies**:
 >- Insight
 >- Stealth
 >- Acrobatics
 >-  Investigation​
 >
->  **Expertise**:
+>**Expertise**:
 >- Stealth
 >- Perception
+>- 
+>**Armor:** Light armor
+>**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+>**Tools:** Thieves' tools
+>**Saving Throws:** Dexterity, Intelligence
 >**Sneak Attack** 1d6 (1&2) | 2d6 (3&4)
->**Thieves' Cant**
+>**Thieves' Cant**: language for theives and other criminals.
 >
 >>### level 2
 >>**Cunning action**: you can use your bonus action to Dash, Disengage, or Hide
 >
 >>### Level 3 (Assassin)
->>
-
-
-#### Assassin
-
+>>**Steady Aim**: As a bonus action, Give yourself advantage on your attack this turn. *Activate only if you haven't moved.*
+>> **Proficiency** with disguise kit and the poisoner’s kit.
+>> **Assassinate**: You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Any hit you score against a creature that is surprised is a critical hit.
 
 
 ### Cleric
-**Hit Dice:** 1d8
-**Modifier** Wisdom 
-**Proficiencies**:
-- **Armor:** Light armor, medium armor, shields
-- **Weapons:** Simple weapons
-- Tools: None
-- Saving Throws: Wisdom, Charisma
-- Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
+>[!fixing]+
+>Hit Dice: 1d8
+>**Modifier** Wisdom 
+>**Proficiencies**: 
+>- **Armor:** Light armor, medium armor, shields
+>- **Weapons:** Simple weapons
+>- Tools: None
+>- Saving Throws: Wisdom, Charisma
+>- Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
 
 
 
@@ -55,46 +63,7 @@
 gain spells at lv 1,3,5,7,9
 
 LV 1: 
-- gain proficiency with 2 martial weapons and a skill
+- gain proficiency with 2 martial weapons and a skill (animal handling, Nature, Survival)
+- spells (entangle, longstrider)
 - Mark Prey: a better hunters mark
-
-
-###  Sorcerer
-#### Skinshifter
-
-
-
-### warlock
-#### The Warlock
-
-
-# List Of Characters
-
-
-
-
-
-## character 1
-
-
-
-
-## character 2
-
-
-
-## character 3
-
-
-## character 4
-
-
-## character 5
-
-
-## character 6
-
-
-## character7
-
 
