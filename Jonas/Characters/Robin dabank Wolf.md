@@ -1,6 +1,6 @@
 # character 1
->[!column|flex 2]
->>[!infobox]+
+>[!column|3 ]
+>>[!infobox | wtall]+
 >># `=this.file.name`
 >>## Race: Shifter
 >>**Darkvision**: 60
@@ -12,11 +12,12 @@
 >>**Keen Senses**: Perception (proficiency)
 >> **Bestial Instincts**: Survival (proficiency)
 >
->>[!infobox]+
+>>[!infobox| wtall]+
 >>## Class 1 (rouge)
 >>>### level 1
 >>>**Hit Dice:** 1d8
 >>>**Modifier** Dexterity
+>>>**Weapon Mastery**:
 >>>**Proficiencies**:
 >>>- Insight
 >>>- Stealth
@@ -42,7 +43,7 @@
 >>> **Proficiency** with disguise kit and the poisoner’s kit.
 >>>**Assassinate**: You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Any hit you score against a creature that is surprised is a critical hit.
 >
->>[!infobox]+
+>>[!infobox | wtall]+
 >>## Class 2 (Cleric | Hunt Domain)
 >> *note only new stuff will be added*
 >>>### Level 1 

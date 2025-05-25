@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 453.5
   },
   "right": {
     "id": "25914712cf90911d",
@@ -228,15 +228,16 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
-    "testing.md",
+    "0. Testing/how to guides/how to yaml.md",
+    "0. Testing/how to guides/ITS Theme guide.md",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "testing.md",
     "Backgrounds.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Backgrounds.md",
     "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
     "Pasted Image 20250524195158_290.png",
-    "0. Testing/how to guides/ITS Theme guide.md",
     "Jonas/Characters/character sheet Temp.md",
     "Dennis/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
@@ -261,7 +262,6 @@
     "Untitled.png",
     "0. Testing/vampire the masqurade sheet.png",
     "0. Testing/test.md",
-    "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/how to infobox.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Dennis/Vampire the masqurade/Templates/this is a template.md",
