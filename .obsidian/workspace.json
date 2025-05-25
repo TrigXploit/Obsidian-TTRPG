@@ -6,6 +6,7 @@
       {
         "id": "271947e12355eaac",
         "type": "tabs",
+        "dimension": 79.8300283286119,
         "children": [
           {
             "id": "4380949db916ec0b",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Ideas.md",
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Robin dabank Wolf"
             }
           },
           {
@@ -34,7 +35,14 @@
               "icon": "lucide-file",
               "title": "Character-Test"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "409b8415fff1258e",
+        "type": "tabs",
+        "dimension": 20.1699716713881,
+        "children": [
           {
             "id": "89fc3a58d1be5a32",
             "type": "leaf",
@@ -122,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Ideas.md",
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ideas"
+              "title": "Outline of Robin dabank Wolf"
             }
           },
           {
@@ -242,9 +250,9 @@
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
     "testing.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Backgrounds.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-    "Jonas/Characters/Ideas.md",
     "Backgrounds.md",
     "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
