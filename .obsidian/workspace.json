@@ -6,7 +6,6 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 55.515832482124615,
         "children": [
           {
             "id": "89db60553336b824",
@@ -33,15 +32,7 @@
               "icon": "lucide-file-text",
               "title": "DnD_2024_Character-Sheet-Fillable"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "12ee9e5d54d91d47",
-        "type": "tabs",
-        "dimension": 44.484167517875385,
-        "children": [
+          },
           {
             "id": "d412ddbda6b7123e",
             "type": "leaf",
@@ -52,6 +43,27 @@
               },
               "icon": "excalidraw-icon",
               "title": "character sheet drawing"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f655a5dd3ed61106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80e84ffca8ee80e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonas/Characters/Wolf.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Wolf"
             }
           }
         ]
@@ -245,13 +257,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d412ddbda6b7123e",
+  "active": "d80e84ffca8ee80e",
   "lastOpenFiles": [
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/character sheet drawing.md",
-    "Jonas/Characters/character sheet Temp.md",
-    "Jonas/Characters/character profile pic.png",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Robin Wolf pic.jpg",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/character profile pic.png",
     "Peter/Schemes of Innistrad/Session notes/Session 1.md",
     "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
     "Excalidraw/Drawing 2025-05-26 23.55.04.excalidraw.md",
@@ -264,8 +280,6 @@
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "0. Testing/how to guides/how to guides.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/ITS Theme guide.md",
@@ -282,7 +296,6 @@
     "Jonas/Sessions",
     "Jonas",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/How to Meta-Data.md",
     "Dennis/Vampire the masqurade/Clans/Clans.md",
