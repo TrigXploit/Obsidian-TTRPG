@@ -11,14 +11,12 @@
             "id": "4380949db916ec0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
-                "mode": "source",
-                "source": false
+                "file": "Jonas/Characters/5E_CharacterSheet_Fillable.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Robin dabank Wolf"
+              "icon": "lucide-file-text",
+              "title": "5E_CharacterSheet_Fillable"
             }
           },
           {
@@ -228,17 +226,17 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
+    "Jonas/Characters/character sheet Temp.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/ITS Theme guide.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "testing.md",
     "Backgrounds.png",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Backgrounds.md",
     "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
     "Pasted Image 20250524195158_290.png",
-    "Jonas/Characters/character sheet Temp.md",
     "Dennis/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "character sheet Temp.png",
