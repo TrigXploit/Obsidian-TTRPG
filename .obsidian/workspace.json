@@ -25,16 +25,34 @@
             "id": "4380949db916ec0b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Jonas/Characters/character profile pic.png"
+                "file": "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf"
               },
-              "icon": "lucide-image",
-              "title": "character profile pic"
+              "icon": "lucide-file-text",
+              "title": "DnD_2024_Character-Sheet-Fillable"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "12ee9e5d54d91d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d412ddbda6b7123e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Jonas/Characters/character sheet drawing.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "character sheet drawing"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inventory",
+                "query": "exca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 316.49999809265137
   },
   "right": {
     "id": "25914712cf90911d",
@@ -225,14 +243,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4380949db916ec0b",
+  "active": "d412ddbda6b7123e",
   "lastOpenFiles": [
-    "Jonas/Characters/character sheet Temp.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
-    "Jonas/Characters/Robin dabank Wolf.md",
-    "Dennis/Dennis.md",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/character sheet drawing.md",
+    "Jonas/Characters/character sheet Temp.md",
     "Jonas/Characters/character profile pic.png",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "Peter/Schemes of Innistrad/Session notes/Session 1.md",
+    "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-26 23.55.04.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
+    "e.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
+    "Dennis/Dennis.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
+    "0. Testing/how to guides/how to guides.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
     "0. Testing/how to guides/how to yaml.md",
@@ -245,29 +275,17 @@
     "Pasted Image 20250524195158_290.png",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "character sheet Temp.png",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "0. Testing/how to guides/how to guides.md",
-    "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
     "Excalidraw",
     "Jonas/Characters",
     "Jonas/Sessions",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Jonas",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
     "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/How to Meta-Data.md",
     "Dennis/Vampire the masqurade/Clans/Clans.md",
-    "0. Testing/how to guides/to learn.md",
     "Untitled.png",
     "0. Testing/vampire the masqurade sheet.png",
-    "0. Testing/test.md",
-    "0. Testing/how to guides/how to infobox.md",
-    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
-    "Dennis/Vampire the masqurade/Templates/this is a template.md",
-    "Dennis/Vampire the masqurade/Resources/create a character.md",
-    "0. Testing/learning yamal, dataview and so on/creating a character sheet.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
     "Dennis/Vampire the masqurade/Resources",
     "Dennis/Vampire the masqurade/Templates",
