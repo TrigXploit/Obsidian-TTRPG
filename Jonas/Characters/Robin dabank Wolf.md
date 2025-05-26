@@ -97,11 +97,15 @@
 >>
 
 Actions:
-- **Shift**
+- Attack
+- Dash
+- Hide
+- Spells
 
 
 **Bonus Actions**:
 - Mark Prey
+- Shift
 - 
 - 
 
