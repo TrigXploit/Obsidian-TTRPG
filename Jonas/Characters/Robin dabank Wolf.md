@@ -93,10 +93,13 @@ House of Wyvin never works with another from the house due to
 
 
 Feat: **expert harvesting**
-- hunting knife
+- Hunting knife
 - Increase Dexterity by 1 to a max of 20
+- Making a Harvesting check with a skill you have proficiency in, double your proficiency bonus. 
 - 
-- 
+- When you attempt to harvest a creature for which you don’t have the required skill proficiency, you can add your proficiency bonus to the result of the roll. 
+- If you are helping with a Harvesting check, you add your full proficiency bonus to the check’s result, regardless of whether you’re proficient in the requisite skill. 
+- You do not suffer disadvantage on your Harvesting checks as a result of choosing to perform both the Assessment and Carving checks alone.
 
 armor of House Wyvin:
 - advantage on Persuasion checks, when I ask on behalf of the house.
