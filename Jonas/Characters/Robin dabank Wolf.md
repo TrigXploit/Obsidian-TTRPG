@@ -54,8 +54,10 @@
 >>>### Level 1 
 >>>**Ritual Casting**: You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared 
 >>> **Armor** medium armor, shields
+>>> **Weapons**: proficiency with two martial weapons ()
+>>> **Skills**: proficiency with Nature.
 >>> **Spells**: 3 cantrips, 2 lv1 spell slots. You auto learn entangle & longstrider.
->>> **Prepared spells**: Wisdom modifier + Cleric Lv (4)½
+>>> **Prepared spells**: Wisdom modifier + Cleric Lv (4)
 >>> **Mark Prey**:Bonus action,  
 >>> - choose a creature you can see within 90 feet, mark for the next hour. 
 >>> - You deal an extra 1d6 damage to the target when you hit with a weapon attack.
@@ -91,7 +93,10 @@ House of Wyvin never works with another from the house due to
 
 
 Feat: **expert harvesting**
- hunting knife
+- hunting knife
+- Increase Dexterity by 1 to a max of 20
+- 
+- 
 
 armor of House Wyvin:
 - advantage on Persuasion checks, when I ask on behalf of the house.
