@@ -11,12 +11,14 @@
             "id": "4380949db916ec0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/5E_CharacterSheet_Fillable.pdf"
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "5E_CharacterSheet_Fillable"
+              "icon": "lucide-file",
+              "title": "Robin dabank Wolf"
             }
           },
           {
@@ -226,8 +228,10 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
-    "Jonas/Characters/character sheet Temp.md",
+    "Jonas/Characters/character profile pic.png",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/character sheet Temp.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/ITS Theme guide.md",
@@ -240,9 +244,7 @@
     "Dennis/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "character sheet Temp.png",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Jonas/Characters/character profile pic.png",
     "0. Testing/how to guides/how to guides.md",
     "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
     "Excalidraw",
