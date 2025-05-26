@@ -2,15 +2,31 @@
 >[!column|3 ]
 >>[!infobox | wtall]+
 >># `=this.file.name`
->>## Race: Shifter
->>**Darkvision**: 60
->>**Shifting**: Wildhunt
->> - Advantage on Wisdom checks.
->> - no creature within 30 feet can attack you with advantage, unless you’re incapacitated.
->>
->>**Speed**: 30
->>**Keen Senses**: Perception (proficiency)
->> **Bestial Instincts**: Survival (proficiency)
+>>>## Race: Shifter
+>>>**Darkvision**: 60
+>>>**Stats** +2 & +1
+>>>**Shifting**: Wildhunt
+>>> - Advantage on Wisdom checks.
+>>> - no creature within 30 feet can attack you with advantage, unless you’re incapacitated.
+>>>
+>>>**Speed**: 30
+>>>**Background**: ?
+>>>**Keen Senses**: Perception (proficiency)
+>>> **Bestial Instincts**: Survival (proficiency)
+>>> **Feat**: Expert Harvester
+>>> - Hunting knife
+>>>- Increase Dexterity by 1 to a max of 20
+>>>- Making a Harvesting check with a skill you have proficiency in, double your proficiency bonus. 
+>>>- Making a Harvesting check with a skill you DO NOT have proficiency in, add your proficiency bonus. 
+>>>- If you help with a Harvesting check, add your proficiency bonus to the result, regardless of  if you’re proficient with that skill. 
+>>>- You do not suffer disadvantage on your Harvesting checks by doing both the Assessment and Carving checks alone.
+>>>
+>>>**Armor of House Wyvin**:
+>>>- advantage on Persuasion checks, when I ask on behalf of the house.
+>>>- Armor require attunement
+>>>- The armor can be fitted with armor piece from the catalog, without requiring additional attunement.
+>>>- armor gives +14 AC
+>>>- light armor (1 min Don Doff)
 >
 >
 >
@@ -53,7 +69,7 @@
 >> *note only new stuff will be added*
 >>>### Level 1 
 >>>**Ritual Casting**: You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared 
->>> **Armor** medium armor, shields
+>>>**Armor** medium armor, shields
 >>> **Weapons**: proficiency with two martial weapons ()
 >>> **Skills**: proficiency with Nature.
 >>> **Spells**: 3 cantrips, 2 lv1 spell slots. You auto learn entangle & longstrider.
@@ -80,7 +96,16 @@
 >>
 >>
 
-Background:
+Actions:
+- **Shift**
+
+
+**Bonus Actions**:
+- Mark Prey
+- 
+- 
+
+**Background:**
 3rd son of house *Wyvin* who are known for their tributes as hunters.
 He wanted to become something and choose to become a hunter like his family once was.
 he returned to the main family where he gets accepted and starts training to become a hunter.
@@ -90,20 +115,3 @@ He gets given the House uniform and sent on a journey by His uncle.
 The journey is treated as a rite of passage
 House of Wyvin never works with another from the house due to
 "you only need 1 from house wyvin to fix it" 
-
-
-Feat: **expert harvesting**
-- Hunting knife
-- Increase Dexterity by 1 to a max of 20
-- Making a Harvesting check with a skill you have proficiency in, double your proficiency bonus. 
-- 
-- When you attempt to harvest a creature for which you don’t have the required skill proficiency, you can add your proficiency bonus to the result of the roll. 
-- If you are helping with a Harvesting check, you add your full proficiency bonus to the check’s result, regardless of whether you’re proficient in the requisite skill. 
-- You do not suffer disadvantage on your Harvesting checks as a result of choosing to perform both the Assessment and Carving checks alone.
-
-armor of House Wyvin:
-- advantage on Persuasion checks, when I ask on behalf of the house.
-- Armor require attunement
-- The armor can be fitted with armor piece from the catalog, without requiring additional attunement.
-- armor gives +14 AC
-- light armor (1 min Don Doff)
