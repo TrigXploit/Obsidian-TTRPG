@@ -25,12 +25,12 @@
             "id": "4380949db916ec0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf"
+                "file": "Jonas/Characters/character profile pic.png"
               },
-              "icon": "lucide-file-text",
-              "title": "DnD_2024_Character-Sheet-Fillable"
+              "icon": "lucide-image",
+              "title": "character profile pic"
             }
           }
         ],
@@ -227,10 +227,11 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/character sheet Temp.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Dennis/Dennis.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
@@ -242,7 +243,6 @@
     "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
     "Pasted Image 20250524195158_290.png",
-    "Dennis/Dennis.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "character sheet Temp.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
