@@ -4,9 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "271947e12355eaac",
+        "id": "c3c4d44f1205a87b",
         "type": "tabs",
         "children": [
+          {
+            "id": "89db60553336b824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Robin dabank Wolf"
+            }
+          },
           {
             "id": "4380949db916ec0b",
             "type": "leaf",
@@ -18,22 +32,9 @@
               "icon": "lucide-file-text",
               "title": "DnD_2024_Character-Sheet-Fillable"
             }
-          },
-          {
-            "id": "89db60553336b824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character-Test"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,13 +227,13 @@
   },
   "active": "4380949db916ec0b",
   "lastOpenFiles": [
-    "Jonas/Characters/character sheet Temp.md",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
-    "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
-    "Jonas/Characters/character profile pic.png",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/character sheet Temp.md",
+    "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/ITS Theme guide.md",
     "testing.md",
