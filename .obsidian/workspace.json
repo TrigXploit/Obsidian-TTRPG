@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 23.359683794466406,
+        "dimension": 33.12252964426877,
         "children": [
           {
             "id": "89db60553336b824",
@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2. 1st Lv spells"
+              "title": "Character-Test"
             }
           },
           {
@@ -47,12 +47,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 76.6403162055336,
+        "dimension": 66.87747035573123,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Character-Test"
             }
           },
           {
@@ -287,15 +287,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "97805d5cad2344f9",
+  "active": "94a5d4b690696732",
   "lastOpenFiles": [
-    "Jonas/Characters/Tables.md",
+    "Dennis/Dennis.md",
+    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Tables.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
-    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/TestWolf.md",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
@@ -315,7 +316,6 @@
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
     "DnD stuff (add as I go)",
-    "Dennis/Dennis.md",
     "0. Testing/how to guides/How to Meta-Data.md",
     "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/how to infobox.md",
