@@ -2,7 +2,8 @@
 Art: "![Robin Wolf pic.jpg]"
 Type: Player
 Level: 2
-proficiency_bonus: "=floor((this.level - 1) / 4) + 2"
+proficiency_bonus: 2
+speed:30
 Dex_bonus: 4
 ---
 
@@ -60,59 +61,4 @@ Dex_bonus: 4
 >
 
 
-a
 
-`= dv.page("Wolf").proficiency_bonus` `=this.file.name`
-
-
-
-> [!statblocks]
-> # Name
-> > Description
-> *Basics*
-> *Basics*
-> 
-> ---
-| HP | AC | Initiative |
-|:---:|:---:|:---:|
-| | | |
->
-| STR | DEX | CON | INT | WIS | CHA |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  | **Mod** |
-|  |  |  |  |  |  | **Sav** |
-> 
-|  |  |
-| ---:|:--- |
-| **Speed** |  |
-| **Passive Perception (WIS)** |  |
-| **Proficiency Bonus** |  |
-| **Darkvision** |  |
->
-> ---
->> [!checks|no-t] 
->> - **Death Saves**
->>	- ❌
->>	- [ ] 
->>	- [ ] 
->>	- [ ] 
->>	- ✔
->>	- [ ] 
->>	- [ ] 
->>	- [ ] 
->
-> ###### Traits
-|                   |     |
-| ----------------- | --- |
-| **Class**         |     |
-| **.**             |     |
-| **Racial Traits** |     |
-| **Feats**         |     |
-|                   |     |
-| 
-
-
-
->[!infobox|wmed]
->this is my infobox

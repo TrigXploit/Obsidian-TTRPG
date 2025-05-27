@@ -60,12 +60,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
-                "mode": "source",
-                "source": false
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2. 1st Lv spells"
+              "title": "Robin dabank Wolf"
             }
           },
           {
@@ -96,8 +96,7 @@
               "title": "Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Robin dabank Wolf"
             }
           },
           {
@@ -287,17 +286,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "97805d5cad2344f9",
+  "active": "179bb31b627d7d51",
   "lastOpenFiles": [
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/character sheet drawing.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/Tables.md",
     "Jonas/Characters/Wolf.md",
-    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/TestWolf.md",
     "Jonas/Characters/Robin dabank Wolf.md",
-    "Jonas/Characters/character sheet drawing.md",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
     "DnD stuff (add as I go)/2014/Items/Utility.md",
     "DnD stuff (add as I go)/2014/Items/Armor.md",
