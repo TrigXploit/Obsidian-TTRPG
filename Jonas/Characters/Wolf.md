@@ -37,8 +37,10 @@ Art: "![[Robin Wolf pic.jpg]]"
 >> **Current Location** | `=this.Location` |
 >
 >> [!infobox| wtall]
->> ######currency
->> 
+>> ###### currency
+>> Copper | Silver | Gold | Platinum |
+>> ---|---|---|---|
+>> 1|2|3|4|
 >> ![[Tables#inventory]]
 >> ![[Tables#Equipment]]
 >

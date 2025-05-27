@@ -21,3 +21,5 @@
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
 | 0      | 0      | 50   | 0        |
+
+## spells
