@@ -70,8 +70,9 @@
 
 ## Actions
 
-| Action    | Cost           |     |
-| --------- | -------------- | --- |
-| Attack    | 1 Action       |     |
-| Mark Prey | 1 bonus action |     |
-|           |                |     |
+| Action                      | Cost           | Note         |
+| --------------------------- | -------------- | ------------ |
+| Attack                      | 1 Action       | Sneak attack |
+| Mark Prey                   | 1 bonus action |              |
+| Shift                       | 1 bonus action |              |
+| Two-Weapon <br>Fighting<br> | 1 bonus action |              |
