@@ -36,6 +36,8 @@ Art: "![[Robin Wolf pic.jpg]]"
 >> **Religion(s)** | `=this.AssociatedReligion` |
 >> **Current Location** | `=this.Location` |
 >
+>
+>
 >> [!infobox| wtall]
 >> ###### currency
 >> Copper | Silver | Gold | Platinum |
@@ -44,9 +46,12 @@ Art: "![[Robin Wolf pic.jpg]]"
 >> ![[Tables#inventory]]
 >> ![[Tables#Equipment]]
 >
+>
+>
 >> [!infobox| wtall]
 >> # combat
 >> ###### Spells
+>> ![[Tables#spells]]
 >> ###### Attacks
 
 
