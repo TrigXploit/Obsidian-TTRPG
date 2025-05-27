@@ -23,9 +23,9 @@
 | 0      | 0      | 50   | 0        |
 
 ## spells
-| Name                                | Casting Time | Range | Components | Duration      |
-| ----------------------------------- | ------------ | ----- | ---------- | ------------- |
-| [[Spells#Acid Splash\|Acid Splash]] | 1 action     | 60 ft | V, S       | instantanious |
-| [[Spells#Blade Ward\|Blade Ward]]   | 1 action     | Self  | V, S       | 1 round       |
-|                                     |              |       |            |               |
+| Name                                | Casting Time | Range | Duration      | Components |
+| ----------------------------------- | ------------ | ----- | ------------- | ---------- |
+| [[Spells#Acid Splash\|Acid Splash]] | 1 action     | 60 ft | instantanious | V, S       |
+| [[Spells#Blade Ward\|Blade Ward]]   | 1 action     | Self  | 1 round       | V, S       |
+|                                     |              |       |               |            |
 

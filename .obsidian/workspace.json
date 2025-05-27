@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 30.713943459511263,
+        "dimension": 23.180291153415453,
         "children": [
           {
             "id": "89db60553336b824",
@@ -52,24 +52,10 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 69.28605654048874,
+        "dimension": 76.81970884658455,
         "children": [
           {
             "id": "d80e84ffca8ee80e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Wolf"
-            }
-          },
-          {
-            "id": "c4777e1f4bf7fd76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,8 +82,7 @@
               "title": "Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/Spells.md",
+                "file": "Jonas/Characters/character sheet drawing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of character sheet drawing"
             }
           },
           {
@@ -271,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,12 +272,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4777e1f4bf7fd76",
+  "active": "d412ddbda6b7123e",
   "lastOpenFiles": [
-    "Jonas/Characters/Tables.md",
     "DnD stuff (add as I go)/2014/Spells.md",
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/character sheet drawing.md",
+    "Jonas/Characters/Tables.md",
+    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2024",
