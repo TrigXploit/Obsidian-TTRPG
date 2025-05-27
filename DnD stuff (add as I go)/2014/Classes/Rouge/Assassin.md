@@ -1,10 +1,12 @@
-| Level | Features                                                                                                                                                              |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3st   | [expertise](app://obsidian.md/1.Rouge#Expertise), [Sneak Attack](app://obsidian.md/1.Rouge#Sneak%20Attack) [Thieves' Cant](app://obsidian.md/1.Rouge#Thieves'%20Cant) |
-| 3nd   | [Cunning Action](app://obsidian.md/1.Rouge#Cunning%20Action)                                                                                                          |
-| 9rd   | [Roguish Archetype](app://obsidian.md/1.Rouge#Roguish%20Archetype),[Steady Aim](app://obsidian.md/1.Rouge#Steady%20Aim)                                               |
-| 13th  | [Ability Score Improvement](app://obsidian.md/1.Rouge#Ability%20Score%20Improvement)                                                                                  |
-| 17th  | [Uncanny Dodge](app://obsidian.md/1.Rouge#Uncanny%20Dodge)                                                                                                            |
+## Sub-Class
+
+| Level | Features                                                    |
+| ----- | ----------------------------------------------------------- |
+| 3st   | [[Assassin#Bonus Proficiencies\|Bonus Proficiencies]]       |
+| 3nd   | [[Assassin#Assassinate\|Assassinate]]                       |
+| 9rd   | [[Assassin#Infiltration Expertise\|Infiltration Expertise]] |
+| 13th  | [[Assassin#Impostor\|Impostor]]                             |
+| 17th  | [[Assassin#Death Strike\|Death Strike]]                     |
 
 ### Bonus Proficiencies
 When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.

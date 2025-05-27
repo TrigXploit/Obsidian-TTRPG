@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
+                "file": "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assassin"
+              "title": "1.Cleric"
             }
           },
           {
@@ -102,12 +102,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "DnD stuff (add as I go)/2014/spells/Spells.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Spells"
             }
           }
         ],
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
+                "file": "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Assassin"
+              "title": "Outline of 1.Cleric"
             }
           },
           {
@@ -303,16 +303,19 @@
   },
   "active": "272d0f206003dff8",
   "lastOpenFiles": [
+    "DnD stuff (add as I go)/2014/spells/Spells.md",
+    "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
+    "DnD stuff (add as I go)/2014/Classes/Cleric",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Dennis.md",
     "Jonas/Characters/Tables.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge",
     "DnD stuff (add as I go)/2014/Classes",
     "Dennis/Vampire the masqurade/Index.md",
-    "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/character sheet drawing.md",
@@ -327,7 +330,6 @@
     "DnD stuff (add as I go)/2014/Items",
     "DnD stuff (add as I go)/2014/spells/1. cantrips.md",
     "Untitled.md",
-    "DnD stuff (add as I go)/2014/spells/Spells.md",
     "DnD stuff (add as I go)/2014/spells/5. 4th Lv spells.md",
     "DnD stuff (add as I go)/2014/spells/4. 3rd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells/3. 2nd Lv spells.md",
@@ -338,10 +340,8 @@
     "0. Testing/how to guides/How to Meta-Data.md",
     "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/how to infobox.md",
-    "0. Testing/how to guides/ITS Theme guide.md",
     "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
     "Backgrounds.png",
     "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
