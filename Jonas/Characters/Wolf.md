@@ -2,7 +2,7 @@
 Type: Player
 Art: "![[Robin Wolf pic.jpg]]"
 ---
->[!column|flex 3]
+>[!column|flex 2]
 >> [!infobox| ]
 >> # `=this.file.name`
 >> ![[Robin Wolf pic.jpg | hs-med]]
@@ -38,8 +38,8 @@ Art: "![[Robin Wolf pic.jpg]]"
 >
 >
 >
->> [!infobox| wtall]
->> ###### currency
+>> [!infobox|  px -50]
+>> ###### My Stuff
 >> Copper | Silver | Gold | Platinum |
 >> ---|---|---|---|
 >> 1|2|3|4|
@@ -48,7 +48,7 @@ Art: "![[Robin Wolf pic.jpg]]"
 >
 >
 >
->> [!infobox| wtall]
+>> [!infobox| wmicro]
 >> # combat
 >> ###### Spells
 >> ![[Tables#spells]]
