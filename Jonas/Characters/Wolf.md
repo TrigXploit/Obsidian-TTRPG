@@ -1,13 +1,9 @@
 ---
 Type: Player
 Art: "![[Robin Wolf pic.jpg]]"
-expertise:
-  - Acrobat,
-  - stealth
-proficiency bonus: 2
 ---
 >[!column|flex 3]
->> [!infobox| wtall]
+>> [!infobox| ]
 >> # `=this.file.name`
 >> ![[Robin Wolf pic.jpg | hs-med]]
 >> 
@@ -40,15 +36,62 @@ proficiency bonus: 2
 >> **Religion(s)** | `=this.AssociatedReligion` |
 >> **Current Location** | `=this.Location` |
 >
->> ![[Tables#currency]]
+>> [!infobox| wtall]
+>> ######currency
+>> 
 >> ![[Tables#inventory]]
 >> ![[Tables#Equipment]]
 >
->>##### Combat
->>>###### Spells
->>>a
->>
->>> ###### Attacks
+>> [!infobox| wtall]
+>> # combat
+>> ###### Spells
+>> ###### Attacks
 
 
 a
+
+
+
+> [!statblocks]
+> # Name
+> > Description
+> *Basics*
+> *Basics*
+> 
+> ---
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+| | | |
+>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  | **Mod** |
+|  |  |  |  |  |  | **Sav** |
+> 
+|  |  |
+| ---:|:--- |
+| **Speed** |  |
+| **Passive Perception (WIS)** |  |
+| **Proficiency Bonus** |  |
+| **Darkvision** |  |
+>
+> ---
+>> [!checks|no-t] 
+>> - **Death Saves**
+>>	- ❌
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	- ✔
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>
+> ###### Traits
+| | |
+| --- | --- |
+| **Class** | |
+| **.** | |
+| **Racial Traits** | |
+| **Feats** | |
