@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 23.28063241106719,
+        "dimension": 23.557312252964426,
         "children": [
           {
             "id": "89db60553336b824",
@@ -52,7 +52,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 76.71936758893281,
+        "dimension": 76.44268774703558,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -75,7 +75,7 @@
               "type": "markdown",
               "state": {
                 "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",

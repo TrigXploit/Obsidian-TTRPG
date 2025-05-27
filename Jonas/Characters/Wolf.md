@@ -1,7 +1,8 @@
 ---
 Art: "![Robin Wolf pic.jpg]"
 Type: Player
-proficiency_bonus: 2
+Level: 2
+proficiency_bonus: "=floor((this.level - 1) / 4) + 2"
 Dex_bonus: 4
 ---
 
