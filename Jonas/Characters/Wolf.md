@@ -29,7 +29,7 @@ Hit_Dice: 8
 >> **Proficiency** | +`=this.proficiency_bonus` |
 >> **Initiative** | +`=this.Dex_bonus` |
 >> **AC** | `=(this.Base_AC + this.Dex_bonus)`
->> **HP** | `=this.HP - this.DmgTkn + this.TempHP` |
+>> **HP** | `=this.HP` |
 >> **Hit Dice** | `=this.Level`d`=this.Hit_Dice`  |
 >> **Passive Perception** | `=(10 + this.Wis_bonus + (this.proficiency_bonus * 2))`
 >>  
