@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 41.699604743083,
+        "dimension": 38.18181818181819,
         "children": [
           {
             "id": "89db60553336b824",
@@ -52,7 +52,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 58.30039525691699,
+        "dimension": 61.81818181818181,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -74,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
-                "source": true
+                "file": "Jonas/Characters/Tables.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Tables"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+                "file": "Jonas/Characters/Tables.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of DnD_2024_Character-Sheet-Fillable"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -287,11 +287,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4380949db916ec0b",
+  "active": "97805d5cad2344f9",
   "lastOpenFiles": [
     "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/Tables.md",
+    "DnD stuff (add as I go)/2014/Items/weapons.md",
+    "DnD stuff (add as I go)/2014/Items/Utility.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "DnD stuff (add as I go)/2014/Items/Armor.md",
+    "DnD stuff (add as I go)/2014/Items/Magic Items.md",
+    "DnD stuff (add as I go)/2014/Items/Homebrew.md",
+    "DnD stuff (add as I go)/2014/Items",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/Robin dabank Wolf.md",
@@ -316,13 +322,8 @@
     "0. Testing/how to guides/how to yaml.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/Robin Wolf pic.jpg",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Jonas/Characters/character profile pic.png",
-    "Peter/Schemes of Innistrad/Session notes/Session 1.md",
-    "Excalidraw/Drawing 2025-05-24 19.50.42.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-26 23.55.04.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "e.md",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
     "Backgrounds.png",
     "ITS Theme guide.png",
@@ -331,7 +332,6 @@
     "character sheet Temp.png",
     "Excalidraw",
     "Jonas/Characters",
-    "Jonas/Sessions",
     "Untitled.png",
     "0. Testing/vampire the masqurade sheet.png",
     "Untitled.canvas"

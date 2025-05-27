@@ -15,16 +15,16 @@
 | Name   | Equipped                          | Note                                  |
 | ------ | --------------------------------- | ------------------------------------- |
 | Dagger | <input type="checkbox" unchecked> |                                       |
-| sword  | 1                                 | normal sword of stabbing and slashing |
-| test   | 1                                 | 123                                   |
+| sword  | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
+| test   | <input type="checkbox" unchecked> | 123                                   |
 
 ---
 ##### Armor
 | Name   | Equipped                          | Note                                  |
 | ------ | --------------------------------- | ------------------------------------- |
 | Dagger | <input type="checkbox" unchecked> |                                       |
-| sword  | 1                                 | normal sword of stabbing and slashing |
-| test   | 1                                 | 123                                   |
+| sword  | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
+| test   | <input type="checkbox" unchecked> | 123                                   |
 
 ## currency
 
