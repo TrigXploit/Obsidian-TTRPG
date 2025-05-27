@@ -18,7 +18,6 @@
 | Shortbow           | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
 | Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 | Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Arrows             |                                   |         |                                                            |                               |         |      |
 
 
 ##### Armor
