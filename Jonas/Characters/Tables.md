@@ -70,9 +70,11 @@
 
 ## Actions
 
-| Action                      | Cost           | Note         |
-| --------------------------- | -------------- | ------------ |
-| Attack                      | 1 Action       | Sneak attack |
-| Mark Prey                   | 1 bonus action |              |
-| Shift                       | 1 bonus action |              |
-| Two-Weapon <br>Fighting<br> | 1 bonus action |              |
+| Action                               | Cost           | Note                                                    |
+| ------------------------------------ | -------------- | ------------------------------------------------------- |
+| Attack                               | 1 Action       | Sneak attack                                            |
+| Mark Prey                            | 1 bonus action |                                                         |
+| Shift                                | 1 bonus action |                                                         |
+| Two-Weapon <br>Fighting<br>          | 1 bonus action |                                                         |
+| Channel Divinity:<br>Turn undead<br> | 1 Action       | <input type="checkbox" unchecked> / short rest          |
+| Ritual spells                        | -              | **_spell takes 10 minutes longer to cast than normal_** |
