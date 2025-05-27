@@ -3,8 +3,16 @@ Art: "![Robin Wolf pic.jpg]"
 Type: Player
 Level: 2
 proficiency_bonus: 2
-speed:30
+speed: 30
 Dex_bonus: 4
+Wis_bonus: 3
+Int_bonus: 2
+Con_bonus: 1
+Str_bonus: 0
+Cha_bonus: -1
+Base_AC:
+Darkvision: 60
+
 ---
 
 >[!column|3 flex no-t]
@@ -17,8 +25,8 @@ Dex_bonus: 4
 >> ---|---|
 >> **Level** |`=this.level` |
 >>  **Speed** |`=this.Speed` |
->> **Proficiency** | +`=this.Prof` |
->> **Initiative** | +`=(this.DEX - 10)/2` |
+>> **Proficiency** | +`=this.proficiency_bonus` |
+>> **Initiative** | +`=this.Dex_bonus` |
 >> **AC** | `=this.AC`
 >> **HP** | `=this.HP - this.DmgTkn + this.TempHP` |
 >> **Hit Dice** | `=this.Level + this.HitDice`  |

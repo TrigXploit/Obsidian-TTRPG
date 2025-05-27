@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 23.557312252964426,
+        "dimension": 23.359683794466406,
         "children": [
           {
             "id": "89db60553336b824",
@@ -52,7 +52,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 76.44268774703558,
+        "dimension": 76.6403162055336,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -96,7 +96,8 @@
               "title": "Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Robin dabank Wolf"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -286,17 +287,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "179bb31b627d7d51",
+  "active": "97805d5cad2344f9",
   "lastOpenFiles": [
+    "Jonas/Characters/Tables.md",
+    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
-    "Jonas/Characters/Tables.md",
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/TestWolf.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
     "DnD stuff (add as I go)/2014/Items/Utility.md",
     "DnD stuff (add as I go)/2014/Items/Armor.md",

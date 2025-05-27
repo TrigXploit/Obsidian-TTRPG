@@ -20,7 +20,7 @@
 | Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
 |                    |                                   |         | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` |                               |         |      |
 
----
+
 ##### Armor
 | Name   | Equipped                          | Note                                  |
 | ------ | --------------------------------- | ------------------------------------- |
