@@ -119,3 +119,25 @@ He gets given the House uniform and sent on a journey by His uncle.
 The journey is treated as a rite of passage
 House of Wyvin never works with another from the house due to
 "you only need 1 from house wyvin to fix it" 
+
+
+
+---
+
+*I'm trying to make a DND character sheet with yaml and metadata & dataview If i have my yaml
+
+-- 
+Dex Bonus: 4 
+expertise: 
+- Acrobat, 
+- stealth 
+proficiency bonus: 2 
+--
+I want to make a table of skills 
+
+Skills | bonus | 
+--- | --- | 
+
+would it be possible to make it so bonus would change if a skill was in the list of expertise. the formula would be: 
+
+Stealth | 'bonus = this.dex bonus + proficiency bonus * 2'  but it should only do it if the
