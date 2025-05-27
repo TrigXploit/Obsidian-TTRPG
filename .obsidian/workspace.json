@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 27.707509881422926,
+        "dimension": 23.28063241106719,
         "children": [
           {
             "id": "89db60553336b824",
@@ -52,7 +52,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 72.29249011857708,
+        "dimension": 76.71936758893281,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -75,8 +75,8 @@
               "type": "markdown",
               "state": {
                 "file": "Jonas/Characters/Wolf.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Wolf"
@@ -291,10 +291,10 @@
   "lastOpenFiles": [
     "Jonas/Characters/Tables.md",
     "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/TestWolf.md",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Robin Wolf pic.jpg",
+    "Jonas/Characters/TestWolf.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
@@ -322,7 +322,6 @@
     "0. Testing/how to guides/ITS Theme guide.md",
     "0. Testing/learning yamal, dataview and so on/character template.md",
     "0. Testing/test.md",
-    "0. Testing/how to guides/how to yaml.md",
     "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",

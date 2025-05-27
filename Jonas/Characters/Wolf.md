@@ -1,7 +1,8 @@
 ---
-proficiency_bonus: 2
 Art: "![Robin Wolf pic.jpg]"
 Type: Player
+proficiency_bonus: 2
+Dex_bonus: 4
 ---
 
 >[!column|3 flex no-t]

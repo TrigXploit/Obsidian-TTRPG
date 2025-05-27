@@ -9,16 +9,16 @@
 
 ## Equipment
 ##### Weapons
-| Name               | Equipped                          | Range   | Hit/DC                                                | Damage | Mastery | Note |
-| ------------------ | --------------------------------- | ------- | ----------------------------------------------------- | ------ | ------- | ---- |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d4+4  |         |      |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d4+4  |         |      |
-| Rapier             | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d8+4  |         |      |
-| Short  Sword       | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d6+4  |         |      |
-| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +6                                                    | 1d6+4  |         |      |
-| Longbow            | <input type="checkbox" unchecked> | 150/600 | +4                                                    | 1d8+4  |         |      |
-| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +4                                                    | 1d8    |         |      |
-|                    |                                   |         | `= [[Wolf.md]].proficiency_bonus` |        |         |      |
+| Name               | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
+| ------------------ | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
+| Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Rapier             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Short  Sword       | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+|                    |                                   |         | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` |                               |         |      |
 
 ---
 ##### Armor
@@ -35,11 +35,6 @@
 | 0      | 0      | 50   | 0        |
 
 
-```dataview
-table proficiency_bonus
-from "JONAS/CHARACTER"
-where file.name = "Wolf"
-```
 
 ## spells
 >[!column|3 flex no-t]
@@ -61,15 +56,15 @@ where file.name = "Wolf"
 >>| 8 | 0 | 0 |
 >>| 9 | 0 | 0 |
 
-| Level | Name                                                                  | Casting Time     | Range   | Duration       | Components |
-| ----- | --------------------------------------------------------------------- | ---------------- | ------- | -------------- | ---------- |
-| 0     | [[1. cantrips#Light\|Light]]                                          | 1 Action         | Touch   | 1 hour         | V, M       |
-| 0     | [[1. cantrips#Mending\|Mending]]                                      | 1 Minute         | Touch   | Instant        | V, S, M    |
-| 0     | [[1. cantrips#Thaumaturgy\|Thaumaturgy]]                              | 1 Action         | 30 feet | Up to 1 minute | V          |
-| 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                               | 1 Action **_R_** | Touch   | Instant        | V, S, M    |
-| 1     | [[2. 1st Lv spells#Create or Destroy Water\|Create or Destroy Water]] | 1 Action         | 30 feet | Instant        | V, S, M    |
-| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                         | 1 Action         | Touch   | Instant        | V, S       |
-| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                               | 1 Action         | 90 feet | up to 1 minute | C, V, S    |
-| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                         | 1 Action         | Touch   | 1 hour         | V, S, M    |
-| 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]]     | 1 Action **_R_** | 10 feet | Instant        | V, S       |
+| Level | Name                                                                  | Casting Time     | Range   | Hit/DC | Effect | Duration       | Components |
+| ----- | --------------------------------------------------------------------- | ---------------- | ------- | ------ | ------ | -------------- | ---------- |
+| 0     | [[1. cantrips#Light\|Light]]                                          | 1 Action         | Touch   | -      |        | 1 hour         | V, M       |
+| 0     | [[1. cantrips#Mending\|Mending]]                                      | 1 Minute         | Touch   | -      |        | Instant        | V, S, M    |
+| 0     | [[1. cantrips#Thaumaturgy\|Thaumaturgy]]                              | 1 Action         | 30 feet | -      |        | Up to 1 minute | V          |
+| 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                               | 1 Action **_R_** | Touch   | -      |        | Instant        | V, S, M    |
+| 1     | [[2. 1st Lv spells#Create or Destroy Water\|Create or Destroy Water]] | 1 Action         | 30 feet | -      |        | Instant        | V, S, M    |
+| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                         | 1 Action         | Touch   | -      |        | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                               | 1 Action         | 90 feet | 13 str | Bind   | up to 1 minute | C, V, S    |
+| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                         | 1 Action         | Touch   | -      |        | 1 hour         | V, S, M    |
+| 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]]     | 1 Action **_R_** | 10 feet | -      |        | Instant        | V, S       |
 
