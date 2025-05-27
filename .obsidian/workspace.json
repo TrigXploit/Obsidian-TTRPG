@@ -6,20 +6,18 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 30.146386093321137,
+        "dimension": 41.699604743083,
         "children": [
           {
             "id": "89db60553336b824",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
-                "mode": "preview",
-                "source": true
+                "file": "Jonas/Characters/character sheet drawing.md"
               },
-              "icon": "lucide-file",
-              "title": "Robin dabank Wolf"
+              "icon": "excalidraw-icon",
+              "title": "character sheet drawing"
             }
           },
           {
@@ -49,12 +47,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 69.85361390667887,
+        "dimension": 58.30039525691699,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -99,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Tables.md",
+                "file": "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of DnD_2024_Character-Sheet-Fillable"
             }
           },
           {
@@ -289,11 +287,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "169bf353ddfe8003",
+  "active": "4380949db916ec0b",
   "lastOpenFiles": [
     "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/Tables.md",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
+    "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/spells/1. cantrips.md",
     "Untitled.md",
@@ -302,8 +302,6 @@
     "DnD stuff (add as I go)/2014/spells/4. 3rd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells/3. 2nd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells",
-    "Jonas/Characters/character sheet drawing.md",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
@@ -325,7 +323,6 @@
     "Excalidraw/Drawing 2025-05-26 23.55.04.excalidraw.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "e.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Drawing 2025-04-18 20.58.18.excalidraw.md",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
     "Backgrounds.png",
     "ITS Theme guide.png",
