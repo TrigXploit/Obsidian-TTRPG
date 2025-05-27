@@ -1,22 +1,24 @@
 
 ## inventory
 
-| Name   | Quantity | Note                                  |
-| ------ | -------- | ------------------------------------- |
-| Dagger | 2        |                                       |
-| sword  | 1        | normal sword of stabbing and slashing |
-| test   | 1        | 123                                   |
-
-
-
+| Name   | Quantity | Weight | Cost | Note                                  |
+| ------ | -------- | ------ | ---- | ------------------------------------- |
+| Dagger | 2        |        |      |                                       |
+| sword  | 1        |        |      | normal sword of stabbing and slashing |
+| test   | 1        |        |      | 123                                   |
 
 ## Equipment
 ##### Weapons
-| Name   | Equipped                          | Note                                  |
-| ------ | --------------------------------- | ------------------------------------- |
-| Dagger | <input type="checkbox" unchecked> |                                       |
-| sword  | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
-| test   | <input type="checkbox" unchecked> | 123                                   |
+| Name               | Equipped                          | Range   | Hit/DC                                                    | Damage | Mastery | Note |
+| ------------------ | --------------------------------- | ------- | --------------------------------------------------------- | ------ | ------- | ---- |
+| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d4+4  |         |      |
+| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d4+4  |         |      |
+| Rapier             | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d8+4  |         |      |
+| Short  Sword       | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d6+4  |         |      |
+| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +6                                                        | 1d6+4  |         |      |
+| Longbow            | <input type="checkbox" unchecked> | 150/600 | +4                                                        | 1d8+4  |         |      |
+| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +4                                                        | 1d8    |         |      |
+|                    |                                   |         | `= dv.page("Jonas/character/Wolf").proficiency_bonus` |        |         |      |
 
 ---
 ##### Armor

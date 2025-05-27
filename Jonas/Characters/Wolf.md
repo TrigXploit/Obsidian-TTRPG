@@ -1,6 +1,7 @@
 ---
 Type: Player
 Art: "![[Robin Wolf pic.jpg]]"
+proficiency_bonus: 2
 ---
 >[!column|3 flex no-t]
 >> [!infobox|flex]
