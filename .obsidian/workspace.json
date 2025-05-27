@@ -61,8 +61,8 @@
               "type": "markdown",
               "state": {
                 "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Wolf"
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/character sheet drawing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of character sheet drawing"
             }
           },
           {
@@ -272,13 +272,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d80e84ffca8ee80e",
+  "active": "d412ddbda6b7123e",
   "lastOpenFiles": [
-    "Jonas/Characters/Tables.md",
-    "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Tables.md",
+    "0. Testing/how to guides/How to Meta-Data.md",
+    "0. Testing/how to guides/how to dataview.md",
+    "0. Testing/how to guides/how to infobox.md",
+    "0. Testing/how to guides/ITS Theme guide.md",
+    "0. Testing/learning yamal, dataview and so on/character template.md",
+    "0. Testing/test.md",
+    "0. Testing/how to guides/how to yaml.md",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/character sheet drawing.md",
     "Dennis/Dennis.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/Robin Wolf pic.jpg",
@@ -297,23 +304,16 @@
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Abilities 2014.md",
     "0. Testing/how to guides/how to guides.md",
     "Jonas/Characters/DnD_2024_Character-Sheet.pdf",
-    "0. Testing/how to guides/how to yaml.md",
-    "0. Testing/how to guides/ITS Theme guide.md",
     "testing.md",
     "Backgrounds.png",
-    "Backgrounds.md",
     "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
     "Pasted Image 20250524195158_290.png",
-    "0. Testing/learning yamal, dataview and so on/character template.md",
     "character sheet Temp.png",
     "Excalidraw",
     "Jonas/Characters",
     "Jonas/Sessions",
     "Jonas",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
-    "0. Testing/how to guides/how to dataview.md",
-    "0. Testing/how to guides/How to Meta-Data.md",
     "Untitled.png",
     "0. Testing/vampire the masqurade sheet.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
