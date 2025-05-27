@@ -68,3 +68,10 @@
 | 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                         | 1 Action         | Touch   | -      |        | 1 hour         | V, S, M    |
 | 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]]     | 1 Action **_R_** | 10 feet | -      |        | Instant        | V, S       |
 
+## Actions
+
+| Action    | Cost           |     |
+| --------- | -------------- | --- |
+| Attack    | 1 Action       |     |
+| Mark Prey | 1 bonus action |     |
+|           |                |     |

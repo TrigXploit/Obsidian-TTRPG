@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 33.12252964426877,
+        "dimension": 31.055240793201133,
         "children": [
           {
             "id": "89db60553336b824",
@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -52,7 +52,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 66.87747035573123,
+        "dimension": 68.94475920679886,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -74,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
-                "mode": "source",
+                "file": "Jonas/Characters/Tables.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Tables"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "file": "Jonas/Characters/Tables.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Character-Test"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -287,14 +287,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94a5d4b690696732",
+  "active": "97805d5cad2344f9",
   "lastOpenFiles": [
-    "Dennis/Dennis.md",
-    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Tables.md",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Dennis.md",
+    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/Robin Wolf pic.jpg",
@@ -312,7 +313,6 @@
     "DnD stuff (add as I go)/2014/spells/4. 3rd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells/3. 2nd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
     "DnD stuff (add as I go)",

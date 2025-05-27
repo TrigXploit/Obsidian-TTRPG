@@ -13,6 +13,7 @@ Str_bonus: 0
 Cha_bonus: -1
 Base_AC: 14
 Darkvision: 60
+Hit_Dice: 8
 ---
 
 >[!column|3 flex no-t]
@@ -29,7 +30,7 @@ Darkvision: 60
 >> **Initiative** | +`=this.Dex_bonus` |
 >> **AC** | `=(this.Base_AC + this.Dex_bonus)`
 >> **HP** | `=this.HP - this.DmgTkn + this.TempHP` |
->> **Hit Dice** | `=this.Level + this.HitDice`  |
+>> **Hit Dice** | `=this.Level`d`=this.Hit_Dice`  |
 >> **Passive Perception** | `=(10 + this.Wis_bonus + (this.proficiency_bonus * 2))`
 >>  
 >> ###### Bio
