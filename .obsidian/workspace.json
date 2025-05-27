@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 11.198208286674133,
+        "dimension": 10.712372790573111,
         "children": [
           {
             "id": "89db60553336b824",
@@ -33,24 +33,14 @@
               "icon": "lucide-file-text",
               "title": "DnD_2024_Character-Sheet-Fillable"
             }
-          },
-          {
-            "id": "d412ddbda6b7123e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 88.80179171332587,
+        "dimension": 89.28762720942689,
         "children": [
           {
             "id": "d80e84ffca8ee80e",
