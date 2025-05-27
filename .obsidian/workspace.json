@@ -89,7 +89,7 @@
               "type": "markdown",
               "state": {
                 "file": "Jonas/Characters/Tables.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Tables.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -287,17 +287,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "169bf353ddfe8003",
+  "active": "97805d5cad2344f9",
   "lastOpenFiles": [
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Tables.md",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/TestWolf.md",
+    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
-    "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "DnD stuff (add as I go)/2014/Items/Utility.md",
     "DnD stuff (add as I go)/2014/Items/Armor.md",
     "DnD stuff (add as I go)/2014/Items/Magic Items.md",

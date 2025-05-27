@@ -1,8 +1,9 @@
 ---
-Type: Player
-Art: "![[Robin Wolf pic.jpg]]"
 proficiency_bonus: 2
+Art: "![Robin Wolf pic.jpg]"
+Type: Player
 ---
+
 >[!column|3 flex no-t]
 >> [!infobox|flex]
 >> # `=this.file.name`
@@ -58,6 +59,8 @@ proficiency_bonus: 2
 
 
 a
+
+`= dv.page("Wolf").proficiency_bonus` `=this.file.name`
 
 
 

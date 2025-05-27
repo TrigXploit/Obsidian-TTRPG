@@ -9,16 +9,16 @@
 
 ## Equipment
 ##### Weapons
-| Name               | Equipped                          | Range   | Hit/DC                                                    | Damage | Mastery | Note |
-| ------------------ | --------------------------------- | ------- | --------------------------------------------------------- | ------ | ------- | ---- |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d4+4  |         |      |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d4+4  |         |      |
-| Rapier             | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d8+4  |         |      |
-| Short  Sword       | <input type="checkbox" unchecked> | 5       | +6                                                        | 1d6+4  |         |      |
-| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +6                                                        | 1d6+4  |         |      |
-| Longbow            | <input type="checkbox" unchecked> | 150/600 | +4                                                        | 1d8+4  |         |      |
-| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +4                                                        | 1d8    |         |      |
-|                    |                                   |         | `= dv.page("Jonas/character/Wolf").proficiency_bonus` |        |         |      |
+| Name               | Equipped                          | Range   | Hit/DC                                                | Damage | Mastery | Note |
+| ------------------ | --------------------------------- | ------- | ----------------------------------------------------- | ------ | ------- | ---- |
+| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d4+4  |         |      |
+| Dagger             | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d4+4  |         |      |
+| Rapier             | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d8+4  |         |      |
+| Short  Sword       | <input type="checkbox" unchecked> | 5       | +6                                                    | 1d6+4  |         |      |
+| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +6                                                    | 1d6+4  |         |      |
+| Longbow            | <input type="checkbox" unchecked> | 150/600 | +4                                                    | 1d8+4  |         |      |
+| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +4                                                    | 1d8    |         |      |
+|                    |                                   |         | `= [[Wolf.md]].proficiency_bonus` |        |         |      |
 
 ---
 ##### Armor
@@ -33,6 +33,13 @@
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
 | 0      | 0      | 50   | 0        |
+
+
+```dataview
+table proficiency_bonus
+from "JONAS/CHARACTER"
+where file.name = "Wolf"
+```
 
 ## spells
 >[!column|3 flex no-t]
