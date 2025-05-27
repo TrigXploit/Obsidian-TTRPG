@@ -31,6 +31,7 @@
 | 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                               | 1 Action _**R**_ | Touch   | Instant        | V, S, M    |
 | 1     | [[2. 1st Lv spells#Create or Destroy Water\|Create or Destroy Water]] | 1 Action         | 30 feet | Instant        | V, S, M    |
 | 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                         | 1 Action         | Touch   | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                               | 1 Action         | 90 feet | up to 1 minute | C, V, S    |
+| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                         | 1 Action         | Touch   | 1 hour         | V, S, M    |
 | 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]]     | 1 Action **_R_** | 10 feet | Instant        | V, S       |
-| 1     |                                                                       |                  |         |                |            |
-| 1     |                                                                       |                  |         |                |            |
+

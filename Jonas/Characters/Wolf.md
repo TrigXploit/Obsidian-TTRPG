@@ -2,8 +2,8 @@
 Type: Player
 Art: "![[Robin Wolf pic.jpg]]"
 ---
->[!column|flex 2]
->> [!infobox| ]
+>[!column|3 flex]
+>> [!infobox|]
 >> # `=this.file.name`
 >> ![[Robin Wolf pic.jpg | hs-med]]
 >> 
@@ -37,8 +37,7 @@ Art: "![[Robin Wolf pic.jpg]]"
 >> **Current Location** | `=this.Location` |
 >
 >
->
->> [!infobox|  px -50]
+> > [!infobox|wtall flex]
 >> ###### My Stuff
 >> Copper | Silver | Gold | Platinum |
 >> ---|---|---|---|
@@ -47,12 +46,13 @@ Art: "![[Robin Wolf pic.jpg]]"
 >> ![[Tables#Equipment]]
 >
 >
->
->> [!infobox| wmicro]
+>> [!infobox| wtall flex]
 >> # combat
 >> ###### Spells
 >> ![[Tables#spells]]
 >> ###### Attacks
+>
+>
 
 
 a
@@ -96,9 +96,16 @@ a
 >>	- [ ] 
 >
 > ###### Traits
-| | |
-| --- | --- |
-| **Class** | |
-| **.** | |
-| **Racial Traits** | |
-| **Feats** | |
+|                   |     |
+| ----------------- | --- |
+| **Class**         |     |
+| **.**             |     |
+| **Racial Traits** |     |
+| **Feats**         |     |
+|                   |     |
+| 
+
+
+
+>[!infobox|wmed]
+>this is my infobox

@@ -6,7 +6,7 @@
       {
         "id": "c3c4d44f1205a87b",
         "type": "tabs",
-        "dimension": 22.552607502287284,
+        "dimension": 30.146386093321137,
         "children": [
           {
             "id": "89db60553336b824",
@@ -54,7 +54,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 77.44739249771271,
+        "dimension": 69.85361390667887,
         "children": [
           {
             "id": "179bb31b627d7d51",
@@ -77,7 +77,7 @@
               "type": "markdown",
               "state": {
                 "file": "Jonas/Characters/Wolf.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/Tables.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -273,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,11 +289,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "97805d5cad2344f9",
+  "active": "169bf353ddfe8003",
   "lastOpenFiles": [
-    "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Tables.md",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/spells/1. cantrips.md",
     "Untitled.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
@@ -302,7 +303,6 @@
     "DnD stuff (add as I go)/2014/spells/3. 2nd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells",
     "Jonas/Characters/character sheet drawing.md",
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2024",
