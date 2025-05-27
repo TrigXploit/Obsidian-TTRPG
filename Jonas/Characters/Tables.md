@@ -1,11 +1,11 @@
 
 ## inventory
 
-| Name   | Quantity | Weight | Cost | Note                                  |
-| ------ | -------- | ------ | ---- | ------------------------------------- |
-| Dagger | 2        |        |      |                                       |
-| sword  | 1        |        |      | normal sword of stabbing and slashing |
-| test   | 1        |        |      | 123                                   |
+| Name   | Qty | Weight | Cost | Note                                  |
+| ------ | --- | ------ | ---- | ------------------------------------- |
+| Dagger | 2   |        |      |                                       |
+| sword  | 1   |        |      | normal sword of stabbing and slashing |
+| test   | 1   |        |      | 123                                   |
 
 ## Equipment
 ##### Weapons
@@ -13,12 +13,12 @@
 | ------------------ | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
 | Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
 | Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Rapier             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Rapier             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
 | Short  Sword       | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 | Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
-|                    |                                   |         | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` |                               |         |      |
+| Arrows             |                                   |         |                                                            |                               |         |      |
 
 
 ##### Armor
