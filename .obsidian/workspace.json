@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Character-Test"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 435.5121879577637
   },
   "right": {
     "id": "25914712cf90911d",
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Character-Test"
             }
           },
           {
@@ -295,16 +295,16 @@
   },
   "active": "bdaf6afd706a12ec",
   "lastOpenFiles": [
-    "Jonas/Characters/Tables.md",
-    "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
+    "Dennis/Dennis.md",
     "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Tables.md",
+    "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
+    "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
-    "Dennis/Dennis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
-    "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric",
