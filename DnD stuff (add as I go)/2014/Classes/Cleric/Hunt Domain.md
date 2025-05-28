@@ -1,37 +1,27 @@
 >[!column| flex no-t]
->>[!infobox]
->>   |
->> ---|---|
->> hello|hello|
+>>[!infobox|wsmall]
+>>| Level | Feature                           |
+>>| ----- | --------------------------------- |
+>>| 1     | Mark Prey, Bonus Proficiencies, Domain Spells    |
+>>| 2     | Channel Divinity: Honed Instincts |
+>>| 3     | New Domain spells                 |
+>>|5     | New Domain spells                 |
+>>| 6     | Pack Hunter                       |
+>>| 7     | New Domain spells                 |
+>>| 8     | Unflinching Mark                  |
+>>| 9     | New Domain spells                 |
+>>| 14    | Unflinching Mark II               |
+>>| 17    | Rite of the Hunt                  |
 >
->>[!infobox]
->>   |
->> ---|---|
->> hello|hello|
-
-
-
-| Level | Spells                                       |
-| ----- | -------------------------------------------- |
-| 1st   | entangle, longstrider                        |
-| 3rd   | locate animals or plants, pass without trace |
-| 5th   | conjure animals, haste                       |
-| 7th   | freedom of movement, locate creature         |
-| 9th   | commune with nature, hold monster            |
-
-| Level | Feature                           |
-| ----- | --------------------------------- |
-| 1     | Mark Prey, Bonus Proficiencies    |
-| 2     | Channel Divinity: Honed Instincts |
-| 3     | New Domain spells                 |
-| 5     | New Domain spells                 |
-| 6     | Pack Hunter                       |
-| 7     | New Domain spells                 |
-| 8     | Unflinching Mark                  |
-| 9     | New Domain spells                 |
-|       |                                   |
-| 14    | Unflinching Mark II               |
-| 17    | Rite of the Hunt                  |
+>>[!infobox | wsmall]
+>>### Hunt Domain Spells table
+>> | Level | Spells |
+>>| ----- | -------------------------------------------- |
+>>| 1st   | entangle, longstrider                        |
+>>| 3rd   | locate animals or plants, pass without trace |
+>>| 5th   | conjure animals, haste                       |
+>>| 7th   | freedom of movement, locate creature         |
+>>| 9th   | commune with nature, hold monster            |
 
 
 ### Bonus Proficiencies | 1st-level Hunt Domain
@@ -43,21 +33,17 @@ You also gain proficiency in one of the following skills of your choice:
 
 ### Domain Spells | 1st-level Hunt Domain
 You gain domain spells at the cleric levels listed in
-the Hunt Domain Spells table. See the Divine Domain class feature for how domain spells work.
- Hunt Domain Spells
-Cleric Level Spells
-1st entangle, longstrider
-3rd locate animals or plants, pass without trace
-5th conjure animals, haste
-7th freedom of movement, locate creature
-9th commune with nature, hold monster
+the Hunt Domain Spells table.
+
+
+### Mark Prey | 1st-level Hunt Domain feature
+As a **bonus action**, you choose a creature you can see within **90 feet**, mark it as your target for the next hour. While marked you deal an extra **1d6 damage** to the target whenever you hit it with a weapon attack, and you have **advantage** on any **Perception and Survival checks you make to find it**. If you mark a new creature, any previous marks disappear.
 
 
 ### Channel Divinity: Honed Instincts | 2nd-level Hunt Domain
 You can use your Channel Divinity to gain preternatural insights into one creature you can see within 120 feet of you (no action required). 
 Choose one of the following lists of information to learn about the target:
 - **Proficiencies**. You learn the saving throws and skills with which the creature is proficient.
-
 - **Physiology**. You learn the creature’s 
 	- damage resistances, 
 	- immunities,
@@ -69,20 +55,15 @@ you deal the attack’s maximum damage instead of rolling.
 
 
 ### Pack Hunter | 6th-level Hunt Domain feature
-You learn to work with other hunters, helping them
-avoid your quarry’s blows, or to strike with greater
-ferocity. As a reaction, you can embolden creatures
-friendly to you with your hunters’ instincts, issuing
-either the Kill or Retreat command. You have a
-number of uses of this feature equal to your Wisdom
-modifier (minimum of once), and regain all expended uses when you finish a short or long rest.
+You learn to work with other hunters, helping them avoid your quarry’s blows, or to strike with greater ferocity. 
 
-- Kill. When a creature other than you hits a
-target which is currently affected by your Mark
-Prey feature, you can use your reaction to deal
-the feature’s extra damage to the creature.
+As a reaction, you can embolden creatures friendly to you with your hunters’ instincts, issuing either the Kill or Retreat command. 
+You have a number of uses of this feature equal to your Wisdom modifier, and regain all expended uses when you finish a **short or long rest**.
 
-- Retreat. When the target of your Mark Prey feature targets a creature that you can see within 60 feet of you with an attack, you can use your reaction to embolden the creature being attacked. The attacked creature can choose to use its reaction to move up to half its speed without provoking opportunity attacks immediately before the attack occurs, potentially causing the attack to miss if the creature moves out of the attackers reach/range.
+- **Kill**. When a creature other than you hits a target which is currently affected by your Mark Prey feature, 
+  you can use your reaction to deal the feature’s extra damage to the creature.
+
+- **Retreat**. When the target of your Mark Prey feature targets a creature that you can see within 60 feet of you with an attack, you can use your reaction to embolden the creature being attacked. The attacked creature can choose to use its reaction to move up to half its speed without provoking opportunity attacks immediately before the attack occurs, potentially causing the attack to miss if the creature moves out of the attackers reach/range.
 
 
 ### Unflinching Mark | 8th-level Hunt Domain feature

@@ -34,8 +34,10 @@
 | 0      | 0      | 50   | 0        |
 
 
-
-## spells
+%%
+---------------------------------------------------
+			Commented out code
+---------------------------------------------------
 >[!column|3 flex no-t]
 >>| Level | Total | Used |
 >>| ----- | ----- | ---- |
@@ -54,7 +56,11 @@
 >>| 7 | 0 | 0 |
 >>| 8 | 0 | 0 |
 >>| 9 | 0 | 0 |
-
+---------------------------------------------------
+			Commented out code
+---------------------------------------------------
+%%
+## spells
 | Level | Name                                                                  | Casting Time     | Range   | Hit/DC | Effect | Duration       | Components |
 | ----- | --------------------------------------------------------------------- | ---------------- | ------- | ------ | ------ | -------------- | ---------- |
 | 0     | [[1. cantrips#Light\|Light]]                                          | 1 Action         | Touch   | -      |        | 1 hour         | V, M       |
@@ -69,11 +75,11 @@
 
 ## Actions
 
-| Action                               | Cost           | Note                                                                            |
-| ------------------------------------ | -------------- | ------------------------------------------------------------------------------- |
-| Attack                               | 1 Action       | Sneak attack                                                                    |
-| Mark Prey                            | 1 bonus action |                                                                                 |
-| Shift                                | 1 bonus action | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest |
-| Two-Weapon <br>Fighting<br>          | 1 bonus action |                                                                                 |
-| Channel Divinity:<br>Turn undead<br> | 1 Action       | <input type="checkbox" unchecked> / short rest                                  |
-| Ritual spells                        | -              | spell takes 10 minutes longer to cast than normal                               |
+| Action                                                             | Cost           | Note                                                                            |
+| ------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------- |
+| Attack                                                             | 1 Action       | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                          |
+| [[Hunt Domain#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]] | 1 bonus action |                                                                                 |
+| Shift                                                              | 1 bonus action | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest |
+| Two-Weapon <br>Fighting<br>                                        | 1 bonus action |                                                                                 |
+| Channel Divinity:<br>Turn undead<br>                               | 1 Action       | Locked until lv 2<br><input type="checkbox" unchecked> / short rest             |
+| Ritual spells                                                      | -              | spell takes 10 minutes longer to cast than normal                               |

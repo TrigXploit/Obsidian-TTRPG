@@ -62,7 +62,6 @@ Hit_Dice: 8
 >
 >
 >> [!infobox|flex wsmall]
->> # Combat
 >> ###### Spells
 >> ![[Tables#spells]]
 >> ###### Attacks
