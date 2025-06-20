@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
-                "mode": "source",
-                "source": false
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Hunt Domain (Heliana_s Guide to Monster Hunting)"
+              "title": "Robin dabank Wolf"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hunt Domain (Heliana_s Guide to Monster Hunting)"
+              "title": "Outline of Robin dabank Wolf"
             }
           },
           {
@@ -296,26 +296,27 @@
   },
   "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
-    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "Jonas/Characters/Robin Wolf pic.jpg",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Tables.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/character sheet drawing.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "0. Testing/how to guides/how to guides.md",
+    "Dennis/Dennis.md",
+    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
-    "Dennis/Dennis.md",
-    "Jonas/Characters/Wolf.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric",
     "DnD stuff (add as I go)/2014/Classes/Rouge",
     "DnD stuff (add as I go)/2014/Classes",
     "Dennis/Vampire the masqurade/Index.md",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
-    "Jonas/Characters/character sheet drawing.md",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
-    "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/TestWolf.md",
     "DnD stuff (add as I go)/2014/Items/Utility.md",
     "DnD stuff (add as I go)/2014/Items/Armor.md",
@@ -331,7 +332,6 @@
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
     "DnD stuff (add as I go)",
-    "0. Testing/how to guides/How to Meta-Data.md",
     "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Backgrounds.png",
