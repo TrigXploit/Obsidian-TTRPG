@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Robin dabank Wolf"
+              "title": "Wolf"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Robin dabank Wolf"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -296,9 +296,9 @@
   },
   "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Tables.md",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/character sheet drawing.md",
