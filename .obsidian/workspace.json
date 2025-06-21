@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Robin dabank Wolf"
+              "title": "Wolf"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Robin dabank Wolf"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -282,8 +282,8 @@
   },
   "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "Jonas/Characters/Tables.md",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/Tables.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/Wolf.md",
