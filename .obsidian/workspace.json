@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
+                "file": "a.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "a"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of a"
             }
           },
           {
@@ -256,18 +256,20 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -275,26 +277,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "Jonas/Characters/Tables.md",
+    "ITS Theme guide.png",
+    "a.md",
+    "Backgrounds.png",
     "Jonas/Characters/Wolf.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
-    "Dennis/Dennis.md",
-    "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/Tables.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/character sheet drawing.md",
     "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "0. Testing/how to guides/how to guides.md",
+    "Dennis/Dennis.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
@@ -314,15 +316,12 @@
     "Untitled.md",
     "DnD stuff (add as I go)/2014/spells/5. 4th Lv spells.md",
     "DnD stuff (add as I go)/2014/spells/4. 3rd Lv spells.md",
-    "DnD stuff (add as I go)/2014/spells/3. 2nd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells",
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
     "DnD stuff (add as I go)",
     "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Backgrounds.png",
-    "ITS Theme guide.png",
     "Pasted Image 20250418210943_386.png",
     "Pasted Image 20250524195158_290.png",
     "character sheet Temp.png",
