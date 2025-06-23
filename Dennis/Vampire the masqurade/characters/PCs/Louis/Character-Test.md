@@ -11,7 +11,7 @@ sect: Camarilla
 humanity: 5
 willpower: 5
 max_blood_pool: 13
-current_blood_pool: 12
+current_blood_pool: 13
 blood_per_turn: 2
 health:
   bruised: 0
