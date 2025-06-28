@@ -89,8 +89,7 @@
               "title": "DnD_2024_Character-Sheet-Fillable"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Character-Test"
             }
           },
           {
@@ -280,15 +279,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c038b31b9ce98e60",
+  "active": "bdaf6afd706a12ec",
   "lastOpenFiles": [
+    "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
+    "Jonas/Characters/Tables.md",
+    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "Jonas/Characters/Wolf.md",
     "a.md",
     "ITS Theme guide.png",
     "Backgrounds.png",
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Robin dabank Wolf.md",
-    "Jonas/Characters/Tables.md",
-    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "Jonas/Characters/Robin Wolf pic.jpg",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/character sheet drawing.md",
@@ -297,7 +297,6 @@
     "Dennis/Dennis.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-    "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
