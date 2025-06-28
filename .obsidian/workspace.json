@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "a"
+              "title": "Wolf"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of a"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -282,8 +282,8 @@
   },
   "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "ITS Theme guide.png",
     "a.md",
+    "ITS Theme guide.png",
     "Backgrounds.png",
     "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Robin dabank Wolf.md",
