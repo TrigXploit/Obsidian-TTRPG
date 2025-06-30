@@ -142,8 +142,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,7 +279,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bdaf6afd706a12ec",
+  "active": "b5d3fa448e18ab0c",
   "lastOpenFiles": [
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "Jonas/Characters/Wolf.md",
