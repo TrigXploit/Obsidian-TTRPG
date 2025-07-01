@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -279,7 +279,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5d3fa448e18ab0c",
+  "active": "bdaf6afd706a12ec",
   "lastOpenFiles": [
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "Jonas/Characters/Wolf.md",
