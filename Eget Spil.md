@@ -41,12 +41,3 @@ Tlf: 2186 3702
 Mail: trigsterssoftware@outlook.dk
 
 
-Bedste hilsner
-
-Marcus Madsen
-
-  
-
-Tlf: 2186 3702
-
-Mail: trigsterssoftware@outlook.dk
