@@ -11,14 +11,10 @@
             "id": "bdaf6afd706a12ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eget Spil.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eget Spil"
+              "title": "New tab"
             }
           },
           {
@@ -162,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eget Spil.md",
+                "file": "Jonas/Characters/character sheet drawing.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Eget Spil"
+              "title": "Outline of character sheet drawing"
             }
           },
           {
@@ -279,10 +275,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bdaf6afd706a12ec",
+  "active": "b5d3fa448e18ab0c",
   "lastOpenFiles": [
-    "2025-07-01.md",
+    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/Robin Wolf pic.jpg",
     "Eget Spil.md",
+    "2025-07-01.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
     "Jonas/Characters/Wolf.md",
@@ -293,11 +293,7 @@
     "a.md",
     "ITS Theme guide.png",
     "Backgrounds.png",
-    "Jonas/Characters/Robin dabank Wolf.md",
-    "Jonas/Characters/Robin Wolf pic.jpg",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "Jonas/Characters/character sheet drawing.md",
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
     "0. Testing/how to guides/how to guides.md",
     "Dennis/Dennis.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
@@ -315,7 +311,6 @@
     "DnD stuff (add as I go)/2014/Items",
     "DnD stuff (add as I go)/2014/spells/1. cantrips.md",
     "DnD stuff (add as I go)/2014/spells/5. 4th Lv spells.md",
-    "DnD stuff (add as I go)/2014/spells/4. 3rd Lv spells.md",
     "DnD stuff (add as I go)/2014/spells",
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
