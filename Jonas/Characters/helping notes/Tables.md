@@ -3,28 +3,33 @@
 
 ### Backpack
 
-| Name          | Qty | Weight | Cost | Note                                  |
-| ------------- | --- | ------ | ---- | ------------------------------------- |
-| Bedroll       | 20  |        |      |                                       |
-| Mess Kit      | 1   |        |      | normal sword of stabbing and slashing |
-| Rations       | 10  |        |      | 123                                   |
-| Thieves Tools |     |        |      |                                       |
-|               |     |        |      |                                       |
-|               |     |        |      |                                       |
+| Name           | Qty | Weight (lb) | Cost | Note                                          |
+| -------------- | --- | ----------- | ---- | --------------------------------------------- |
+| Bedroll        | 1   | 7           |      |                                               |
+| Mess Kit       | 1   | 1           |      | normal sword of stabbing and slashing         |
+| Rations        | 10  | 20          |      | 123                                           |
+| Rope Hemp (50) | 1   | 10          |      |                                               |
+| Tinderbox      |     | 1           |      |                                               |
+| Torch          | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr |
+| Waterskin      | 1   | 5           |      | 0,5 L                                         |
+|                |     |             |      |                                               |
+| Arrows         | 20  |             |      |                                               |
+| Clothes        | 1   |             |      |                                               |
+| Thieves Tools  | 1   |             |      |                                               |
 
 ## Equipment
 ##### Weapons
-| Name          | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
-| ------------- | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
-| Dagger        | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Dagger        | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Rapier        | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
-| Shortbow      | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
-| Longbow       | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
-|               |                                   |         |                                                            |                               |         |      |
-| Arrows        |                                   |         |                                                            |                               |         |      |
-| Clothes       |                                   |         |                                                            |                               |         |      |
-| Thieves Tools |                                   |         |                                                            |                               |         |      |
+| Name     | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
+| -------- | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
+| Dagger   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Dagger   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Rapier   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Shortbow | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
+|          |                                   |         |                                                            |                               |         |      |
+|          |                                   |         |                                                            |                               |         |      |
+|          |                                   |         |                                                            |                               |         |      |
+|          |                                   |         |                                                            |                               |         |      |
 
 ##### Magic or special stuff
 
@@ -89,6 +94,8 @@
 | Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                               |
 | *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
 | *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
+
+---
  how to get advangate:
  - Stealth / Surprise  | In combat Hide (lv 3)
  - Steady Aim (rouge lv 3)

@@ -49,8 +49,7 @@
               "title": "Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "25914712cf90911d",
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -222,10 +222,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "601fec4123fe013a",
+  "active": "50154a0de030c853",
   "lastOpenFiles": [
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/2014/Items/weapons.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",

@@ -55,7 +55,7 @@ Hit_Dice: 8
 >> ###### My Stuff
 >> Copper | Silver | Gold | Platinum |
 >> ---|---|---|---|
->> 1|2|3|4|
+>> 0|0|15|0|
 >> 
 >> ![[Tables#Equipment]]
 >> ![[Tables#inventory]]
