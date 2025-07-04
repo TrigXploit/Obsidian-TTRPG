@@ -1,6 +1,0 @@
-Underground fighter
-
-Gangril
-
-
-

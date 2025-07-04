@@ -1,5 +1,37 @@
 {
-  "styles": {},
-  "presets": {},
-  "presetOrder": []
+  "styles": {
+    "Dennis": {
+      "backgroundColor": "#2464e5"
+    },
+    "0. Testing/Character-Test.md": {
+      "backgroundColor": "#16792a"
+    },
+    "0. Testing": {
+      "applyToSubfolders": true,
+      "backgroundColor": "#750071"
+    },
+    "Jonas": {
+      "backgroundColor": "#21de8c",
+      "applyToSubfolders": true,
+      "opacity": 0.7
+    },
+    "DnD stuff (add as I go)": {
+      "backgroundColor": "#916b03",
+      "isBold": true,
+      "applyToSubfolders": true
+    }
+  },
+  "presets": {
+    "Dennis test": {
+      "backgroundColor": "#ff0000"
+    },
+    "Testing": {
+      "applyToSubfolders": true,
+      "backgroundColor": "#9e0099"
+    }
+  },
+  "presetOrder": [
+    "Dennis test",
+    "Testing"
+  ]
 }

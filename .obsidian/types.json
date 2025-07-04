@@ -26,6 +26,10 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "Disciplines": "multitext",
+    "current_health": "text",
+    "level": "text",
+    "expertise": "multitext"
   }
 }

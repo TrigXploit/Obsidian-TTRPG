@@ -4,6 +4,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "S - Encoded Fonts",
-    "S - Encoded Icons"
+    "S - Encoded Icons",
+    "columns space",
+    "custom-callout"
   ]
 }

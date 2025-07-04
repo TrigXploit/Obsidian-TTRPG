@@ -1,5 +1,5 @@
 ## inventory
-list of items [[Inventory]]
+list of items [[Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory]]
 
 >[!infobox]+
 ># 3RD Attack
