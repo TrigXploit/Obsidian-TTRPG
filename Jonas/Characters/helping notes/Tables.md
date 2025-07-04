@@ -81,6 +81,7 @@
 | *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
 | *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
  how to get advangate:
- - Stealth / Surprise
+ - Stealth / Surprise  | In combat Hide (lv 3)
+ - Steady Aim (rouge lv 3)
  - Vex (if you hit, next attack has advantage)
 
