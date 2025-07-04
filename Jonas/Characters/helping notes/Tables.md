@@ -19,13 +19,12 @@
 | Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 | Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
 
-
 ##### Armor
-| Name   | Equipped                          | Note                                  |
-| ------ | --------------------------------- | ------------------------------------- |
-| Dagger | <input type="checkbox" unchecked> |                                       |
-| sword  | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
-| test   | <input type="checkbox" unchecked> | 123                                   |
+| Name                 | Equipped                          | Note                                  |
+| -------------------- | --------------------------------- | ------------------------------------- |
+| Armor of House Wyvin | <input type="checkbox" unchecked> |                                       |
+| sword                | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
+| test                 | <input type="checkbox" unchecked> | 123                                   |
 
 ## currency
 
@@ -74,14 +73,14 @@
 
 ## Actions
 
-| Action                                                                                                                     | Cost                   | Note                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------- |
-| Attack                                                                                                                     | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                          |
+| Action                                                                                                                                                          | Cost                   | Note                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------- |
+| Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                          |
 | [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                                         | 1 bonus action         |                                                                                 |
-| Shift                                                                                                                      | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest |
-| Two-Weapon <br>Fighting<br>                                                                                                | 1 bonus action         |                                                                                 |
+| Shift                                                                                                                                                           | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest |
+| Two-Weapon <br>Fighting<br>                                                                                                                                     | 1 bonus action         |                                                                                 |
 | Channel Divinity:<br>Turn undead<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | <br>1 Action<br>-null- | Locked until lv 2<br><input type="checkbox" unchecked> / short rest             |
-| Ritual spells                                                                                                              | -null-                 | spell takes 10 minutes longer to cast than normal                               |
-| *movement*                                                                                                                 | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
-| *Combat*                                                                                                                   | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
+| Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                               |
+| *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
+| *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
  

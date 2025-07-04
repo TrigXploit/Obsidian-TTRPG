@@ -6,17 +6,8 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
+        "dimension": 41.222570532915356,
         "children": [
-          {
-            "id": "bdaf6afd706a12ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
           {
             "id": "d1bf4130e138576c",
             "type": "leaf",
@@ -37,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Tables.md",
+                "file": "Jonas/Characters/helping notes/Tables.md",
                 "mode": "source",
                 "source": false
               },
@@ -46,46 +37,57 @@
             }
           },
           {
-            "id": "272d0f206003dff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hunt Domain (Heliana_s Guide to Monster Hunting)"
-            }
-          },
-          {
             "id": "c038b31b9ce98e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/helping notes/Inventory.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Inventory"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9413629a7d705b8f",
+        "type": "tabs",
+        "dimension": 58.777429467084644,
+        "children": [
+          {
+            "id": "bdaf6afd706a12ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Robin dabank Wolf"
             }
           },
           {
             "id": "2118e503ce4caebf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf"
+                "file": "Jonas/Characters/Wolf.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "DnD_2024_Character-Sheet-Fillable"
+              "icon": "lucide-file",
+              "title": "Wolf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/character sheet drawing.md",
+                "file": "Jonas/Characters/helping notes/Tables.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of character sheet drawing"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -259,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,25 +277,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5d3fa448e18ab0c",
+  "active": "179bb31b627d7d51",
   "lastOpenFiles": [
-    "Jonas/Characters/5E_CharacterSheet_Fillable.pdf",
-    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/helping notes/Tables.md",
+    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Robin dabank Wolf.md",
-    "Jonas/Characters/Robin Wolf pic.jpg",
+    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/helping notes",
+    "Jonas/Sessions/session 0.1.md",
+    "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Eget Spil.md",
+    "Jonas/Characters/character sheet drawing.md",
+    "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "2025-07-01.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/Assassin.md",
     "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
-    "Jonas/Characters/Wolf.md",
-    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "DnD stuff (add as I go)/2014/spells/2. 1st Lv spells.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-    "Jonas/Characters/Tables.md",
     "a.md",
     "ITS Theme guide.png",
     "Backgrounds.png",
-    "Jonas/Characters/character sheet drawing.md",
     "0. Testing/how to guides/how to guides.md",
     "Dennis/Dennis.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
@@ -309,12 +314,9 @@
     "DnD stuff (add as I go)/2014/Items/Magic Items.md",
     "DnD stuff (add as I go)/2014/Items/Homebrew.md",
     "DnD stuff (add as I go)/2014/Items",
-    "DnD stuff (add as I go)/2014/spells/1. cantrips.md",
-    "DnD stuff (add as I go)/2014/spells/5. 4th Lv spells.md",
     "DnD stuff (add as I go)/2014/spells",
     "DnD stuff (add as I go)/2024",
     "DnD stuff (add as I go)/2014",
-    "DnD stuff (add as I go)",
     "Jonas/Characters/character profile pic.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Pasted Image 20250418210943_386.png",
