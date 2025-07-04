@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Wolf"
             }
           },
           {
@@ -209,11 +209,12 @@
   },
   "active": "50154a0de030c853",
   "lastOpenFiles": [
+    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/helping notes/Inventory.md",
+    "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
+    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/helping notes/Tables.md",
-    "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
-    "Jonas/Characters/helping notes/Inventory.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Eget Spil.md",
     "ITS Theme guide.png",
@@ -245,7 +246,6 @@
     "0. Testing/how to guides",
     "testing.md",
     "a.md",
-    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/helping notes",
     "Jonas/Sessions",
     "Jonas/Characters",
