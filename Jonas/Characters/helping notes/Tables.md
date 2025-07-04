@@ -22,7 +22,7 @@
 ##### Armor
 | Name                 | Equipped                          | Note                                  |
 | -------------------- | --------------------------------- | ------------------------------------- |
-| Armor of House Wyvin | <input type="checkbox" unchecked> |                                       |
+| [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |                                       |
 | sword                | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
 | test                 | <input type="checkbox" unchecked> | 123                                   |
 
