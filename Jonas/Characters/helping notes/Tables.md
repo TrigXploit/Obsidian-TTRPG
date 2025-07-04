@@ -63,7 +63,7 @@
 | ----- | --------------------------------------------------------------------- | ---------------- | ------- | ------ | ------ | -------------- | ---------- |
 | 0     | [[1. cantrips#Light\|Light]]                                          | 1 Action         | Touch   | -      |        | 1 hour         | V, M       |
 | 0     | [[1. cantrips#Mending\|Mending]]                                      | 1 Minute         | Touch   | -      |        | Instant        | V, S, M    |
-| 0     | [[1. cantrips#Thaumaturgy\|Thaumaturgy]]                              | 1 Action         | 30 feet | -      |        | Up to 1 minute | V          |
+| 0     | [[1. cantrips#Spare the Dying\|spare the dying]]                              | 1 Action         | 30 feet | -      |        | Up to 1 minute | V          |
 | 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                               | 1 Action **_R_** | Touch   | -      |        | Instant        | V, S, M    |
 | 1     | [[2. 1st Lv spells#Create or Destroy Water\|Create or Destroy Water]] | 1 Action         | 30 feet | -      |        | Instant        | V, S, M    |
 | 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                         | 1 Action         | Touch   | -      |        | Instant        | V, S       |
