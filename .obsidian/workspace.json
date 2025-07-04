@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
-                "source": true
+                "file": "Jonas/Characters/helping notes/Tables.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Tables"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "Robin dabank Wolf"
+            }
+          },
+          {
+            "id": "601fec4123fe013a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonas/Characters/Wolf.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Wolf"
             }
           }
         ]
@@ -67,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "file": "Jonas/Characters/helping notes/Tables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -186,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,12 +223,21 @@
   },
   "active": "50154a0de030c853",
   "lastOpenFiles": [
+    "DnD stuff (add as I go)/2014/Items/weapons.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/helping notes/Tables.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/Index.md",
+    "Backgrounds.png",
+    "Backgrounds.md",
+    "2025-07-01.md",
+    "0. Testing/test.md",
+    "DnD stuff (add as I go)/2014/spells/1. cantrips.md",
+    "Jonas/Sessions/session 0.1.md",
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
-    "Jonas/Characters/helping notes/Tables.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
-    "Jonas/Characters/Wolf.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Eget Spil.md",
     "ITS Theme guide.png",
@@ -227,7 +250,6 @@
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis",
     "Dennis/Vampire the masqurade/characters/PCs",
     "Dennis/Vampire the masqurade/Templates/this is a template.md",
@@ -239,13 +261,7 @@
     "0. Testing/how to guides/to learn.md",
     "0. Testing/how to guides/ITS Theme guide.md",
     "0. Testing/how to guides/how to yaml.md",
-    "0. Testing/how to guides/How to Meta-Data.md",
-    "0. Testing/how to guides/how to guides.md",
-    "0. Testing/how to guides/how to infobox.md",
-    "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides",
-    "testing.md",
-    "a.md",
     "Jonas/Characters/helping notes",
     "Jonas/Sessions",
     "Jonas/Characters",

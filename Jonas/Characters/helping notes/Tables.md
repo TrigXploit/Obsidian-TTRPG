@@ -9,15 +9,13 @@
 
 ## Equipment
 ##### Weapons
-| Name               | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
-| ------------------ | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Rapier             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
-| Short  Sword       | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
-| Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
-| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Name     | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
+| -------- | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
+| Dagger   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Dagger   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Rapier   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Shortbow | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 
 ##### Armor
 | Name                 | Equipped                          | Note                                  |
@@ -82,4 +80,7 @@
 | Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                               |
 | *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
 | *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
- 
+ how to get advangate:
+ - Stealth / Surprise
+ - Vex (if you hit, next attack has advantage)
+
