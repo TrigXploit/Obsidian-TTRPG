@@ -12,10 +12,10 @@
 | Tinderbox      |     | 1           |      |                                               |
 | Torch          | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr |
 | Waterskin      | 1   | 5           |      | 0,5 L                                         |
-|                |     |             |      |                                               |
-| Arrows         | 20  |             |      |                                               |
-| Clothes        | 1   |             |      |                                               |
-| Thieves Tools  | 1   |             |      |                                               |
+|                |     |             |      | ---                                           |
+| Arrows         | 20  | 1           |      |                                               |
+| Clothes        | 1   | 3           |      |                                               |
+| Thieves Tools  | 1   | 1           |      |                                               |
 
 ## Equipment
 ##### Weapons
@@ -26,10 +26,6 @@
 | Rapier   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
 | Shortbow | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
 | Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
-|          |                                   |         |                                                            |                               |         |      |
-|          |                                   |         |                                                            |                               |         |      |
-|          |                                   |         |                                                            |                               |         |      |
-|          |                                   |         |                                                            |                               |         |      |
 
 ##### Magic or special stuff
 
@@ -75,8 +71,8 @@
 | 0     | [[1. cantrips#Light\|Light]]                                      | 1 Action         | Touch   | -      |                                        | 1 hour         | V, M       |
 | 0     | [[1. cantrips#Mending\|Mending]]                                  | 1 Minute         | Touch   | -      |                                        | Instant        | V, S, M    |
 | 0     | [[1. cantrips#Spare the Dying\|spare the dying]]                  | 1 Action         | 30 feet | -      |                                        | Up to 1 minute | V          |
-| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                     | 1 Action         | Touch   | -      |                                        | Instant        | V, S       |
-| 1     | [[2. 1st Lv spells#Inflict Wounds\|Inflict wounds]]               | 1 Action         | Touch   |        |                                        | Instant        | V,S        |
+| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                     | 1 Action         | Touch   | -      | 1D8+3                                  | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Inflict Wounds\|Inflict wounds]]               | 1 Action         | Touch   | +5     | 3d10 necrotic damage                   | Instant        | V,S        |
 | 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                           | 1 Action         | 90 feet | 13 str | Bind                                   | up to 1 minute | C, V, S    |
 | 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                     | 1 Action         | Touch   | -      |                                        | 1 hour         | V, S, M    |
 | 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]] | 1 Action **_R_** | 10 feet | -      |                                        | Instant        | V, S       |
