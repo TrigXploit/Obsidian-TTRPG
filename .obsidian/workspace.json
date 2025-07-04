@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Tables"
             }
+          },
+          {
+            "id": "bcb02a14e5c71eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonas/Characters/Robin dabank Wolf.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Robin dabank Wolf"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +208,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50154a0de030c853",
+  "active": "bcb02a14e5c71eb9",
   "lastOpenFiles": [
+    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Jonas/Characters/helping notes/Inventory.md",
-    "Jonas/Characters/Wolf.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Inventory.md",
     "Eget Spil.md",
     "ITS Theme guide.png",
