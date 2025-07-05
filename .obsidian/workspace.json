@@ -4,44 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f655a5dd3ed61106",
-        "type": "tabs",
-        "dimension": 31.892251413368804,
-        "children": [
-          {
-            "id": "179bb31b627d7d51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tables"
-            }
-          },
-          {
-            "id": "d1bf4130e138576c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD stuff (add as I go)/2014/spells/Spells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spells"
-            }
-          }
-        ]
-      },
-      {
         "id": "effda21c31e92eca",
         "type": "tabs",
-        "dimension": 68.10774858663119,
         "children": [
           {
             "id": "c038b31b9ce98e60",
@@ -159,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -276,13 +240,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "179bb31b627d7d51",
+  "active": "4a01b4d3d762acf5",
   "lastOpenFiles": [
+    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "Jonas/Characters/Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
-    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "Jonas/Characters/helping notes/Inventory.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
     "0. Testing/how to guides/how to yaml.md",
