@@ -1,21 +1,20 @@
 
 ## inventory
-
 ### Backpack
-
-| Name           | Qty | Weight (lb) | Cost | Note                                          |
-| -------------- | --- | ----------- | ---- | --------------------------------------------- |
-| Bedroll        | 1   | 7           |      |                                               |
-| Mess Kit       | 1   | 1           |      | normal sword of stabbing and slashing         |
-| Rations        | 10  | 20          |      | 123                                           |
-| Rope Hemp (50) | 1   | 10          |      |                                               |
-| Tinderbox      |     | 1           |      |                                               |
-| Torch          | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr |
-| Waterskin      | 1   | 5           |      | 0,5 L                                         |
-|                |     |             |      | ---                                           |
-| Arrows         | 20  | 1           |      |                                               |
-| Clothes        | 1   | 3           |      |                                               |
-| Thieves Tools  | 1   | 1           |      |                                               |
+| Name              | Qty | Weight (lb) | Cost | Note                                                                                                                               |
+| ----------------- | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Bedroll           | 1   | 7           |      |                                                                                                                                    |
+| Mess Kit          | 1   | 1           |      | Kit for making food                                                                                                                |
+| Rations           | 10  | 20          |      | 1 day supply of dried food                                                                                                         |
+| Rope Hemp (50)    | 1   | 10          |      |                                                                                                                                    |
+| Tinderbox         |     | 1           |      |                                                                                                                                    |
+| Torch             | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr                                                                                      |
+| Waterskin         | 1   | 5           |      | 0,5 L                                                                                                                              |
+|                   |     |             |      | ---                                                                                                                                |
+| Harvvesting knife | 1   |             |      | Large machette used for harvesting components                                                                                      |
+| Arrows            | 20  | 1           |      |                                                                                                                                    |
+| Clothes           | 1   | 3           |      | common clothes                                                                                                                     |
+| Thieves Tools     | 1   | 1           |      | a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers |
 
 ## Equipment
 ##### Weapons
@@ -28,13 +27,11 @@
 | Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 
 ##### Magic or special stuff
-
 | Name                                                                              | Equipped                          | Note |
 | --------------------------------------------------------------------------------- | --------------------------------- | ---- |
 | [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |      |
 
 ## currency
-
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
 | 0      | 0      | 15   | 0        |
@@ -53,17 +50,16 @@
 | 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                           | 1 Action **_R_** | Touch   | -      | funeral, Bless water, Dedication 1 min | Instant        | V, S, M    |
 
 ## Actions
-
-| Action                                                                                                                                                          | Cost                   | Note                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                                                                      |
-| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                                         | 1 bonus action         |                                                                                                                                                                                             |
-| Shift                                                                                                                                                           | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest<br>+4 temporary hit<br>transformation lasts for 1 minute<br>Advantage on Wisdom checks<br>30ft no advantage |
-| Two-Weapon <br>Fighting<br>                                                                                                                                     | 1 bonus action         |                                                                                                                                                                                             |
-| Channel Divinity:<br>Turn undead<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | <br>1 Action<br>-null- | locked until lv 3<br><input type="checkbox" unchecked> / short rest                                                                                                                         |
-| Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                                                                                                                                           |
-| *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                                                                                                                                      |
-| *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                                                                                                                               |
+| Action                                                                                                                                           | Cost               | Note                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attack                                                                                                                                           | 1 Action           | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                                                                      |
+| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                          | 1 bonus action     |                                                                                                                                                                                             |
+| Shift                                                                                                                                            | 1 bonus action     | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest<br>+4 temporary hit<br>transformation lasts for 1 minute<br>Advantage on Wisdom checks<br>30ft no advantage |
+| Two-Weapon <br>Fighting<br>                                                                                                                      | 1 bonus action     |                                                                                                                                                                                             |
+| Channel Divinity:<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | 1 Action<br>-null- | locked until lv 3<br><input type="checkbox" unchecked> / short rest                                                                                                                         |
+| Ritual spells                                                                                                                                    | -null-             | spell takes 10 minutes longer to cast than normal                                                                                                                                           |
+| *movement*                                                                                                                                       | Bonus / Action     | Hide, Dash, Shove \| Influence, Search                                                                                                                                                      |
+| *Combat*                                                                                                                                         | Bonus / Action     | Dodge, Disengage, Help, Ready                                                                                                                                                               |
 
 ---
  how to get advangate:
