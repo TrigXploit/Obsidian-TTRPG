@@ -13,7 +13,7 @@
 >>>**Background**: ?
 >>>**Keen Senses**: Perception (proficiency)
 >>> **Bestial Instincts**: Survival (proficiency)
->>> **Feat**: Expert Harvester
+>>> ###### **Feat**: Expert Harvester
 >>> - Hunting knife
 >>>- Increase Dexterity by 1 to a max of 20
 >>>- Making a Harvesting check with a skill you have proficiency in, double your proficiency bonus. 
@@ -21,12 +21,6 @@
 >>>- If you help with a Harvesting check, add your proficiency bonus to the result, regardless of  if you’re proficient with that skill. 
 >>>- You do not suffer disadvantage on your Harvesting checks by doing both the Assessment and Carving checks alone.
 >>>
->>>**Armor of House Wyvin**:
->>>- advantage on Persuasion checks, when I ask on behalf of the house.
->>>- Armor require attunement
->>>- The armor can be fitted with armor piece from the catalog, without requiring additional attunement.
->>>- armor gives +14 AC
->>>- light armor (1 min Don Doff)
 >
 >
 >
@@ -96,20 +90,7 @@
 >>
 >>
 
-Actions:
-- Attack
-- Dash
-- Hide
-- Spells
-
-
-**Bonus Actions**:
-- Mark Prey
-- Shift
-- 
-- 
-
-**Background:**
+###### **Background:**
 3rd son of house *Wyvin* who are known for their tributes as hunters.
 He wanted to become something and choose to become a hunter like his family once was.
 he returned to the main family where he gets accepted and starts training to become a hunter.
@@ -120,24 +101,3 @@ The journey is treated as a rite of passage
 House of Wyvin never works with another from the house due to
 "you only need 1 from house wyvin to fix it" 
 
-
-
----
-
-*I'm trying to make a DND character sheet with yaml and metadata & dataview If i have my yaml
-
--- 
-Dex Bonus: 4 
-expertise: 
-- Acrobat, 
-- stealth 
-proficiency bonus: 2 
---
-I want to make a table of skills 
-
-Skills | bonus | 
---- | --- | 
-
-would it be possible to make it so bonus would change if a skill was in the list of expertise. the formula would be: 
-
-Stealth | 'bonus = this.dex bonus + proficiency bonus * 2'  but it should only do it if the

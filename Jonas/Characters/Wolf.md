@@ -20,6 +20,8 @@ Classes:
 Sub-Class:
   - "[[Assassin]]"
   - "[[Hunt Domain (Heliana_s Guide to Monster Hunting)|Hunt Domain]]"
+Feats:
+  - "[[Feats#Expert Harvester|Expert Harvester]]"
 ---
 
 >[!column|3 flex no-t]
@@ -52,6 +54,7 @@ Sub-Class:
 >> ---|---|
 >> **Class(s)** | `=this.Classes` |
 >> **Sub-Class(s)** | `=this.Sub-Class`
+>> **Feat(s)**|`=this.Feats`
 >> **Group(s)** | `=this.AssociatedGroup` |
 >> **Current Location** | `=this.Location` |
 >

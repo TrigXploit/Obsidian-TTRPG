@@ -11,13 +11,28 @@
       "backgroundColor": "#750071"
     },
     "Jonas": {
-      "backgroundColor": "#21de8c",
+      "backgroundColor": "#1aa267",
       "applyToSubfolders": true,
       "opacity": 0.7
     },
     "DnD stuff (add as I go)": {
       "backgroundColor": "#916b03",
       "isBold": true,
+      "applyToSubfolders": true
+    },
+    "DnD stuff (add as I go)/2014": {
+      "backgroundColor": "#4d991a",
+      "applyToSubfolders": true
+    },
+    "DnD stuff (add as I go)/2024": {
+      "backgroundColor": "#0e7c57",
+      "applyToSubfolders": true
+    },
+    "DnD stuff (add as I go)/X-tra modules": {
+      "backgroundColor": "#871212"
+    },
+    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters": {
+      "backgroundColor": "#024b01",
       "applyToSubfolders": true
     }
   },
