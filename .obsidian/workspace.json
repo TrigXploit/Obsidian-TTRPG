@@ -49,23 +49,9 @@
               "icon": "lucide-file",
               "title": "testing"
             }
-          },
-          {
-            "id": "dc87f5498885d651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "9413629a7d705b8f",
@@ -173,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "testing.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of testing"
             }
           },
           {
@@ -290,7 +276,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dc87f5498885d651",
+  "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "testing.md",
