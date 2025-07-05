@@ -1,36 +1,43 @@
 
 ## inventory
 
-| Name   | Qty | Weight | Cost | Note                                  |
-| ------ | --- | ------ | ---- | ------------------------------------- |
-| Dagger | 2   |        |      |                                       |
-| sword  | 1   |        |      | normal sword of stabbing and slashing |
-| test   | 1   |        |      | 123                                   |
+### Backpack
+
+| Name           | Qty | Weight (lb) | Cost | Note                                          |
+| -------------- | --- | ----------- | ---- | --------------------------------------------- |
+| Bedroll        | 1   | 7           |      |                                               |
+| Mess Kit       | 1   | 1           |      | normal sword of stabbing and slashing         |
+| Rations        | 10  | 20          |      | 123                                           |
+| Rope Hemp (50) | 1   | 10          |      |                                               |
+| Tinderbox      |     | 1           |      |                                               |
+| Torch          | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr |
+| Waterskin      | 1   | 5           |      | 0,5 L                                         |
+|                |     |             |      | ---                                           |
+| Arrows         | 20  | 1           |      |                                               |
+| Clothes        | 1   | 3           |      |                                               |
+| Thieves Tools  | 1   | 1           |      |                                               |
 
 ## Equipment
 ##### Weapons
-| Name               | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
-| ------------------ | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Dagger             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Rapier             | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
-| Short  Sword       | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` |         |      |
-| Shortbow           | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
-| Longbow            | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
-| Cross Bow<br>Light | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Name     | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
+| -------- | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
+| Dagger   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Dagger   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d4+`= [[Wolf.md]].Dex_bonus` |         |      |
+| Rapier   | <input type="checkbox" unchecked> | 5       | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d8+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Shortbow | <input type="checkbox" unchecked> | 80/320  | +`= [[Wolf.md]].proficiency_bonus + [[Wolf.md]].Dex_bonus` | 1d6+`= [[Wolf.md]].Dex_bonus` | **Vex** |      |
+| Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 
-##### Armor
-| Name                 | Equipped                          | Note                                  |
-| -------------------- | --------------------------------- | ------------------------------------- |
-| Armor of House Wyvin | <input type="checkbox" unchecked> |                                       |
-| sword                | <input type="checkbox" unchecked> | normal sword of stabbing and slashing |
-| test                 | <input type="checkbox" unchecked> | 123                                   |
+##### Magic or special stuff
+
+| Name                                                                              | Equipped                          | Note |
+| --------------------------------------------------------------------------------- | --------------------------------- | ---- |
+| [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |      |
 
 ## currency
 
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
-| 0      | 0      | 50   | 0        |
+| 0      | 0      | 15   | 0        |
 
 
 %%
@@ -59,20 +66,21 @@
 
 %%
 ## spells
-| Level | Name                                                                  | Casting Time     | Range   | Hit/DC | Effect | Duration       | Components |
-| ----- | --------------------------------------------------------------------- | ---------------- | ------- | ------ | ------ | -------------- | ---------- |
-| 0     | [[1. cantrips#Light\|Light]]                                          | 1 Action         | Touch   | -      |        | 1 hour         | V, M       |
-| 0     | [[1. cantrips#Mending\|Mending]]                                      | 1 Minute         | Touch   | -      |        | Instant        | V, S, M    |
-| 0     | [[1. cantrips#Thaumaturgy\|Thaumaturgy]]                              | 1 Action         | 30 feet | -      |        | Up to 1 minute | V          |
-| 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                               | 1 Action **_R_** | Touch   | -      |        | Instant        | V, S, M    |
-| 1     | [[2. 1st Lv spells#Create or Destroy Water\|Create or Destroy Water]] | 1 Action         | 30 feet | -      |        | Instant        | V, S, M    |
-| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                         | 1 Action         | Touch   | -      |        | Instant        | V, S       |
-| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                               | 1 Action         | 90 feet | 13 str | Bind   | up to 1 minute | C, V, S    |
-| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                         | 1 Action         | Touch   | -      |        | 1 hour         | V, S, M    |
-| 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]]     | 1 Action **_R_** | 10 feet | -      |        | Instant        | V, S       |
+| Level | Name                                                              | Casting Time     | Range   | Hit/DC | Effect                                 | Duration       | Components |
+| ----- | ----------------------------------------------------------------- | ---------------- | ------- | ------ | -------------------------------------- | -------------- | ---------- |
+| 0     | [[1. cantrips#Light\|Light]]                                      | 1 Action         | Touch   | -      |                                        | 1 hour         | V, M       |
+| 0     | [[1. cantrips#Mending\|Mending]]                                  | 1 Minute         | Touch   | -      |                                        | Instant        | V, S, M    |
+| 0     | [[1. cantrips#Spare the Dying\|spare the dying]]                  | 1 Action         | 30 feet | -      |                                        | Up to 1 minute | V          |
+| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                     | 1 Action         | Touch   | -      | 1D8+3                                  | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Inflict Wounds\|Inflict wounds]]               | 1 Action         | Touch   | +5     | 3d10 necrotic damage                   | Instant        | V,S        |
+| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                           | 1 Action         | 90 feet | 13 str | Bind                                   | up to 1 minute | C, V, S    |
+| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                     | 1 Action         | Touch   | -      |                                        | 1 hour         | V, S, M    |
+| 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]] | 1 Action **_R_** | 10 feet | -      |                                        | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                           | 1 Action **_R_** | Touch   | -      | funeral, Bless water, Dedication 1 min | Instant        | V, S, M    |
 
 ## Actions
 
+<<<<<<< HEAD
 | Action                                                                                                                                                          | Cost                   | Note                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                   |
@@ -84,3 +92,22 @@
 | *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                                                                                   |
 | *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                                                                            |
  
+=======
+| Action                                                                                                                                                          | Cost                   | Note                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------- |
+| Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                          |
+| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                                         | 1 bonus action         |                                                                                 |
+| Shift                                                                                                                                                           | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest |
+| Two-Weapon <br>Fighting<br>                                                                                                                                     | 1 bonus action         |                                                                                 |
+| Channel Divinity:<br>Turn undead<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | <br>1 Action<br>-null- | Locked until lv 2<br><input type="checkbox" unchecked> / short rest             |
+| Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                               |
+| *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
+| *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
+
+---
+ how to get advangate:
+ - Stealth / Surprise  | In combat Hide (lv 3)
+ - Steady Aim (rouge lv 3)
+ - Vex (if you hit, next attack has advantage)
+
+>>>>>>> origin/main

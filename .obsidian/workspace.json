@@ -49,9 +49,23 @@
               "icon": "lucide-file",
               "title": "testing"
             }
+          },
+          {
+            "id": "dc87f5498885d651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9413629a7d705b8f",
@@ -159,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of testing"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -276,8 +290,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c038b31b9ce98e60",
+  "active": "dc87f5498885d651",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "testing.md",
     "testing.png",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Robin dabank Wolf.md",
@@ -312,7 +328,6 @@
     "DnD stuff (add as I go)/2014/Items/Utility.md",
     "DnD stuff (add as I go)/2014/Items/Armor.md",
     "DnD stuff (add as I go)/2014/Items/Magic Items.md",
-    "DnD stuff (add as I go)/2014/Items/Homebrew.md",
     "DnD stuff (add as I go)/2014/Items",
     "DnD stuff (add as I go)/2014/spells",
     "DnD stuff (add as I go)/2024",
@@ -323,7 +338,6 @@
     "Pasted Image 20250524195158_290.png",
     "character sheet Temp.png",
     "Untitled.png",
-    "0. Testing/vampire the masqurade sheet.png",
     "Untitled.canvas"
   ]
 }
