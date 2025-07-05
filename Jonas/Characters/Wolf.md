@@ -1,7 +1,7 @@
 ---
 Art: "![Robin Wolf pic.jpg]"
 Type: Player
-Level: "2"
+Level: 2
 proficiency_bonus: 2
 speed: 30
 HP: 15
@@ -14,6 +14,12 @@ Cha_bonus: -1
 Base_AC: 14
 Darkvision: 60
 Hit_Dice: 8
+Classes:
+  - "[[1.Rouge]]"
+  - "[[1.Cleric]]"
+Sub-Class:
+  - "[[Assassin]]"
+  - "[[Hunt Domain (Heliana_s Guide to Monster Hunting)|Hunt Domain]]"
 ---
 
 >[!column|3 flex no-t]
@@ -24,8 +30,8 @@ Hit_Dice: 8
 >> ###### Stats
 >>  |
 >> ---|---|
->> **Level** |`=this.level` |
->>  **Speed** |`=this.speed` |
+>> **Level** |`=this.Level` |
+>> **Speed** |`=this.speed` |
 >> **Proficiency** | +`=this.proficiency_bonus` |
 >> **Initiative** | +`=this.Dex_bonus` |
 >> **AC** | `=(this.Base_AC + this.Dex_bonus)`
@@ -44,18 +50,14 @@ Hit_Dice: 8
 >> ###### Info
 >>   |
 >> ---|---|
->> **Class(s)** | `=this.Class` |
->> **Sub-Class(s)** | `=this.Subclass`
+>> **Class(s)** | `=this.Classes` |
+>> **Sub-Class(s)** | `=this.Sub-Class`
 >> **Group(s)** | `=this.AssociatedGroup` |
->> **Religion(s)** | `=this.AssociatedReligion` |
 >> **Current Location** | `=this.Location` |
->
 >
 > > [!infobox|flex wsmall]
 >> ###### My Stuff
->> Copper | Silver | Gold | Platinum |
->> ---|---|---|---|
->> 0|0|15|0|
+>> ![[Tables#currency]]
 >> 
 >> ![[Tables#Equipment]]
 >> ![[Tables#inventory]]

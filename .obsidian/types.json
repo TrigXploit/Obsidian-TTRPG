@@ -29,7 +29,9 @@
     "excalidraw-open-md": "checkbox",
     "Disciplines": "multitext",
     "current_health": "text",
-    "level": "text",
-    "expertise": "multitext"
+    "level": "number",
+    "expertise": "multitext",
+    "Classes": "multitext",
+    "Sub-Class": "multitext"
   }
 }

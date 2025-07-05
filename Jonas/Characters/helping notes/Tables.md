@@ -39,32 +39,6 @@
 | ------ | ------ | ---- | -------- |
 | 0      | 0      | 15   | 0        |
 
-
-%%
-
-			Commented out code
->[!column|3 flex no-t]
->>| Level | Total | Used |
->>| ----- | ----- | ---- |
->>| 1 | 2 | 0 |
->>| 2 | 0 | 0 |
->>| 3 | 0 | 0 |
->
->>| Level | Total | Used |
->>| ----- | ----- | ---- |
->>| 4 | 0 | 0 |
->>| 5 | 0 | 0 |
->>| 6 | 0 | 0 |
->
->>| Level | Total | Used |
->>| ----- | ----- | ---- |
->>| 7 | 0 | 0 |
->>| 8 | 0 | 0 |
->>| 9 | 0 | 0 |
-
-			Commented out code
-
-%%
 ## spells
 | Level | Name                                                              | Casting Time     | Range   | Hit/DC | Effect                                 | Duration       | Components |
 | ----- | ----------------------------------------------------------------- | ---------------- | ------- | ------ | -------------------------------------- | -------------- | ---------- |
@@ -80,34 +54,19 @@
 
 ## Actions
 
-<<<<<<< HEAD
-| Action                                                                                                                                                          | Cost                   | Note                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                   |
-| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                                         | 1 bonus action         |                                                                                                                                          |
-| Shift                                                                                                                                                           | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest<br>+4 temporary hit<br>transformation lasts for 1 minute |
-| Two-Weapon <br>Fighting<br>                                                                                                                                     | 1 bonus action         |                                                                                                                                          |
-| Channel Divinity:<br>Turn undead<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | <br>1 Action<br>-null- | locked until lv 3<br><input type="checkbox" unchecked> / short rest                                                                      |
-| Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                                                                                        |
-| *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                                                                                   |
-| *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                                                                            |
- 
-=======
-| Action                                                                                                                                                          | Cost                   | Note                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------- |
-| Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                          |
-| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                                         | 1 bonus action         |                                                                                 |
-| Shift                                                                                                                                                           | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest |
-| Two-Weapon <br>Fighting<br>                                                                                                                                     | 1 bonus action         |                                                                                 |
-| Channel Divinity:<br>Turn undead<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | <br>1 Action<br>-null- | Locked until lv 2<br><input type="checkbox" unchecked> / short rest             |
-| Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                               |
-| *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                          |
-| *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                   |
+| Action                                                                                                                                                          | Cost                   | Note                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attack                                                                                                                                                          | 1 Action               | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                                                                      |
+| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                                         | 1 bonus action         |                                                                                                                                                                                             |
+| Shift                                                                                                                                                           | 1 bonus action         | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest<br>+4 temporary hit<br>transformation lasts for 1 minute<br>Advantage on Wisdom checks<br>30ft no advantage |
+| Two-Weapon <br>Fighting<br>                                                                                                                                     | 1 bonus action         |                                                                                                                                                                                             |
+| Channel Divinity:<br>Turn undead<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | <br>1 Action<br>-null- | locked until lv 3<br><input type="checkbox" unchecked> / short rest                                                                                                                         |
+| Ritual spells                                                                                                                                                   | -null-                 | spell takes 10 minutes longer to cast than normal                                                                                                                                           |
+| *movement*                                                                                                                                                      | Bonus / Action         | Hide, Dash, Shove \| Influence, Search                                                                                                                                                      |
+| *Combat*                                                                                                                                                        | Bonus / Action         | Dodge, Disengage, Help, Ready                                                                                                                                                               |
 
 ---
  how to get advangate:
  - Stealth / Surprise  | In combat Hide (lv 3)
  - Steady Aim (rouge lv 3)
  - Vex (if you hit, next attack has advantage)
-
->>>>>>> origin/main
