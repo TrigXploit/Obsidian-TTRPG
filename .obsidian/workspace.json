@@ -6,7 +6,7 @@
       {
         "id": "f655a5dd3ed61106",
         "type": "tabs",
-        "dimension": 41.222570532915356,
+        "dimension": 41.22257053291535,
         "children": [
           {
             "id": "d1bf4130e138576c",
@@ -42,21 +42,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Inventory.md",
-                "mode": "source",
+                "file": "testing.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "testing"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9413629a7d705b8f",
         "type": "tabs",
-        "dimension": 58.777429467084644,
+        "dimension": 58.77742946708465,
         "children": [
           {
             "id": "bdaf6afd706a12ec",
@@ -86,8 +86,7 @@
               "title": "Wolf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "testing.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of testing"
             }
           },
           {
@@ -277,13 +276,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "179bb31b627d7d51",
+  "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/helping notes/Tables.md",
-    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "testing.png",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Wolf.md",
+    "DnD stuff (add as I go)/2014/Classes/Cleric/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/helping notes",
     "Jonas/Sessions/session 0.1.md",

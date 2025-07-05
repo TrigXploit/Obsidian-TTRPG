@@ -99,23 +99,27 @@ Platinum: 0
 | <font color="#245bdb">**WIS**</font>   | `=this.WIS`          | +`=(this.WIS - 10)/2`   | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`               |
 | <font color="#de7802">**CHA**</font>   | `=this.CHA`          | +`=(this.CHA - 10)/2`   | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`               |
 >> ### Skill Checks
-| Ability               |                                   | Mod |
-| --------------------- | --------------------------------- | --- |
+| Ability               |                                   | Mod                     |
+| --------------------- | --------------------------------- | ----------------------- |
 | Acrobatics (DEX)      | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
-| Animal Handling (WIS) | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
-| Arcana (INT)          | <input type="checkbox" unchecked> | +`=((this.INT - 10)/2)`  |
+| Animal Handling (WIS) | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`   |
+| Arcana (INT)          | <input type="checkbox" unchecked> | +`=((this.INT - 10)/2)` |
 | Athletics (STR)       | <input type="checkbox" unchecked> | +`=(this.STR - 10)/2`   |
-| Deception (CHA)       | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| History (INT)         | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`  |
-| Insight (WIS)         | <input type="checkbox" unchecked>   | +`=((this.WIS - 10)/2)`  |
-| Intimidation (CHA)    | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| Investigation (INT)   | <input type="checkbox" unchecked>   | +`=((this.INT - 10)/2)`  |
-| Medicine (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
-| Nature (INT)          | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`  |
-| Perception (WIS)      | <input type="checkbox" unchecked>   | +`=((this.WIS - 10)/2)`  |
-| Performance (CHA)     | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| Persuasion (CHA)      | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| Religion (INT)        | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`  |
+| Deception (CHA)       | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`   |
+| History (INT)         | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`   |
+| Insight (WIS)         | <input type="checkbox" unchecked> | +`=((this.WIS - 10)/2)` |
+| Intimidation (CHA)    | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`   |
+| Investigation (INT)   | <input type="checkbox" unchecked> | +`=((this.INT - 10)/2)` |
+| Medicine (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`   |
+| Nature (INT)          | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`   |
+| Perception (WIS)      | <input type="checkbox" unchecked> | +`=((this.WIS - 10)/2)` |
+| Performance (CHA)     | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`   |
+| Persuasion (CHA)      | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`   |
+| Religion (INT)        | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`   |
 | Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
 | Stealth (DEX)         | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
-| Survival (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
+| Survival (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`   |
+| 
+
+
+![[testing.png]]
