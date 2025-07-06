@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
-                "mode": "preview",
+                "file": "Jonas/Characters/Wolf.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feats"
+              "title": "Wolf"
             }
           },
           {
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Feats"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -242,10 +242,10 @@
   },
   "active": "4a01b4d3d762acf5",
   "lastOpenFiles": [
-    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
-    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
+    "Jonas/Characters/Wolf.md",
     "Jonas/Characters/Robin dabank Wolf.md",
+    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "Jonas/Characters/helping notes/Inventory.md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",

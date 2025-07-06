@@ -10,7 +10,7 @@
 | Tinderbox         |     | 1           |      |                                                                                                                                    |
 | Torch             | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr                                                                                      |
 | Waterskin         | 1   | 5           |      | 0,5 L                                                                                                                              |
-|                   |     |             |      | ---                                                                                                                                |
+| ---               |     |             | ---  | ----------------------------------------------------------------                                                                   |
 | Harvvesting knife | 1   |             |      | Large machette used for harvesting components                                                                                      |
 | Arrows            | 20  | 1           |      |                                                                                                                                    |
 | Clothes           | 1   | 3           |      | common clothes                                                                                                                     |

@@ -55,6 +55,9 @@ Feats:
 >> **Class(s)** | `=this.Classes` |
 >> **Sub-Class(s)** | `=this.Sub-Class`
 >> **Feat(s)**|`=this.Feats`
+>> **Harvesting** | 
+>> **Assessment** | 1D20 + `=this.Int_bonus + 2*this.proficiency_bonus`
+>> **Carving** | 1D20 + `=this.Dex_bonus + 2*this.proficiency_bonus`
 >> **Group(s)** | `=this.AssociatedGroup` |
 >> **Current Location** | `=this.Location` |
 >
