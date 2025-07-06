@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
-                "mode": "preview",
+                "file": "Jonas/Characters/helping notes/Inventory.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Inventory"
             }
           },
           {
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/helping notes/Inventory.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Inventory"
             }
           },
           {
@@ -242,8 +242,8 @@
   },
   "active": "4a01b4d3d762acf5",
   "lastOpenFiles": [
-    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
