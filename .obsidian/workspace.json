@@ -72,7 +72,8 @@
               "title": "Wolf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Sessions/session 2.md",
+                "file": "Jonas/Characters/Wolf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of session 2"
+              "title": "Outline of Wolf"
             }
           },
           {
@@ -263,10 +264,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a01b4d3d762acf5",
+  "active": "2041a3305651ebe0",
   "lastOpenFiles": [
-    "Jonas/Sessions/session 0.1 + 1.md",
     "Jonas/Sessions/session 2.md",
+    "Jonas/Sessions/session 0.1 + 1.md",
     "Jonas/Characters/Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/helping notes/Inventory.md",
