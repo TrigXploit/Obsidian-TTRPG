@@ -26,6 +26,11 @@
 | Goblin Heart          | 1   |       |      |
 | Goblin eye            | 1   |       |      |
 | Goblin Liver          | 1   |       |      |
+| ------                | --- |       | ---  |
+| Mimic                 |     |       |      |
+|                       |     |       |      |
+|                       |     |       |      |
+|                       |     |       |      |
 
 
 ## Equipment

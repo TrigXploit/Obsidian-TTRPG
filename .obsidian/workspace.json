@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/helping notes/Tables.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolf"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -264,10 +264,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2041a3305651ebe0",
+  "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Sessions/session 2.md",
     "Jonas/Sessions/session 0.1 + 1.md",
     "Jonas/Characters/helping notes/Inventory.md",
