@@ -1,4 +1,4 @@
-#
+# Fenra
 ## inventory
 ### Backpack
 | Name              | Qty | Weight (lb) | Cost | Note                                                                                                                               |
@@ -27,9 +27,11 @@
 | Goblin eye            | 1   |       |      |
 | Goblin Liver          | 1   |       |      |
 | ------                | --- |       | ---  |
-| Mimic                 |     |       |      |
-|                       |     |       |      |
-|                       |     |       |      |
+| Mimic Teeth           | 1   |       |      |
+| Mimic Heart           | 1   |       |      |
+| Mimic Blood           | 2   |       |      |
+| Mimic Tentacle        | 1   |       |      |
+| ------                | --- |       | ---  |
 |                       |     |       |      |
 
 
@@ -85,10 +87,17 @@
  - Vex (if you hit, next attack has advantage)
 
 
+# Group stuff
+### Group Currency
+| CP  | SP  | GP  | PP  |
+| --- | --- | --- | --- |
+| 0   | 66  | 7   | 0   |
 
 
-# Aelen 
-## Aelin inventory
+
+
+## Aelen 
+### Aelin inventory
 | Name              | Qty | Weight (lb) | Cost | Note                |
 | ----------------- | --- | ----------- | ---- | ------------------- |
 | Cracked Hourglass | 1   | 7           |      |                     |
@@ -99,8 +108,8 @@
 | Noble Clothes     | 1   | 10          |      |                     |
 
 
-# Ziigy
-## Ziig inventory
+## Ziigy
+### Ziig inventory
 10 gold
 
 | Name               | Qty | Weight (lb) | Cost | Note                |
@@ -119,3 +128,4 @@
 | Token for Parents  |     |             |      |                     |
 | Common clothes     |     |             |      |                     |
 | Belt pouch         |     |             |      |                     |
+| Tommy Bow          |     |             |      |                     |

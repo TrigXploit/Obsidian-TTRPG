@@ -60,10 +60,12 @@ Feats:
 >> **Carving** | 1D20 + `=this.Dex_bonus` + `=2*this.proficiency_bonus`
 >> **Group(s)** | `=this.AssociatedGroup` |
 >> **Current Location** | `=this.Location` |
+>> ![[Tables#Group Currency]]
 >
-> > [!infobox|flex wsmall]
+>
+>> [!infobox|flex wsmall]
 >> ###### My Stuff
->> ![[Tables#currency]]
+>> ![[Tables#Group Curency]]
 >> 
 >> ![[Tables#Equipment]]
 >> ![[Tables#inventory]]

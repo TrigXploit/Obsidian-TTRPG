@@ -6,7 +6,7 @@
       {
         "id": "1d11f8d006f5fcbc",
         "type": "tabs",
-        "dimension": 24.627277747101047,
+        "dimension": 20.615846789335336,
         "children": [
           {
             "id": "c038b31b9ce98e60",
@@ -36,12 +36,13 @@
               "title": "session 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "effda21c31e92eca",
         "type": "tabs",
-        "dimension": 75.37272225289895,
+        "dimension": 79.38415321066466,
         "children": [
           {
             "id": "3b491c2ba8acdeeb",
@@ -146,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Sessions/session 2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of session 2"
             }
           },
           {
@@ -264,14 +265,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c038b31b9ce98e60",
+  "active": "4a01b4d3d762acf5",
   "lastOpenFiles": [
     "Jonas/Characters/Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Sessions/session 2.md",
     "Jonas/Sessions/session 0.1 + 1.md",
     "Jonas/Characters/helping notes/Inventory.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
