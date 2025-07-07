@@ -4,23 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "effda21c31e92eca",
+        "id": "1d11f8d006f5fcbc",
         "type": "tabs",
+        "dimension": 33.242999096657634,
         "children": [
-          {
-            "id": "4a01b4d3d762acf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Sessions/session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "session 2"
-            }
-          },
           {
             "id": "c038b31b9ce98e60",
             "type": "leaf",
@@ -35,6 +22,28 @@
               "title": "Tables"
             }
           },
+          {
+            "id": "4a01b4d3d762acf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonas/Sessions/session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "effda21c31e92eca",
+        "type": "tabs",
+        "dimension": 66.75700090334237,
+        "children": [
           {
             "id": "3b491c2ba8acdeeb",
             "type": "leaf",
@@ -63,8 +72,7 @@
               "title": "Wolf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Sessions/session 2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of session 2"
             }
           },
           {
@@ -238,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,14 +263,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c038b31b9ce98e60",
+  "active": "4a01b4d3d762acf5",
   "lastOpenFiles": [
-    "Jonas/Characters/helping notes/Inventory.md",
+    "Jonas/Sessions/session 0.1 + 1.md",
     "Jonas/Sessions/session 2.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
-    "Jonas/Sessions/session 0.1 + 1.md",
+    "Jonas/Characters/helping notes/Inventory.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",

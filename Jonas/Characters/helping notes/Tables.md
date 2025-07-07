@@ -1,4 +1,4 @@
-
+#
 ## inventory
 ### Backpack
 | Name              | Qty | Weight (lb) | Cost | Note                                                                                                                               |
@@ -72,20 +72,33 @@
 
 # Aelen 
 ## Aelin inventory
-| Name              | Qty | Weight (lb) | Cost | Note                                                                                                                               |
-| ----------------- | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Bedroll           | 1   | 7           |      |                                                                                                                                    |
-| Mess Kit          | 1   | 1           |      | Kit for making food                                                                                                                |
-| Rations           | 10  | 20          |      | 1 day supply of dried food                                                                                                         |
-| Rope Hemp (50)    | 1   | 10          |      |                                                                                                                                    |
-| Tinderbox         |     | 1           |      |                                                                                                                                    |
-| Torch             | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr                                                                                      |
-| Waterskin         | 1   | 5           |      | 0,5 L                                                                                                                              |
-| ---               |     |             | ---  | ----------------------------------------------------------------                                                                   |
-| Harvvesting knife | 1   |             |      | Large machette used for harvesting components                                                                                      |
-| Arrows            | 20  | 1           |      |                                                                                                                                    |
-| Clothes           | 1   | 3           |      | common clothes                                                                                                                     |
-| Thieves Tools     | 1   | 1           |      | a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers |
+| Name              | Qty | Weight (lb) | Cost | Note                |
+| ----------------- | --- | ----------- | ---- | ------------------- |
+| Cracked Hourglass | 1   | 7           |      |                     |
+| Rusty Manacles    | 1   | 1           |      | Kit for making food |
+| ½ water bottle    |     | 20          |      | 0.5 L               |
+| Hunting Trap      | 1   | 10          |      | Bear trap           |
+| Gaming set (dice) |     | 1           |      |                     |
+| Noble Clothes     | 1   | 10          |      |                     |
 
 
-## Aelin Equipment
+# Ziigy
+## Ziig inventory
+10 gold
+
+| Name               | Qty | Weight (lb) | Cost | Note                |
+| ------------------ | --- | ----------- | ---- | ------------------- |
+| Small knife        | 1   |             |      |                     |
+| Map of Rimming Ton | 1   |             |      | Kit for making food |
+| Pet Mouse          |     |             |      | Name. Millie        |
+| Crowbar            |     |             |      |                     |
+| Hammer             |     |             |      |                     |
+| pitons             | 10  |             |      |                     |
+| torches            | 10  |             |      |                     |
+| Tinderbox          |     |             |      |                     |
+| Rations            | 10  |             |      |                     |
+| Hemp-rope (50)     |     |             |      |                     |
+| Waterskin          |     |             |      |                     |
+| Token for Parents  |     |             |      |                     |
+| Common clothes     |     |             |      |                     |
+| Belt pouch         |     |             |      |                     |
