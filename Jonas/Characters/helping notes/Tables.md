@@ -66,3 +66,26 @@
  - Stealth / Surprise  | In combat Hide (lv 3)
  - Steady Aim (rouge lv 3)
  - Vex (if you hit, next attack has advantage)
+
+
+
+
+# Aelen 
+## Aelin inventory
+| Name              | Qty | Weight (lb) | Cost | Note                                                                                                                               |
+| ----------------- | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Bedroll           | 1   | 7           |      |                                                                                                                                    |
+| Mess Kit          | 1   | 1           |      | Kit for making food                                                                                                                |
+| Rations           | 10  | 20          |      | 1 day supply of dried food                                                                                                         |
+| Rope Hemp (50)    | 1   | 10          |      |                                                                                                                                    |
+| Tinderbox         |     | 1           |      |                                                                                                                                    |
+| Torch             | 10  | 10          |      | 20ft light & 20ft dim-light \| burns for 1 hr                                                                                      |
+| Waterskin         | 1   | 5           |      | 0,5 L                                                                                                                              |
+| ---               |     |             | ---  | ----------------------------------------------------------------                                                                   |
+| Harvvesting knife | 1   |             |      | Large machette used for harvesting components                                                                                      |
+| Arrows            | 20  | 1           |      |                                                                                                                                    |
+| Clothes           | 1   | 3           |      | common clothes                                                                                                                     |
+| Thieves Tools     | 1   | 1           |      | a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers |
+
+
+## Aelin Equipment
