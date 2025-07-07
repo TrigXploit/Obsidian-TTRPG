@@ -15,6 +15,17 @@
 | Arrows            | 20  | 1           |      |                                                                                                                                    |
 | Clothes           | 1   | 3           |      | common clothes                                                                                                                     |
 | Thieves Tools     | 1   | 1           |      | a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers |
+|                   |     |             |      |                                                                                                                                    |
+
+### Harvesting
+
+| Name                  | Qty | price | Note |
+| --------------------- | --- | ----- | ---- |
+| Vials of Goblin Glood | 3   |       |      |
+| Goblin Skin           | 1   |       |      |
+| Goblin Heart          | 1   |       |      |
+|                       |     |       |      |
+
 
 ## Equipment
 ##### Weapons

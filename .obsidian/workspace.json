@@ -6,7 +6,7 @@
       {
         "id": "1d11f8d006f5fcbc",
         "type": "tabs",
-        "dimension": 33.242999096657634,
+        "dimension": 24.627277747101047,
         "children": [
           {
             "id": "c038b31b9ce98e60",
@@ -36,13 +36,12 @@
               "title": "session 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "effda21c31e92eca",
         "type": "tabs",
-        "dimension": 66.75700090334237,
+        "dimension": 75.37272225289895,
         "children": [
           {
             "id": "3b491c2ba8acdeeb",
@@ -130,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.49999809265137
+    "width": 203.49999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "25914712cf90911d",
@@ -266,10 +266,10 @@
   },
   "active": "2041a3305651ebe0",
   "lastOpenFiles": [
+    "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Wolf.md",
     "Jonas/Sessions/session 2.md",
     "Jonas/Sessions/session 0.1 + 1.md",
-    "Jonas/Characters/Wolf.md",
-    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
