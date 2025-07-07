@@ -21,10 +21,11 @@
 
 | Name                  | Qty | price | Note |
 | --------------------- | --- | ----- | ---- |
-| Vials of Goblin Glood | 3   |       |      |
+| Vials of Goblin Glood | 5   |       |      |
 | Goblin Skin           | 1   |       |      |
 | Goblin Heart          | 1   |       |      |
-|                       |     |       |      |
+| Goblin eye            | 1   |       |      |
+| Goblin Liver          | 1   |       |      |
 
 
 ## Equipment
