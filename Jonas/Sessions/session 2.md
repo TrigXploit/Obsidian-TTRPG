@@ -7,4 +7,7 @@ I get to do a bit of harvesting on 2 goblins and on a mimic.
 We go back and talk with the duke who is surprised that a mimic is there.
 
 
-the children are annoying the people in the church listening to the sermin while Ziigy 
+the children are annoying the people in the church listening to the sermin while Ziigy said "im not allowed in churches since she has blown up a few".
+
+While Fenra helps clear the church and goblins.
+

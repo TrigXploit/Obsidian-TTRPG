@@ -6,7 +6,7 @@
       {
         "id": "1d11f8d006f5fcbc",
         "type": "tabs",
-        "dimension": 20.615846789335336,
+        "dimension": 29.92865189635749,
         "children": [
           {
             "id": "c038b31b9ce98e60",
@@ -36,13 +36,12 @@
               "title": "session 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "effda21c31e92eca",
         "type": "tabs",
-        "dimension": 79.38415321066466,
+        "dimension": 70.0713481036425,
         "children": [
           {
             "id": "3b491c2ba8acdeeb",
@@ -64,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Wolf.md",
+                "file": "Jonas/Characters/Fenra Wyvin.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Wolf"
+              "title": "Fenra Wyvin"
             }
           }
         ],
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Sessions/session 2.md",
+                "file": "Jonas/Characters/helping notes/Tables.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of session 2"
+              "title": "Outline of Tables"
             }
           },
           {
@@ -265,12 +264,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a01b4d3d762acf5",
+  "active": "c038b31b9ce98e60",
   "lastOpenFiles": [
-    "Jonas/Characters/Wolf.md",
+    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/helping notes/Tables.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Sessions/session 2.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Sessions/session 0.1 + 1.md",
     "Jonas/Characters/helping notes/Inventory.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",

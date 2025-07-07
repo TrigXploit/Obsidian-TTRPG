@@ -39,7 +39,7 @@ Feats:
 >> **AC** | `=(this.Base_AC + this.Dex_bonus)`
 >> **HP** | `=this.HP` |
 >> **Hit Dice** | `=this.Level`d`=this.Hit_Dice`  |
->> **Passive Perception** | `=(10 + this.Wis_bonus + (this.proficiency_bonus * 2))`
+>> **Passive Perception** | `=(10 + this.Wis_bonus + (this.proficiency_bonus*2))`
 >>  
 >> ###### Bio
 >>   |
@@ -77,7 +77,3 @@ Feats:
 >> ###### Attacks
 >> ![[Tables#Actions]]
 >
->
-
-
-
