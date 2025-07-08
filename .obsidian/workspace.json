@@ -65,7 +65,7 @@
               "state": {
                 "file": "Jonas/Characters/Fenra Wyvin.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Fenra Wyvin"
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Characters/Fenra Wyvin.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of Fenra Wyvin"
             }
           },
           {
@@ -264,14 +264,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c038b31b9ce98e60",
+  "active": "2041a3305651ebe0",
   "lastOpenFiles": [
-    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Fenra Wyvin.md",
+    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Sessions/session 2.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Sessions/session 0.1 + 1.md",
-    "Jonas/Characters/helping notes/Inventory.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",

@@ -1,5 +1,5 @@
 # Fenra
-## inventory
+## Fenra inventory
 ### Backpack
 | Name              | Qty | Weight (lb) | Cost | Note                                                                                                                               |
 | ----------------- | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@
 |                       |     |       |      |
 
 
-## Equipment
+## Fenra Equipment
 ##### Weapons
 | Name     | Equipped                          | Range   | Hit/DC                                                     | Damage                        | Mastery | Note |
 | -------- | --------------------------------- | ------- | ---------------------------------------------------------- | ----------------------------- | ------- | ---- |
@@ -50,7 +50,7 @@
 | --------------------------------------------------------------------------------- | --------------------------------- | ---- |
 | [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |      |
 
-## currency
+## Fenra currency
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
 | 0      | 0      | 15   | 0        |

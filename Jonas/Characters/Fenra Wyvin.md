@@ -65,10 +65,10 @@ Feats:
 >
 >> [!infobox|flex wsmall]
 >> ###### My Stuff
->> ![[Tables#Group Curency]]
+>> ![[Tables#Fenra currency]]
 >> 
->> ![[Tables#Equipment]]
->> ![[Tables#inventory]]
+>> ![[Tables#Fenra Equipment]]
+>> ![[Tables#Fenra inventory]]
 >
 >
 >> [!infobox|flex wsmall]
