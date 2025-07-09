@@ -27,3 +27,17 @@ The goons have symbols of chaotic god Samarac.
 
 
 
+
+
+we're attacked by [[Caitlyn]] 
+
+
+
+
+
+
+---
+
+
+we get to the bottom and Resse and he comes out of a door holding a knife o Elona throat.
+

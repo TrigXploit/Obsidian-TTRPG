@@ -16,7 +16,7 @@
               "state": {
                 "file": "Jonas/Sessions/Session 3.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Session 3"
@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
