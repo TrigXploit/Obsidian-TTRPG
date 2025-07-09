@@ -17,7 +17,11 @@
 - Require attunement
 - +2 to damage | when using a bow
 
+
+
 ## PC 2's items
+
+
 
 
 ## PC 3's items

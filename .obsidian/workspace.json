@@ -6,7 +6,7 @@
       {
         "id": "1d11f8d006f5fcbc",
         "type": "tabs",
-        "dimension": 45.1081359423275,
+        "dimension": 17.611716109650768,
         "children": [
           {
             "id": "c038b31b9ce98e60",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Inventory.md",
+                "file": "Jonas/Characters/helping notes/Tables.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Tables"
             }
           },
           {
@@ -36,12 +36,13 @@
               "title": "Session 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "effda21c31e92eca",
         "type": "tabs",
-        "dimension": 54.8918640576725,
+        "dimension": 82.38828389034923,
         "children": [
           {
             "id": "3b491c2ba8acdeeb",
@@ -63,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Characters/Fenra Wyvin.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Fenra Wyvin"
             }
           }
         ],
@@ -129,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51219177246094
+    "width": 322.51219177246094,
+    "collapsed": true
   },
   "right": {
     "id": "25914712cf90911d",
@@ -145,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
+                "file": "Jonas/Sessions/Session 3.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of Session 3"
             }
           },
           {
@@ -246,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,15 +265,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2041a3305651ebe0",
+  "active": "938383addbe75596",
   "lastOpenFiles": [
-    "Jonas/Characters/Fenra Wyvin.md",
+    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/helping notes/Inventory.md",
-    "Jonas/Sessions/session 2.md",
     "Jonas/Sessions/Session 3.md",
+    "Jonas/Characters/Fenra Wyvin.md",
+    "Jonas/Sessions/session 2.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
-    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Sessions/session 0.1 + 1.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
