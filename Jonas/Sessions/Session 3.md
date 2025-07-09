@@ -12,4 +12,18 @@ we get there and see he is being Healed, he tells us that his disciple was the o
 
 ### in the cathredral
 We get down there hearing "why did we have t take Ilona"
-As I go to take a peak. At who is talking
+As I go to take a peak. 
+
+After the combat we talked with a captured rouge , Kayle.
+
+
+Kayle tells us that his boss [[Caitlyn]]
+
+he tells us about his position and 
+
+
+The goons have symbols of chaotic god Samarac.
+
+
+
+
