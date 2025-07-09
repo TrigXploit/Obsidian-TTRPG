@@ -89,8 +89,17 @@
 >>>
 >>
 >>
+### Armor of House Wyvin
+- advantage on Persuasion checks, when I ask on behalf of the house
+- Armor require attunement
+- The armor can be fitted with armor piece from the catalog, without requiring additional attunement
+- armor gives +13 AC
+- light armor (1 min Don Doff)
 
-###### **Background:**
+### Braces of Archery
+
+
+### **Background:**
 3rd son of house *Wyvin* who are known for their tributes as hunters.
 He wanted to become something and choose to become a hunter like his family once was.
 he returned to the main family where he gets accepted and starts training to become a hunter.

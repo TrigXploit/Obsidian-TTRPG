@@ -6,7 +6,7 @@
       {
         "id": "1d11f8d006f5fcbc",
         "type": "tabs",
-        "dimension": 21.192052980132452,
+        "dimension": 45.1081359423275,
         "children": [
           {
             "id": "c038b31b9ce98e60",
@@ -14,26 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
-                "mode": "source",
-                "source": false
+                "file": "Jonas/Characters/helping notes/Inventory.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Inventory"
             }
           },
           {
-            "id": "4a01b4d3d762acf5",
+            "id": "938383addbe75596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Sessions/session 2.md",
+                "file": "Jonas/Sessions/Session 3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "session 2"
+              "title": "Session 3"
             }
           }
         ]
@@ -41,7 +41,7 @@
       {
         "id": "effda21c31e92eca",
         "type": "tabs",
-        "dimension": 78.80794701986756,
+        "dimension": 54.8918640576725,
         "children": [
           {
             "id": "3b491c2ba8acdeeb",
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Jonas/Characters/Robin dabank Wolf.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -65,7 +65,7 @@
               "state": {
                 "file": "Jonas/Characters/helping notes/Tables.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Tables"
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Armor of Wyvin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,12 +125,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 715.5121917724609
+    "width": 322.51219177246094
   },
   "right": {
     "id": "25914712cf90911d",
@@ -265,11 +264,13 @@
   },
   "active": "2041a3305651ebe0",
   "lastOpenFiles": [
-    "Jonas/Characters/Robin dabank Wolf.md",
-    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Fenra Wyvin.md",
-    "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Sessions/session 2.md",
+    "Jonas/Sessions/Session 3.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
+    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
+    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Sessions/session 0.1 + 1.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
@@ -289,7 +290,6 @@
     "testing.md",
     "conflict-files-obsidian-git.md",
     "testing.png",
-    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/helping notes",
     "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Eget Spil.md",
@@ -301,7 +301,6 @@
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
     "ITS Theme guide.png",
     "Backgrounds.png",
-    "Dennis/Dennis.md",
     "DnD stuff (add as I go)/2014/Classes/Cleric",
     "DnD stuff (add as I go)/2014/Classes/Rouge",
     "DnD stuff (add as I go)/2014/Classes",

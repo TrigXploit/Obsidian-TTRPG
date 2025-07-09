@@ -49,7 +49,7 @@
 | Name                                                                              | Equipped                          | Note                             |
 | --------------------------------------------------------------------------------- | --------------------------------- | -------------------------------- |
 | [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |                                  |
-| Braces of Archery                                                                 | <input type="checkbox" unchecked> | +2 to damage \| when using a bow |
+| [[Jonas/Characters/helping notes/Inventory#Braces of Archery \| Braces of Archery]]                                                                 | <input type="checkbox" unchecked> | +2 to damage \| when using a bow |
 
 
 ## Fenra currency
