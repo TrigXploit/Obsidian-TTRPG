@@ -1,10 +1,10 @@
 ## Wolf's items
 >[!column|2]
 >>[!infobox | wtall]+
->>![[Tables#inventory]]
+>>![[Tables#Fenra inventory]]
 >
 >>[!infobox| wtall]+
->>![[Tables#Equipment]]
+>>![[Tables#Fenra Equipment]]
 
 
 

@@ -46,9 +46,11 @@
 | Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 
 ##### Magic or special stuff
-| Name                                                                              | Equipped                          | Note |
-| --------------------------------------------------------------------------------- | --------------------------------- | ---- |
-| [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |      |
+| Name                                                                              | Equipped                          | Note                             |
+| --------------------------------------------------------------------------------- | --------------------------------- | -------------------------------- |
+| [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |                                  |
+| Braces of Archery                                                                 | <input type="checkbox" unchecked> | +2 to damage \| when using a bow |
+
 
 ## Fenra currency
 | Copper | Silver | Gold | Platinum |
@@ -91,12 +93,12 @@
 ### Group Currency
 | CP  | SP  | GP  | PP  |
 | --- | --- | --- | --- |
-| 0   | 66  | 7   | 0   |
+| 0   | 66  | 113 | 0   |
 
 
 
 
-## Aelen 
+## Aelen (Ray)
 ### Aelin inventory
 | Name              | Qty | Weight (lb) | Cost | Note                |
 | ----------------- | --- | ----------- | ---- | ------------------- |
@@ -108,7 +110,7 @@
 | Noble Clothes     | 1   | 10          |      |                     |
 
 
-## Ziigy
+## Ziigy (Kat)
 ### Ziig inventory
 10 gold
 
