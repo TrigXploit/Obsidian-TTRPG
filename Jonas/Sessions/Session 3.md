@@ -12,4 +12,4 @@ we get there and see he is being Healed, he tells us that his disciple was the o
 
 ### in the cathredral
 We get down there hearing "why did we have t take Ilona"
-As I go to take a peak.
+As I go to take a peak. At who is talking
