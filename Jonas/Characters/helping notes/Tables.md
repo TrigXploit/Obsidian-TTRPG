@@ -75,6 +75,7 @@
 | 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                     | 1 Action         | Touch   | -      |                                        | 1 hour         | V, S, M    |
 | 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]] | 1 Action **_R_** | 10 feet | -      |                                        | Instant        | V, S       |
 | 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                           | 1 Action **_R_** | Touch   | -      | funeral, Bless water, Dedication 1 min | Instant        | V, S, M    |
+| 1     |                                                                   |                  |         |        |                                        |                |            |
 
 ## Actions
 | Action                                                                                                                                           | Cost                                                       | Note                                                                                                                                                                                        |
@@ -99,7 +100,7 @@
 ### Group Currency
 | CP  | SP  | GP  | PP  |
 | --- | --- | --- | --- |
-| 0   | 66  | 117 | 0   |
+| 0   | 66  | 83  | 0   |
 
 
 
