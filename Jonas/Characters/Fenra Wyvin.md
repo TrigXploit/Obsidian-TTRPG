@@ -1,7 +1,7 @@
 ---
 Art: "![Robin Wolf pic.jpg]"
 Type: Player
-Level: 2
+Level: 3
 proficiency_bonus: 2
 speed: 30
 HP: 15
