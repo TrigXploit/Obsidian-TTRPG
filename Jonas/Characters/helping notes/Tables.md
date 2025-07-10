@@ -52,10 +52,10 @@
 | Longbow  | <input type="checkbox" unchecked> | 150/600 | +`= [[Wolf.md]].Dex_bonus`                                 | 1d8+`= [[Wolf.md]].Dex_bonus` | Slow    |      |
 
 ##### Magic or special stuff
-| Name                                                                              | Equipped                          | Note                             |
-| --------------------------------------------------------------------------------- | --------------------------------- | -------------------------------- |
-| [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]] | <input type="checkbox" unchecked> |                                  |
-| [[Jonas/Characters/helping notes/Inventory#Braces of Archery \| Braces of Archery]]                                                                 | <input type="checkbox" unchecked> | +2 to damage \| when using a bow |
+| Name                                                                                | Equipped                          | Note                             |
+| ----------------------------------------------------------------------------------- | --------------------------------- | -------------------------------- |
+| [[Jonas/Characters/helping notes/Inventory#Armor of House Wyvin\|Armor of Wyvin]]   | <input type="checkbox" unchecked> |                                  |
+| [[Jonas/Characters/helping notes/Inventory#Braces of Archery \| Braces of Archery]] | <input type="checkbox" unchecked> | +2 to damage \| when using a bow |
 
 
 ## Fenra currency
@@ -126,7 +126,7 @@
 | Map of Rimming Ton | 1   |             |      | Kit for making food |
 | Pet Mouse          |     |             |      | Name. Millie        |
 | Crowbar            |     |             |      |                     |
-| Hammer             |     |             |      |                     |
+| Hammer             |     |             |      |                     | 
 | pitons             | 10  |             |      |                     |
 | torches            | 10  |             |      |                     |
 | Tinderbox          |     |             |      |                     |
