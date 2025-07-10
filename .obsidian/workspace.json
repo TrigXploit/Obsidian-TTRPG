@@ -39,18 +39,14 @@
             "id": "3b491c2ba8acdeeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Characters/Robin dabank Wolf.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Robin dabank Wolf"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,13 +119,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Characters/Fenra Wyvin.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fenra Wyvin"
+              "title": "Outline"
             }
           },
           {
@@ -240,10 +235,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a01b4d3d762acf5",
+  "active": "3b491c2ba8acdeeb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Jonas/Characters/Fenra Wyvin.md",
+    "conflict-files-obsidian-git.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/Fenra Character plan.md",
     "Jonas/Characters/helping notes/Inventory.md",
