@@ -41,3 +41,7 @@ we're attacked by [[Caitlyn]]
 
 we get to the bottom and Resse and he comes out of a door holding a knife o Elona throat.
 
+
+
+---
+in the Dukes

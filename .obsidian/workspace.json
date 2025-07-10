@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Fenra Wyvin.md",
-                "mode": "preview",
-                "source": true
+                "file": "Jonas/Characters/helping notes/Tables.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Fenra Wyvin"
+              "title": "Tables"
             }
           },
           {
@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,10 +265,10 @@
   },
   "active": "938383addbe75596",
   "lastOpenFiles": [
-    "Jonas/Characters/Fenra Wyvin.md",
-    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Sessions/Session 3.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/NPC's/Reese.md",
     "Jonas/Characters/helping notes/NPC's/Caitlyn.md",
     "Jonas/Characters/helping notes/NPC's",
