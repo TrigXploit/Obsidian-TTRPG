@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
-                "mode": "source",
-                "source": false
+                "file": "Jonas/Characters/Fenra Wyvin.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Fenra Wyvin"
             }
           },
           {
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonas/Sessions/Session 3.md",
+                "file": "Jonas/Characters/Fenra Wyvin.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 3"
+              "title": "Outline of Fenra Wyvin"
             }
           },
           {
@@ -263,11 +263,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "938383addbe75596",
+  "active": "2041a3305651ebe0",
   "lastOpenFiles": [
     "Jonas/Characters/helping notes/Tables.md",
-    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Sessions/Session 3.md",
+    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/NPC's/Reese.md",
     "Jonas/Characters/helping notes/NPC's/Caitlyn.md",
