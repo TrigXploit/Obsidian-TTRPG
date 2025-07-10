@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "636b02920e113b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "3b491c2ba8acdeeb",
             "type": "leaf",
             "state": {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Jonas/Characters/Fenra Wyvin.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "cure"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Fenra Wyvin"
             }
           },
           {
@@ -254,10 +240,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "636b02920e113b3d",
+  "active": "4a01b4d3d762acf5",
   "lastOpenFiles": [
-    "Jonas/Characters/Fenra Wyvin.md",
     "conflict-files-obsidian-git.md",
+    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/Fenra Character plan.md",
     "Jonas/Characters/helping notes/Inventory.md",
