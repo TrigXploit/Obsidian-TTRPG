@@ -1,4 +1,4 @@
-We found out that Duke Horaceo spent his money on the cathedral instead of  the guards.
+SeWe found out that Duke Horaceo spent his money on the cathedral instead of  the guards.
 
 
 We go to the bridge and clear out the goblins in all of the houses / stalls. we do see a random guy waving at us while doing this.
