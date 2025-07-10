@@ -64,18 +64,18 @@
 | 0      | 0      | 15   | 0        |
 
 ## spells
-| Level | Name                                                              | Casting Time     | Range   | Hit/DC | Effect                                 | Duration       | Components |
-| ----- | ----------------------------------------------------------------- | ---------------- | ------- | ------ | -------------------------------------- | -------------- | ---------- |
-| 0     | [[1. cantrips#Light\|Light]]                                      | 1 Action         | Touch   | -      |                                        | 1 hour         | V, M       |
-| 0     | [[1. cantrips#Mending\|Mending]]                                  | 1 Minute         | Touch   | -      |                                        | Instant        | V, S, M    |
-| 0     | [[1. cantrips#Spare the Dying\|spare the dying]]                  | 1 Action         | 30 feet | -      |                                        | Up to 1 minute | V          |
-| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                     | 1 Action         | Touch   | -      | 1D8+3                                  | Instant        | V, S       |
-| 1     | [[2. 1st Lv spells#Inflict Wounds\|Inflict wounds]]               | 1 Action         | Touch   | +5     | 3d10 necrotic damage                   | Instant        | V,S        |
-| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                           | 1 Action         | 90 feet | 13 str | Bind                                   | up to 1 minute | C, V, S    |
-| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                     | 1 Action         | Touch   | -      |                                        | 1 hour         | V, S, M    |
-| 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]] | 1 Action **_R_** | 10 feet | -      |                                        | Instant        | V, S       |
-| 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                           | 1 Action **_R_** | Touch   | -      | funeral, Bless water, Dedication 1 min | Instant        | V, S, M    |
-| 1     |                                                                   |                  |         |        |                                        |                |            |
+| Level | Name                                                              | Casting Time     | Range    | Hit/DC | Effect                                                            | Duration       | Components |
+| ----- | ----------------------------------------------------------------- | ---------------- | -------- | ------ | ----------------------------------------------------------------- | -------------- | ---------- |
+| 0     | [[1. cantrips#Light\|Light]]                                      | 1 Action         | Touch    | -      |                                                                   | 1 hour         | V, M       |
+| 0     | [[1. cantrips#Mending\|Mending]]                                  | 1 Minute         | Touch    | -      |                                                                   | Instant        | V, S, M    |
+| 0     | [[1. cantrips#Spare the Dying\|spare the dying]]                  | 1 Action         | 30 feet  | -      |                                                                   | Up to 1 minute | V          |
+| 1     | [[2. 1st Lv spells#Cure Wounds\|Cure Wounds]]                     | 1 Action         | Touch    | -      | 1D8+3                                                             | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Inflict Wounds\|Inflict wounds]]               | 1 Action         | Touch    | +5     | 3d10 necrotic damage                                              | Instant        | V,S        |
+| 1     | [[2. 1st Lv spells#Entangle\|Entangle]]                           | 1 Action         | 90 feet  | 13 str | Bind                                                              | up to 1 minute | C, V, S    |
+| 1     | [[2. 1st Lv spells#Longstrider\|Longstrider]]                     | 1 Action         | Touch    | -      |                                                                   | 1 hour         | V, S, M    |
+| 1     | [[2. 1st Lv spells#Purify Food and Drink\|Purify Food and Drink]] | 1 Action **_R_** | 10 feet  | -      |                                                                   | Instant        | V, S       |
+| 1     | [[2. 1st Lv spells#Ceremony\|Ceremony]]                           | 1 Action **_R_** | Touch    | -      | funeral, Bless water, Dedication 1 min                            | Instant        | V, S, M    |
+| 1     | [[2. 1st Lv spells#Guiding Bolt\|Guiding Bolt]]                   | 1 Action         | 120 feet | +5     | Does 4d6 radiant damage, next attack against target has advantage | 1 round        | V, S       |
 
 ## Actions
 | Action                                                                                                                                           | Cost                                                       | Note                                                                                                                                                                                        |
