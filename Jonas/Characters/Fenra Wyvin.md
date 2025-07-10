@@ -4,19 +4,19 @@ Type: Player
 Level: 3
 proficiency_bonus: 2
 speed: 30
-HP: 15
+HP: 21
 Dex_bonus: 4
 Wis_bonus: 3
 Int_bonus: 2
 Con_bonus: 1
 Str_bonus: 0
 Cha_bonus: -1
-Base_AC: 14
+Base_AC: 13
 Darkvision: 60
 Hit_Dice: 8
 Classes:
-  - "[[1.Rouge]]"
-  - "[[1.Cleric]]"
+  - "lv 1 [[1.Rouge|Rouge]]"
+  - "lv 2 [[1.Cleric|Cleric]]"
 Sub-Class:
   - "[[Assassin]]"
   - "[[Hunt Domain (Heliana_s Guide to Monster Hunting)|Hunt Domain]]"
