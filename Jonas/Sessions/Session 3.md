@@ -47,3 +47,6 @@ we get to the bottom and Resse and he comes out of a door holding a knife o Elon
 in the Dukes castle we talk with the Priest and Duke.
 
 The priest tells us the book was made by dragoth nurn, 
+
+
+Lasstly I was asked by the Smithy to help with delivering him and his goods to "Spring Garden".

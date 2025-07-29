@@ -28,14 +28,8 @@
 | Name                  | Qty | price | Note |
 | --------------------- | --- | ----- | ---- |
 | Vials of Goblin Glood | 5   |       |      |
-| Goblin Skin           | 1   |       |      |
-| Goblin Heart          | 1   |       |      |
-| Goblin eye            | 1   |       |      |
 | Goblin Liver          | 1   |       |      |
 | ------                | --- |       | ---  |
-| Mimic Teeth           | 1   |       |      |
-| Mimic Heart           | 1   |       |      |
-| Mimic Blood           | 2   |       |      |
 | Mimic Tentacle        | 1   |       |      |
 | ------                | --- |       | ---  |
 |                       |     |       |      |
@@ -61,7 +55,7 @@
 ## Fenra currency
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
-| 0      | 0      | 15   | 0        |
+| 0      | 0      | 245   | 0        |
 
 ## spells
 | Level | Name                                                              | Casting Time     | Range    | Hit/DC | Effect                                                            | Duration       | Components |
@@ -78,16 +72,16 @@
 | 1     | [[2. 1st Lv spells#Guiding Bolt\|Guiding Bolt]]                   | 1 Action         | 120 feet | +5     | Does 4d6 radiant damage, next attack against target has advantage | 1 round        | V, S       |
 
 ## Actions
-| Action                                                                                                                                           | Cost                                                       | Note                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Attack                                                                                                                                           | 1 Action                                                   | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                                                                      |
-| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                          | 1 <mark style="background: #FFB86CA6;">bonus action</mark> |                                                                                                                                                                                             |
-| Shift                                                                                                                                            | 1 <mark style="background: #FFB86CA6;">bonus action</mark> | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest<br>+4 temporary hit<br>transformation lasts for 1 minute<br>Advantage on Wisdom checks<br>30ft no advantage |
-| Two-Weapon <br>Fighting<br>                                                                                                                      | 1 <mark style="background: #FFB86CA6;">bonus action</mark> |                                                                                                                                                                                             |
-| Channel Divinity:<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | -null-                                                     | <input type="checkbox" unchecked> / short rest                                                                                                                                              |
-| Ritual spells                                                                                                                                    | -null-                                                     | spell takes 10 minutes longer to cast than normal                                                                                                                                           |
-| *movement*                                                                                                                                       | Bonus / Action                                             | Hide, Dash, Shove \| Influence, Search                                                                                                                                                      |
-| *Combat*                                                                                                                                         | Bonus / Action                                             | Dodge, Disengage, Help, Ready                                                                                                                                                               |
+| Action                                                                                                                                           | Cost           | Note                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attack                                                                                                                                           | 1 Action       | [[1.Rouge#Sneak Attack\|Sneak Attack]]                                                                                                                                                      |
+| [[Hunt Domain (Heliana_s Guide to Monster Hunting)#Mark Prey 1st-level Hunt Domain feature\|Mark Prey]]                                          | 1 bonus action |                                                                                                                                                                                             |
+| Shift                                                                                                                                            | 1 bonus action | <input type="checkbox" unchecked> <input type="checkbox" unchecked> / Long rest<br>+4 temporary hit<br>transformation lasts for 1 minute<br>Advantage on Wisdom checks<br>30ft no advantage |
+| Two-Weapon <br>Fighting<br>                                                                                                                      | 1 bonus action |                                                                                                                                                                                             |
+| Channel Divinity:<br>[[Hunt Domain (Heliana_s Guide to Monster Hunting)#Channel Divinity Honed Instincts 2nd-level Hunt Domain\|Honed Instenct]] | -null-         | <input type="checkbox" unchecked> / short rest                                                                                                                                              |
+| Ritual spells                                                                                                                                    | -null-         | spell takes 10 minutes longer to cast than normal                                                                                                                                           |
+| *movement*                                                                                                                                       | Bonus / Action | Hide, Dash, Shove \| Influence, Search                                                                                                                                                      |
+| *Combat*                                                                                                                                         | Bonus / Action | Dodge, Disengage, Help, Ready                                                                                                                                                               |
 
 ---
  how to get advangate:
