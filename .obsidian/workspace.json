@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
-                "mode": "source",
-                "source": false
+                "file": "Jonas/Characters/Fenra Wyvin.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Fenra Wyvin"
             }
           },
           {
@@ -264,10 +264,10 @@
   },
   "active": "938383addbe75596",
   "lastOpenFiles": [
-    "Jonas/Characters/helping notes/Tables.md",
-    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Fenra Wyvin.md",
+    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Sessions/session 4.md",
+    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Sessions/Session 3.md",
     "Jonas/Characters/Fenra Character plan.md",
     "conflict-files-obsidian-git.md",

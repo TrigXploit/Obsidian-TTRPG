@@ -94,9 +94,10 @@
 ### Group Currency
 | CP  | SP  | GP  | PP  |
 | --- | --- | --- | --- |
-| 0   | 66  | 220 | 0   |
-
-
+| 0   | 66  | 248 | 0   |
+Festival Tickets
+[[Tables#Aelen (Ray)]]
+[[Tables#Ziigy (Kat)]]
 
 
 ## Aelen (Ray)
