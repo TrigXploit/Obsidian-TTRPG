@@ -55,7 +55,7 @@
 ## Fenra currency
 | Copper | Silver | Gold | Platinum |
 | ------ | ------ | ---- | -------- |
-| 0      | 0      | 245   | 0        |
+| 0      | 0      | 15   | 0        |
 
 ## spells
 | Level | Name                                                              | Casting Time     | Range    | Hit/DC | Effect                                                            | Duration       | Components |
@@ -94,7 +94,7 @@
 ### Group Currency
 | CP  | SP  | GP  | PP  |
 | --- | --- | --- | --- |
-| 0   | 66  | 83  | 0   |
+| 0   | 66  | 220 | 0   |
 
 
 
@@ -115,20 +115,22 @@
 ### Ziig inventory
 10 gold
 
-| Name               | Qty | Weight (lb) | Cost | Note                |
-| ------------------ | --- | ----------- | ---- | ------------------- |
-| Small knife        | 1   |             |      |                     |
-| Map of Rimming Ton | 1   |             |      | Kit for making food |
-| Pet Mouse          |     |             |      | Name. Millie        |
-| Crowbar            |     |             |      |                     |
-| Hammer             |     |             |      |                     | 
-| pitons             | 10  |             |      |                     |
-| torches            | 10  |             |      |                     |
-| Tinderbox          |     |             |      |                     |
-| Rations            | 10  |             |      |                     |
-| Hemp-rope (50)     |     |             |      |                     |
-| Waterskin          |     |             |      |                     |
-| Token for Parents  |     |             |      |                     |
-| Common clothes     |     |             |      |                     |
-| Belt pouch         |     |             |      |                     |
-| Tommy Bow          |     |             |      |                     |
+| Name               | Qty | Weight (lb) | Cost | Note                |     |
+| ------------------ | --- | ----------- | ---- | ------------------- | --- |
+| Small knife        | 1   |             |      |                     |     |
+| Map of Rimming Ton | 1   |             |      | Kit for making food |     |
+| Pet Mouse          |     |             |      | Name. Millie        |     |
+| Crowbar            |     |             |      |                     |     |
+| Hammer             |     |             |      |                     |     |
+| pitons             | 10  |             |      |                     |     |
+| torches            | 10  |             |      |                     |     |
+| Tinderbox          |     |             |      |                     |     |
+| Rations            | 10  |             |      |                     |     |
+| Hemp-rope (50)     |     |             |      |                     |     |
+| Waterskin          |     |             |      |                     |     |
+| Token for Parents  |     |             |      |                     |     |
+| Common clothes     |     |             |      |                     |     |
+| Belt pouch         |     |             |      |                     |     |
+| Tommy Bow          |     |             |      |                     |     |
+| Mystery potion     |     |             |      |                     |     |
+| Health Potion      |     |             |      |                     |     |
