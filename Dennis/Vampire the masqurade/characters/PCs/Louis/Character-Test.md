@@ -28,7 +28,7 @@ attributes:
     dexterity: 3
     stamina: 3
   social:
-    Charisma: 3
+    Charisma: 4
     manipulation: 3
     appearance: 3
   mental:

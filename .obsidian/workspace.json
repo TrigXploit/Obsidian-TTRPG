@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "effda21c31e92eca",
+        "id": "1d11f8d006f5fcbc",
         "type": "tabs",
         "children": [
           {
-            "id": "c038b31b9ce98e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Characters/helping notes/Inventory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inventory"
-            }
-          },
-          {
-            "id": "4a01b4d3d762acf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Characters/helping notes/Tables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tables"
-            }
-          },
-          {
-            "id": "3b491c2ba8acdeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jonas/Characters/Fenra Character plan.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Fenra Character plan"
-            }
-          },
-          {
-            "id": "1969ac73ffffb810",
+            "id": "938383addbe75596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Character-Test"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heli",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.49999809265137
+    "width": 424.51219177246094
   },
   "right": {
     "id": "25914712cf90911d",
@@ -230,20 +187,19 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,53 +207,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1969ac73ffffb810",
+  "active": "938383addbe75596",
   "lastOpenFiles": [
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Jonas/Characters/Fenra Wyvin.md",
-    "Jonas/Sessions/session 4.md",
     "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Jonas/Characters/helping notes/Inventory.md",
-    "Jonas/Characters/Fenra Character plan.md",
-    "DnD stuff (add as I go)/2014/Classes/Cleric/1.Cleric.md",
+    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
+    "Backgrounds.md",
+    "0. Testing/how to guides/how to yaml.md",
+    "0. Testing/how to guides/how to dataview.md",
+    "0. Testing/how to guides/how to guides.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Dennis.md",
+    "Jonas/Sessions/session 4.md",
     "Jonas/Sessions/Session 3.md",
-    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
+    "Jonas/Characters/Fenra Character plan.md",
     "conflict-files-obsidian-git.md",
+    "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/NPC's/Reese.md",
     "Jonas/Characters/helping notes/NPC's/Caitlyn.md",
     "Jonas/Characters/helping notes/NPC's",
     "Jonas/Sessions/session 2.md",
     "Jonas/Sessions/session 0.1 + 1.md",
-    "Jonas/Characters/Wolf.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
+    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
     "DnD stuff (add as I go)/2014/spells/Spells.md",
-    "0. Testing/how to guides/how to yaml.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters",
     "DnD stuff (add as I go)/X-tra modules",
     "DnD stuff (add as I go)/2014/Items/Homebrew.md",
-    "0. Testing/how to guides/how to guides.md",
     "a.md",
-    "Jonas/Sessions/session 0.1.md",
     "0. Testing/how to guides/How to Meta-Data.md",
-    "0. Testing/how to guides/how to infobox.md",
-    "0. Testing/how to guides/how to dataview.md",
-    "DnD stuff (add as I go)/2014/Classes/Rouge/1.Rouge.md",
-    "testing.md",
     "testing.png",
-    "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Jonas/Characters/helping notes",
-    "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "ITS Theme guide.png",
     "Backgrounds.png",
     "DnD stuff (add as I go)/2014/Classes/Cleric",
     "DnD stuff (add as I go)/2014/Classes/Rouge",
     "Jonas/Characters/character profile pic.png",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Pasted Image 20250418210943_386.png",
     "Pasted Image 20250524195158_290.png",
     "character sheet Temp.png",
