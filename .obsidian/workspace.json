@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas/Characters/Fenra Wyvin.md",
-                "mode": "preview",
-                "source": false
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Fenra Wyvin"
+              "title": "Character-Test"
             }
           }
         ]
@@ -214,8 +214,9 @@
   },
   "active": "938383addbe75596",
   "lastOpenFiles": [
-    "Jonas/Characters/helping notes/Inventory.md",
+    "0. Testing/how to guides/how to dataview.md",
     "Jonas/Characters/Fenra Wyvin.md",
+    "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Fenra Character plan.md",
     "Jonas/Characters/helping notes/Tables.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
@@ -226,7 +227,6 @@
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Backgrounds.md",
     "0. Testing/how to guides/how to yaml.md",
-    "0. Testing/how to guides/how to dataview.md",
     "0. Testing/how to guides/how to guides.md",
     "Dennis/Dennis.md",
     "Jonas/Sessions/session 4.md",
