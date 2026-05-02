@@ -30,9 +30,9 @@ attributes:
     stamina: 4
   social:
     overall: 3 (+3)
-    Charisma: 2
-    manipulation: 1
-    appearance: 3
+    Charisma: 1
+    manipulation: 3
+    appearance: 2
   mental:
     overall: 5 (+3)
     perception: 3
@@ -40,51 +40,59 @@ attributes:
     wits: 3
 abilities:
   talents:
-    overall: 13
-    Alertness: 0
-    Athletics: 0
-    Awareness: 0
-    brawl: 3
+    Alertness: 2
+    Athletics: 3
+    Awareness: 1
+    brawl: 4
     empathy: 0
     expression: 0
     intimidation: 0
     leadership: 0
-    streetwise: 2
-    subterfuge: 0
+    streetwise: 1
+    subterfuge: 2
   skills:
-    overall: 9
     Animal-ken: 0
     Crafts: 0
-    Drive: 0
+    Drive: 1
     eiquette: 0
     firearms: 0
     larceny: 0
-    melee: 3
-    performance: 0
+    melee: 1
+    performance: 3
     stealth: 2
     survival: 2
   knowledges:
-    overall: 5
     Academics: 1
     Computer: 0
     Finance: 0
     investigation: 2
     law: 0
-    medicine: 1
+    medicine: 2
     occult: 0
     politics: 0
     secience: 0
     technology: 0
 disciplines:
   - discipline: protean
-    value: 3
-  - discipline: fortitude
     value: 2
-  - discipline: animalism
+  - discipline: fortitude
     value: 1
+  - discipline: animalism
+    value: 0
 backgrounds:
-  resources: 2
-  allies: 1
+  overall: 5
+  allies: 0
+  Alternative identity: 1
+  Contacts: 2
+  Domain: 0
+  Fame: 1
+  Herd: 1
+  Influence: 0
+  Mentor: 0
+  Resources: 1
+  Retainers: 0
+  Status: 0
+  
 virtues:
   conscience: 4
   self_control: 3
