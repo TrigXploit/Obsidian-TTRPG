@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
-                "mode": "preview",
-                "source": true
+                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Character-Test"
             }
           }
         ]
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 424.51219177246094
+    "width": 245.5
   },
   "right": {
     "id": "25914712cf90911d",
@@ -216,24 +215,25 @@
   },
   "active": "938383addbe75596",
   "lastOpenFiles": [
-    "2025-07-01.md",
-    "Dennis/Vampire the masqurade/Clans/Clans.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/Clans/Clans.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
+    "Dennis/Dennis.md",
+    "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+    "2025-07-01.md",
     "0. Testing/how to guides/how to dataview.md",
     "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Fenra Character plan.md",
     "Jonas/Characters/helping notes/Tables.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Backgrounds.md",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/how to guides.md",
-    "Dennis/Dennis.md",
     "Jonas/Sessions/session 4.md",
     "Jonas/Sessions/Session 3.md",
     "conflict-files-obsidian-git.md",
@@ -244,8 +244,6 @@
     "Jonas/Sessions/session 2.md",
     "Jonas/Sessions/session 0.1 + 1.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats/Feats.md",
-    "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes/Hunt Domain (Heliana_s Guide to Monster Hunting).md",
-    "DnD stuff (add as I go)/2014/spells/Spells.md",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Feats",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters",

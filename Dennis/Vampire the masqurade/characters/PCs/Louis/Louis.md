@@ -2,7 +2,7 @@ Underground fighter
 
 
 ## Sire
-- His Sire is the sherif of the town.
+- His Sire is .
 - He is also his "trainer"
 - He uses Louis to rig matches often instructing him to lose the match.
 	-  This is done so his sire can gain information or favors in exchange for money or winning a bet.

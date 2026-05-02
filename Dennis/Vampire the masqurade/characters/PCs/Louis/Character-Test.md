@@ -23,52 +23,58 @@ health:
   incapacitated: 0
 current_health: wounded
 attributes:
-  physical:
-    strength: 3
-    dexterity: 3
-    stamina: 3
+  physical: 
+    overall: 7 (+3)
+    strength: 4
+    dexterity: 2
+    stamina: 4
   social:
-    Charisma: 4
-    manipulation: 3
+    overall: 3 (+3)
+    Charisma: 2
+    manipulation: 1
     appearance: 3
   mental:
+    overall: 5 (+3)
     perception: 3
-    intelligence: 3
+    intelligence: 2
     wits: 3
 abilities:
   talents:
-    Alertness: 1
-    Athletics: 2
-    Awareness: 3
-    brawl: 4
-    empathy: 5
-    expression: 4
-    intimidation: 3
-    leadership: 2
-    streetwise: 1
-    subterfuge: 2
+    overall: 13
+    Alertness: 0
+    Athletics: 0
+    Awareness: 0
+    brawl: 3
+    empathy: 0
+    expression: 0
+    intimidation: 0
+    leadership: 0
+    streetwise: 2
+    subterfuge: 0
   skills:
-    Animal-ken: 1
-    Crafts: 2
-    Drive: 3
-    eiquette: 4
-    firearms: 5
-    larceny: 4
+    overall: 9
+    Animal-ken: 0
+    Crafts: 0
+    Drive: 0
+    eiquette: 0
+    firearms: 0
+    larceny: 0
     melee: 3
-    performance: 2
-    stealth: 1
+    performance: 0
+    stealth: 2
     survival: 2
   knowledges:
+    overall: 5
     Academics: 1
-    Computer: 2
-    Finance: 3
-    investigation: 4
-    law: 5
-    medicine: 4
-    occult: 3
-    politics: 2
-    secience: 1
-    technology: 2
+    Computer: 0
+    Finance: 0
+    investigation: 2
+    law: 0
+    medicine: 1
+    occult: 0
+    politics: 0
+    secience: 0
+    technology: 0
 disciplines:
   - discipline: protean
     value: 3
