@@ -80,23 +80,23 @@ disciplines:
   - discipline: animalism
     value: 0
 backgrounds:
-  overall: 5
-  allies: 0
+  allies: 1
   Alternative identity: 1
-  Contacts: 2
+  Contacts: 0
   Domain: 0
-  Fame: 1
+  Fame: 0
   Herd: 1
   Influence: 0
   Mentor: 0
-  Resources: 1
+  Resources: 2
   Retainers: 0
   Status: 0
   
 virtues:
-  conscience: 4
-  self_control: 3
-  courage: 5
+  overall: 15 (+7 in flaws allowed)
+  conscience: 3
+  self_control: 4
+  courage: 3
 merits:
   - name: big
     points: 3
