@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "source",
+                "file": "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character-Test"
+              "title": "Character"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Stifinder"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Søg"
             }
           },
           {
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,12 +201,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Åbn hurtig skifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn fastgjorte kommandoer": false,
+      "bases:Opret ny base": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
@@ -214,15 +216,18 @@
   },
   "active": "938383addbe75596",
   "lastOpenFiles": [
+    "2025-07-01.md",
+    "Dennis/Vampire the masqurade/Clans/Clans.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
     "0. Testing/how to guides/how to dataview.md",
     "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Fenra Character plan.md",
     "Jonas/Characters/helping notes/Tables.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Backgrounds.md",
@@ -245,9 +250,6 @@
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters/Sub classes",
     "DnD stuff (add as I go)/X-tra modules/Heliana's Guide to monsters",
     "DnD stuff (add as I go)/X-tra modules",
-    "DnD stuff (add as I go)/2014/Items/Homebrew.md",
-    "a.md",
-    "0. Testing/how to guides/How to Meta-Data.md",
     "testing.png",
     "Jonas/Characters/helping notes",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
