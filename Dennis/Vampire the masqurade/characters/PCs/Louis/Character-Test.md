@@ -21,9 +21,9 @@ health:
   mauled: -2
   crippled: -5
   incapacitated: 0
-current_health: wounded
+current_health: injured
 attributes:
-  physical: 
+  physical:
     overall: 7 (+3)
     strength: 4
     dexterity: 2
@@ -91,7 +91,6 @@ backgrounds:
   Resources: 2
   Retainers: 0
   Status: 0
-  
 virtues:
   overall: 15 (+7 in flaws allowed)
   conscience: 3

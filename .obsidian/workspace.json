@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
-                "mode": "preview",
-                "source": false
+                "file": "Jonas/Characters/Fenra Wyvin.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Character-Test"
+              "title": "Fenra Wyvin"
+            }
+          },
+          {
+            "id": "aaac7edd8527e53f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Ny fane"
             }
           }
         ]
@@ -215,27 +225,28 @@
   },
   "active": "938383addbe75596",
   "lastOpenFiles": [
-    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
+    "Jonas/Characters/helping notes/Tables.md",
+    "Jonas/Characters/Fenra Wyvin.md",
+    "Jonas/Sessions/Session 3.md",
+    "Dennis/Dennis.md",
+    "Backgrounds.png",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Character-Test.md",
+    "Dennis/Vampire the masqurade/characters/PCs/Louis/Louis.md",
     "Dennis/Vampire the masqurade/Clans/Clans.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Untitled.md",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Loui image.jpg",
     "Dennis/Vampire the masqurade/characters/PCs/Louis/Inventory.md",
-    "Dennis/Dennis.md",
     "Peter/Schemes of Innistrad/Arius Tempest Deuskin/Character.md",
     "2025-07-01.md",
     "0. Testing/how to guides/how to dataview.md",
-    "Jonas/Characters/Fenra Wyvin.md",
     "Jonas/Characters/helping notes/Inventory.md",
     "Jonas/Characters/Fenra Character plan.md",
-    "Jonas/Characters/helping notes/Tables.md",
     "Jonas/Characters/helping notes/Robin Wolf pic.jpg",
     "Jonas/Characters/helping notes/5E_CharacterSheet_Fillable.pdf",
     "Backgrounds.md",
     "0. Testing/how to guides/how to yaml.md",
     "0. Testing/how to guides/how to guides.md",
     "Jonas/Sessions/session 4.md",
-    "Jonas/Sessions/Session 3.md",
     "conflict-files-obsidian-git.md",
     "Jonas/Characters/Robin dabank Wolf.md",
     "Jonas/Characters/helping notes/NPC's/Reese.md",
@@ -252,7 +263,6 @@
     "Jonas/Characters/helping notes",
     "Jonas/Characters/DnD_2024_Character-Sheet-Fillable.pdf",
     "ITS Theme guide.png",
-    "Backgrounds.png",
     "DnD stuff (add as I go)/2014/Classes/Cleric",
     "DnD stuff (add as I go)/2014/Classes/Rouge",
     "Jonas/Characters/character profile pic.png",
